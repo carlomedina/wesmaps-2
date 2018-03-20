@@ -1,0 +1,1414 @@
+instructor,time,location,maxcap,srmajor,jrmajor,available,grad,srnon,jrnon,so,fr,ispoi,code,sem,title,iscross
+"Aissa,Abderrahman",.MTWRF. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,ARAB101,Fall2018,Elementary Arabic I,FALSE
+"Aissa,Abderrahman",.MTWR.. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,5,4,6,3,FALSE,ARAB201,Fall2018,Intermediate Arabic I,FALSE
+"Aissa,Abderrahman",.M.W.F. 11:50AM-12:40PM;,TBA,15,0,0,15,NA,6,6,3,0,FALSE,ARAB301,Fall2018,Advanced Arabic I,FALSE
+"Aissa,Abderrahman",.MTWRF. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,ARAB102,Spring2019,Elementary Arabic II,FALSE
+"Aissa,Abderrahman",.MTWR.. 11:50AM-12:40PM;,TBA,18,0,0,18,NA,0,6,10,2,FALSE,ARAB202,Spring2019,Intermediate Arabic II,FALSE
+"Aksamija,Nadja",..T.R.. 10:20AM-11:40AM;,TBA,25,2,2,25,NA,2,2,7,10,FALSE,ARHA127,Fall2018,Venice and the Renaissance,FALSE
+"Siry,Joseph M.",.M.W... 01:20PM-02:40PM;,TBA,60,5,5,60,NA,5,5,20,20,FALSE,ARHA151,Fall2018,European Architecture to 1750,TRUE
+"Katz,Melissa R.",..T.R.. 02:50PM-04:10PM;,TBA,25,3,3,25,NA,3,3,7,6,FALSE,ARHA211,Fall2018,"Early Medieval Art: Judaism, Christianity, and Islam in the Mediterranean, 300--1200",TRUE
+"Aksamija,Nadja",..T.R.. 01:20PM-02:40PM;,TBA,30,4,4,30,NA,3,3,8,8,FALSE,ARHA233,Fall2018,Art and Culture of the Italian Baroque,FALSE
+"Kuenzli,Katherine M.",.M.W... 02:50PM-04:10PM;,TBA,30,4,4,30,NA,5,5,6,6,FALSE,ARHA240,Fall2018,Modernism and Modernity in 19th-Century French Painting,TRUE
+"Grace,Claire",..T.R.. 01:20PM-02:40PM;,TBA,24,6,6,24,NA,3,3,4,2,FALSE,ARHA251,Fall2018,Artists Design Exhibitions,FALSE
+"Grace,Claire",..T.R.. 08:50AM-10:10AM;,TBA,35,9,8,35,NA,2,2,7,7,FALSE,ARHA253,Fall2018,Art After 1945,TRUE
+"Siry,Joseph M.",.M.W.F. 09:50AM-10:40AM;,TBA,60,10,10,60,NA,15,15,5,5,FALSE,ARHA258,Fall2018,Contemporary World Architecture,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,19,4,4,19,NA,2,2,4,3,FALSE,ARHA284,Fall2018,Buddhist Art and Architecture in East Asia,TRUE
+"Kuenzli,Katherine M.",.M.W... 10:50AM-12:10PM;,TBA,15,4,4,15,NA,4,3,0,NA,FALSE,ARHA339,Fall2018,Modernism and the Total Work of Art,TRUE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,12,4,4,12,0,2,2,0,NA,FALSE,ARHA379,Fall2018,Sacred Landscapes of Japan,TRUE
+"Wagoner,Phillip B.",.....F. 01:20PM-04:10PM;,TBA,14,4,3,14,NA,4,2,1,NA,FALSE,ARHA382,Fall2018,Treasure-Trove: Numismatics and the Archaeology of Money,TRUE
+"Aksamija,Nadja    Kuenzli,Katherine M.",.M.W... 10:50AM-12:10PM;,TBA,44,4,4,44,NA,6,5,13,12,FALSE,ARHA110,Spring2019,Introduction to Western Art: Renaissance to Modern,FALSE
+"Aksamija,Nadja",.M.W... 01:20PM-02:40PM;,TBA,30,4,4,30,NA,3,3,8,8,FALSE,ARHA224,Spring2019,Italian Art and Architecture of the 16th Century,FALSE
+"Parslow,Christopher",..T.R.. 02:50PM-04:10PM;,TBA,19,3,3,19,NA,4,4,3,2,FALSE,CCIV234,Spring2019,Art and Society in Ancient Pompeii,TRUE
+"Gottschalk,Peter S.",..T.R.. 08:50AM-10:10AM;,TBA,18,2,2,18,NA,4,4,6,0,FALSE,RELI291,Spring2019,"From Jerusalem to Ground Zero: Muslim, Jewish, Christian, Sioux, and Hindu Notions of Sacredness",TRUE
+"Kuenzli,Katherine M.",.M.W... 02:50PM-04:10PM;,TBA,30,4,4,30,NA,4,4,8,6,FALSE,ARHA241,Spring2019,"Introduction to European Avant-Garde, 1880--1940",TRUE
+"Siry,Joseph M.",.M.W... 01:20PM-02:40PM;,TBA,40,5,5,40,NA,5,5,10,10,FALSE,ARHA246,Spring2019,"American Architecture and Urbanism, 1770--1914",TRUE
+"Grace,Claire",..T.R.. 08:50AM-10:10AM;,TBA,35,9,8,35,NA,2,2,7,7,FALSE,ARHA252,Spring2019,Contemporary Art Since 1980,TRUE
+"Siry,Joseph M.",.M.W.F. 09:50AM-10:40AM;,TBA,60,10,10,60,NA,10,10,10,10,FALSE,ARHA254,Spring2019,Architecture of the 20th Century,TRUE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,19,4,4,19,NA,2,2,4,3,FALSE,ARHA276,Spring2019,Art in Taiwan Under Japan,TRUE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,19,4,4,19,NA,2,2,4,3,FALSE,ARHA279,Spring2019,Arts of East Asia: From Yangshao Spirals to Erotic Woodblock Prints,FALSE
+"Wagoner,Phillip B.",..T.R.. 01:20PM-02:40PM;,TBA,24,5,5,24,NA,5,5,4,0,FALSE,ARHA286,Spring2019,Empire and Erotica: Twenty-three Masterworks of Indian Painting,FALSE
+"Katz,Melissa R.",..T.R.. 02:50PM-04:10PM;,TBA,16,4,4,16,NA,4,4,0,NA,FALSE,ARHA310,Spring2019,"Muslims, Jews, and Christians: Getting Along in Medieval Spain",TRUE
+"Grace,Claire",..T.R.. 01:20PM-02:40PM;,TBA,15,5,4,15,NA,2,2,2,0,FALSE,AMST361,Spring2019,Thresholds of Art and Activism Since the 1960s,TRUE
+"Randall,Julia A.",.M.W... 10:00AM-12:30PM;,TBA,25,NA,NA,25,NA,NA,4,8,13,FALSE,ARST131,Fall2018,Drawing I,FALSE
+"TenEyck,Kate",..T.R.. 06:00PM-08:30PM;,TBA,25,0,0,25,NA,3,4,9,9,FALSE,ARST131,Fall2018,Drawing I,FALSE
+STAFF,..T.R.. 09:00AM-11:30AM;,TBA,25,0,0,25,NA,3,4,9,9,FALSE,ARST131,Fall2018,Drawing I,FALSE
+"Chenier,Christopher James",.M.W... 10:00AM-12:30PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST190,Fall2018,Digital Art,FALSE
+"Schiff,Jeffrey",.M.W... 01:20PM-03:50PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST223,Fall2018,Topics in Studio Art: Information,FALSE
+"Huge,Elijah",..T.R.. 09:00AM-11:30AM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST233,Fall2018,Studies in Computer-based Modelling and Digital Fabrication,FALSE
+"Huge,Elijah",..T.R.. 01:20PM-03:50PM;,TBA,14,0,0,14,NA,2,4,8,0,FALSE,ARST235,Fall2018,Architecture I,FALSE
+"Schorr,David",.M.W... 01:20PM-03:50PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST237,Fall2018,Printmaking,FALSE
+"Telfair,Tula",..T.R.. 09:00AM-11:30AM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST239,Fall2018,Painting I,FALSE
+"Telfair,Tula",..T.R.. 01:20PM-03:50PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST239,Fall2018,Painting I,FALSE
+"Schorr,David",.M..... 07:30PM-10:00PM; ...W... 06:30PM-08:00PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST242,Fall2018,Typography,FALSE
+"Schiff,Jeffrey",.M.W... 10:00AM-12:30PM;,TBA,14,1,1,14,NA,0,0,6,6,FALSE,ARST245,Fall2018,Sculpture I,FALSE
+"Rudensky,Sasha",..T.R.. 09:00AM-11:30AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST251,Fall2018,Photography I,FALSE
+STAFF,TBA;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST253,Fall2018,Digitial Photography I,FALSE
+"Shinohara,Keiji",..T.R.. 09:00AM-11:30AM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST260,Fall2018,Introduction to Sumi-e Painting,TRUE
+"Shinohara,Keiji",..T.R.. 01:20PM-03:50PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST261,Fall2018,Alternative Printmaking: Beginning Japanese Woodblock Technique,TRUE
+"Randall,Julia A.",.M.W... 01:20PM-03:50PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST332,Fall2018,Drawing II,FALSE
+"TenEyck,Kate",..T.R.. 09:00AM-11:30AM;,TBA,25,0,0,25,NA,2,5,8,10,FALSE,ARST131,Spring2019,Drawing I,FALSE
+STAFF,.M.W... 10:00AM-12:30PM;,TBA,25,0,0,25,NA,2,5,8,10,FALSE,ARST131,Spring2019,Drawing I,FALSE
+STAFF,.M.W... 01:20PM-03:50PM;,TBA,25,0,0,25,NA,2,5,8,10,FALSE,ARST131,Spring2019,Drawing I,FALSE
+"Huge,Elijah",..T.R.. 01:20PM-03:50PM;,TBA,14,0,2,14,NA,1,1,5,5,FALSE,ARST235,Spring2019,Architecture I,FALSE
+"Telfair,Tula",..T.R.. 01:20PM-03:50PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST239,Spring2019,Painting I,FALSE
+"Schorr,David",.M..... 07:30PM-10:00PM; ....R.. 06:00PM-08:30PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST243,Spring2019,Graphic Design,FALSE
+"Schiff,Jeffrey",.M.W... 10:00AM-12:30PM;,TBA,14,1,2,14,NA,0,1,5,5,FALSE,ARST245,Spring2019,Sculpture I,FALSE
+"Rudensky,Sasha",..T.R.. 01:20PM-03:50PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST251,Spring2019,Photography I,FALSE
+"Shinohara,Keiji",..T.R.. 01:20PM-03:50PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST260,Spring2019,Introduction to Sumi-e Painting,TRUE
+"Chenier,Christopher James",.M.W... 10:00AM-12:30PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST285,Spring2019,"Generative Art, Computational Media, and Creative Coding",TRUE
+"Huge,Elijah",..T.R.. 09:00AM-11:30AM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST336,Spring2019,Architecture II,FALSE
+"Schorr,David",.M.W... 01:20PM-03:50PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST338,Spring2019,Printmaking II,FALSE
+"Telfair,Tula",..T.R.. 09:00AM-11:30AM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST340,Spring2019,"Painting II: The Shifting Landscapes of the Mind, Nature, and History",TRUE
+"Schiff,Jeffrey",.M.W... 01:20PM-03:50PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST346,Spring2019,Sculpture II,FALSE
+"Rudensky,Sasha",..T.R.. 09:00AM-11:30AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ARST352,Spring2019,Photography II,FALSE
+"Zhu,Xiaomiao",...W... 07:30PM-08:20PM;,TBA,26,0,0,26,NA,0,0,8,18,FALSE,CHIN101,Fall2018,Chinese Character Writing,FALSE
+"Zhu,Xiaomiao",.MTWRF. 10:50AM-11:40AM;,TBA,12,0,0,12,NA,0,1,3,8,FALSE,CHIN103,Fall2018,Elementary Chinese I,FALSE
+"Zhu,Xiaomiao",.MTWRF. 11:50AM-12:40PM;,TBA,12,1,2,12,NA,1,1,3,4,FALSE,CHIN103,Fall2018,Elementary Chinese I,FALSE
+"Liu,Mengjun",.M.W.F. 01:20PM-02:10PM;,TBA,12,0,0,12,NA,0,2,4,6,FALSE,CHIN105,Fall2018,Elementary Chinese for Heritage Learners,FALSE
+"Liu,Mengjun",.M.WRF. 09:50AM-10:40AM;,TBA,12,1,3,12,NA,0,0,5,3,FALSE,CHIN205,Fall2018,Intermediate Chinese I,FALSE
+"Liu,Mengjun",.M.W.F. 10:50AM-11:40AM;,TBA,18,6,2,18,NA,4,2,2,2,FALSE,CHIN217,Fall2018,Third-Year Chinese I,FALSE
+"Huang,Yu-ting",.M.W... 08:20AM-09:40AM;,TBA,15,3,3,15,NA,3,2,2,2,FALSE,CHIN221,Fall2018,Fourth-Year Chinese I,FALSE
+"Zhu,Xiaomiao",...W... 07:30PM-08:20PM;,TBA,26,0,0,26,NA,0,0,8,18,FALSE,CHIN102,Spring2019,Chinese Character Writing,FALSE
+"Zhu,Xiaomiao",.MTWRF. 08:50AM-09:40AM;,TBA,12,1,1,12,NA,1,1,3,5,FALSE,CHIN104,Spring2019,Elementary Chinese II,FALSE
+"Zhu,Xiaomiao",.MTWRF. 09:50AM-10:40AM;,TBA,12,1,1,12,NA,1,1,3,5,FALSE,CHIN104,Spring2019,Elementary Chinese II,FALSE
+"Liu,Mengjun",.M.WRF. 08:50AM-09:40AM;,TBA,12,1,3,12,NA,0,0,5,3,FALSE,CHIN206,Spring2019,Intermediate Chinese II,FALSE
+"Liu,Mengjun",.M.W.F. 10:50AM-11:40AM;,TBA,18,6,2,18,NA,4,2,2,2,FALSE,CHIN218,Spring2019,Third-Year Chinese II,FALSE
+"Szegedy-Maszak,Andrew",..T.R.. 08:50AM-10:10AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,"Three Great Myths: Prometheus, Persephone, and Dionysus (FYS)",FALSE
+"Cameron,Ron",..T.R.. 02:50PM-04:10PM;,TBA,20,0,4,20,NA,0,8,8,0,FALSE,RELI215,Fall2018,Politics and Piety in Early Christianities,TRUE
+"Irani,Tushar",..T.R.. 10:20AM-11:40AM;,TBA,50,5,5,50,NA,5,5,15,15,FALSE,PHIL201,Fall2018,Philosophical Classics I: Ancient Western Philosophy,TRUE
+"Witzke,Serena S.",.M.W... 02:50PM-04:10PM;,TBA,25,2,3,25,NA,2,2,8,8,FALSE,CCIV228,Fall2018,Classical Allusions in Film,FALSE
+"Parslow,Christopher",..T.R.. 10:20AM-11:40AM;,TBA,60,4,5,60,NA,3,3,20,25,FALSE,CCIV232,Fall2018,Roman History,TRUE
+"Torgerson,Jesse Wayne",..T.R.. 02:50PM-04:10PM;,TBA,32,4,4,32,NA,4,4,8,8,FALSE,COL247,Spring2019,The Fall of Rome and Other Stories,TRUE
+"Witzke,Serena S.",.M.W... 02:50PM-04:10PM;,TBA,50,5,5,50,NA,5,5,15,15,FALSE,CCIV205,Spring2019,Introduction to Classical Mythology,FALSE
+"Visvardi,Eirene",...W... 07:10PM-10:00PM;,TBA,19,4,4,19,NA,6,7,6,0,FALSE,CCIV324,Spring2019,"Tales of Hope or States of Delusion? Utopias, Past and Present",FALSE
+"Watanabe,Takeshi",..T.R.. 01:20PM-02:40PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,CEAS157,Fall2018,Legacies of WWII in Postwar Japan,FALSE
+"Cho,Joan",..T.R.. 10:20AM-11:40AM;,TBA,35,3,5,35,NA,3,4,10,10,FALSE,CEAS160,Fall2018,Social and Political Changes in Korea,TRUE
+"Huang,Yu-ting",.M.W... 02:50PM-04:10PM;,TBA,30,2,2,30,0,3,3,10,10,FALSE,CEAS202,Fall2018,Narrating China: Introduction to Modern and Contemporary Chinese Literature,FALSE
+"Watanabe,Takeshi",..T.R.. 02:50PM-04:10PM;,TBA,30,4,4,30,0,4,4,8,6,FALSE,CEAS217,Fall2018,"Samurai: Imagining, Performing Japanese Identity",FALSE
+"Wang,Ao",..T.R.. 02:50PM-04:10PM;,TBA,19,4,4,19,NA,3,4,2,2,FALSE,CEAS225,Fall2018,Introduction to Chinese Poetry,FALSE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,40,2,3,40,NA,2,3,15,15,FALSE,RELI242,Fall2018,Buddhism: An Introduction,TRUE
+STAFF,.M..... 07:00PM-10:00PM; S...... 02:00PM-05:00PM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC244,Fall2018,"Delicious Movement: Time Is Not Even, Space Is Not Empty",TRUE
+"Angle,Stephen",.M.W... 02:50PM-04:10PM;,TBA,25,3,3,25,0,3,2,7,7,FALSE,PHIL222,Fall2018,Global Philosophy,TRUE
+"Kanet,Sharisse Leigh",.M.W... 02:50PM-04:10PM;,TBA,25,4,4,25,NA,3,2,6,6,FALSE,PHIL205,Fall2018,Classical Chinese Philosophy,TRUE
+"Bonin,John P.",..T.R.. 08:50AM-10:10AM;,TBA,35,5,10,35,NA,5,5,10,0,FALSE,ECON263,Fall2018,China's Economic Transformation,TRUE
+"Willarty,Sarah",..T.R.. 02:50PM-04:10PM;,TBA,25,0,0,25,NA,0,0,0,25,FALSE,GOVT285,Fall2018,Losers of World War II,TRUE
+"Aalgaard,Scott W.",..T.R.. 01:20PM-02:40PM;,TBA,20,5,5,20,0,4,3,3,0,FALSE,CEAS285,Fall2018,Pop Music Revolutionaries in Modern and Contemporary Japan,FALSE
+"Cho,Joan",..T.R.. 01:20PM-02:40PM;,TBA,15,4,3,15,0,3,3,2,0,FALSE,CEAS385,Fall2018,Legacies of Authoritarian Politics,TRUE
+"Aalgaard,Scott W.",.M.W... 02:50PM-04:10PM;,TBA,25,6,6,25,NA,5,5,3,0,FALSE,CEAS390,Fall2018,Politics and Society in Japanese Women's Writing,TRUE
+"Kim,Jin Hi",...W... 01:20PM-03:20PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC413,Fall2018,Korean Drumming and Creative Music,TRUE
+"Merjan,Barbara",.M..... 01:10PM-03:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC416,Fall2018,Beginning Taiko--Japanese Drumming Ensemble,TRUE
+"Merjan,Barbara",.M..... 03:40PM-05:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC418,Fall2018,Advanced Taiko--Japanese Drumming Ensemble,TRUE
+STAFF,.M.W... 04:40PM-06:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC428,Fall2018,Chinese Music Ensemble,TRUE
+"Hatano-Cohen,Miyuki",.MTWRF. 08:50AM-09:40AM;,TBA,12,1,2,12,NA,1,1,3,4,FALSE,JAPN103,Fall2018,Elementary Japanese I,FALSE
+"Hatano-Cohen,Miyuki",.MTWRF. 09:50AM-10:40AM;,TBA,12,1,2,12,NA,1,1,3,4,FALSE,JAPN103,Fall2018,Elementary Japanese I,FALSE
+"Maruta,Naho",.MT.RF. 08:50AM-09:40AM;,TBA,18,1,2,18,NA,1,2,10,2,FALSE,JAPN205,Fall2018,Intermediate Japanese I,FALSE
+"Hatano-Cohen,Miyuki",.M.W.F. 12:20PM-01:10PM;,TBA,16,2,3,16,NA,2,2,4,3,FALSE,JAPN217,Fall2018,Third-Year Japanese I,FALSE
+"Maruta,Naho",..T.R.. 10:20AM-11:40AM;,TBA,15,5,1,15,NA,4,1,2,2,FALSE,JAPN219,Fall2018,Fourth-Year Japanese I: Conceptualizations of Identity in Contemporary Japan,FALSE
+"Back,Hyejoo",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,3,5,5,5,FALSE,KREA153,Fall2018,Elementary Korean I,FALSE
+"Back,Hyejoo",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,0,3,5,5,5,FALSE,KREA153,Fall2018,Elementary Korean I,FALSE
+STAFF,.M.W.F. 12:20PM-01:10PM;,TBA,15,0,0,15,NA,4,5,4,2,FALSE,KREA217,Fall2018,Advanced Korean I,FALSE
+"Aalgaard,Scott W.",..T.R.. 02:50PM-04:10PM;,TBA,20,2,3,20,NA,0,0,15,0,FALSE,CEAS201,Spring2019,Proseminar,FALSE
+"Cho,Joan",..T.R.. 02:50PM-04:10PM;,TBA,25,5,5,25,0,5,5,5,0,FALSE,CEAS205,Spring2019,Democracy and Civil Society in East Asia,TRUE
+"Cho,Joan",..T.R.. 10:20AM-11:40AM;,TBA,25,3,5,25,NA,3,5,5,4,FALSE,CEAS206,Spring2019,Korean Politics Through Film,TRUE
+"Watanabe,Takeshi",..T.R.. 02:50PM-04:10PM;,TBA,30,3,4,30,NA,3,4,8,8,FALSE,CEAS207,Spring2019,Foundations of East Asian Cultures,FALSE
+"Watanabe,Takeshi",..T.R.. 01:20PM-02:40PM;,TBA,30,3,4,30,NA,3,4,8,8,FALSE,CEAS210,Spring2019,From Tea to Connecticut Rolls: Defining Japanese Culture Through Food,FALSE
+"Wang,Ao",..T.R.. 02:50PM-04:10PM;,TBA,19,4,4,19,NA,3,4,2,2,FALSE,CEAS213,Spring2019,The Chinese Canon and Its Afterlife,FALSE
+"Zheng,Su",..T.R.. 02:50PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,MUSC127,Spring2019,Popular Music in Contemporary China,TRUE
+"Angle,Stephen",..T.R.. 01:20PM-02:40PM;,TBA,25,5,5,25,0,5,5,5,0,FALSE,PHIL263,Spring2019,Modern Chinese Philosophy,TRUE
+"Huang,Yu-ting",...W... 07:10PM-10:00PM;,TBA,15,2,3,15,0,2,2,3,3,FALSE,CEAS355,Spring2019,Between Asia and Asian America,TRUE
+"Aalgaard,Scott W.",...W... 01:20PM-04:10PM;,TBA,15,5,3,15,NA,3,2,2,0,FALSE,CEAS395,Spring2019,From Fascism to Fukushima: Navigating the Everyday in Modern Japan,FALSE
+"Kim,Jin Hi",...W... 01:20PM-03:20PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC413,Spring2019,Korean Drumming and Creative Music,TRUE
+"Merjan,Barbara",.M..... 01:10PM-03:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC416,Spring2019,Beginning Taiko--Japanese Drumming Ensemble,TRUE
+"Merjan,Barbara",.M..... 03:40PM-05:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC418,Spring2019,Advanced Taiko--Japanese Drumming Ensemble,TRUE
+STAFF,.M.W... 04:40PM-06:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC428,Spring2019,Chinese Music Ensemble,TRUE
+"Maruta,Naho",.MTWRF. 08:50AM-09:40AM;,TBA,12,1,1,12,NA,1,1,3,5,FALSE,JAPN104,Spring2019,Elementary Japanese II,FALSE
+"Maruta,Naho",.MTWRF. 09:50AM-10:40AM;,TBA,12,1,1,12,NA,1,1,3,5,FALSE,JAPN104,Spring2019,Elementary Japanese II,FALSE
+"Maruta,Naho",.MTW.F. 12:20PM-01:10PM;,TBA,18,1,2,18,NA,1,2,10,2,FALSE,JAPN206,Spring2019,Intermediate Japanese II,FALSE
+"Hatano-Cohen,Miyuki",.M.W.F. 12:20PM-01:10PM;,TBA,16,2,2,16,NA,2,2,5,3,FALSE,JAPN218,Spring2019,Third-Year Japanese II,FALSE
+"Hatano-Cohen,Miyuki",...W.F. 02:50PM-04:10PM;,TBA,15,5,1,15,NA,4,1,2,2,FALSE,JAPN220,Spring2019,Fourth-Year Japanese II,FALSE
+"Back,Hyejoo",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,3,5,5,5,FALSE,KREA154,Spring2019,Elementary Korean II,FALSE
+"Back,Hyejoo",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,3,5,5,5,FALSE,KREA154,Spring2019,Elementary Korean II,FALSE
+STAFF,.M.W.F. 02:50PM-03:40PM;,TBA,15,2,2,15,NA,4,3,2,2,FALSE,KREA218,Spring2019,Advanced Korean II,FALSE
+"Shepard,Sadia Dana",.M..... 01:20PM-04:10PM; ...W... 01:20PM-04:10PM;,TBA,12,NA,NA,12,0,NA,NA,NA,12,FALSE,FILM104,Fall2018,Documentary Filmmaking: An Introduction to Project Learning,FALSE
+"Gonzalez,Bernardo Antonio",..T.R.. 02:50PM-04:10PM;,TBA,19,10,5,19,NA,1,1,1,1,FALSE,FIST301,Fall2018,The History of Spanish Cinema,TRUE
+"Higgins,Scott",..T.R.. 08:50AM-12:10PM;,TBA,400,50,50,400,NA,50,50,100,100,FALSE,FILM307,Fall2018,"The Language of Hollywood: Styles, Storytelling, and Technology",FALSE
+"Longenecker,Marc Robert",..T.R.. 01:20PM-04:40PM;,TBA,24,12,12,24,NA,NA,NA,NA,NA,FALSE,FILM322,Fall2018,Alfred Hitchcock,FALSE
+"Higgins,Scott",.M.W... 01:20PM-04:40PM;,TBA,50,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM324,Fall2018,Visual Storytelling: The History and Art of Hollywood's Master Storytellers,FALSE
+"Rai,Swapnil",..T.R.. 08:50AM-12:10PM;,TBA,19,8,9,19,NA,1,1,0,NA,FALSE,FILM329,Fall2018,Introduction to Global Bollywood,FALSE
+STAFF,.....F. 01:20PM-04:10PM;,TBA,12,3,3,12,NA,3,3,0,0,FALSE,FILM331,Fall2018,"Video Games as/and the Moving Image: Art, Aesthetics, and Design",TRUE
+"Traube,Elizabeth G.",..T.R.. 10:20AM-11:40AM;,TBA,35,4,7,35,0,8,9,7,NA,FALSE,ANTH244,Fall2018,Television: The Domestic Medium,TRUE
+"Lensing,Leo A.",.M..... 01:20PM-04:10PM; ...W... 01:20PM-04:10PM;,TBA,19,3,3,19,NA,2,3,6,2,FALSE,FILM352,Fall2018,From Caligari to Hitler: Weimar Cinema in Context,TRUE
+"Lensing,Leo A.",..T.... 01:20PM-04:10PM; ....R.. 01:20PM-04:10PM;,TBA,19,9,10,19,NA,0,0,0,NA,FALSE,FILM386,Fall2018,The Long and the Short: Fritz Lang in Berlin and Hollywood,FALSE
+"Longenecker,Marc Robert",.M.W... 08:50AM-12:10PM;,TBA,19,9,10,19,NA,NA,NA,NA,NA,FALSE,FILM387,Fall2018,Seminar on Television Series and Aesthetics,FALSE
+"Slowik,Michael James",.M.W... 01:20PM-04:40PM;,TBA,19,9,10,19,NA,NA,NA,NA,NA,FALSE,FILM389,Fall2018,Film Genres: The Western,FALSE
+"Slowik,Michael James",..T.R.. 01:20PM-04:40PM;,TBA,19,10,9,19,0,NA,NA,NA,NA,FALSE,FILM392,Fall2018,"Cinema Stylists: Sternberg, Ophuls, Sirk, Fellini",FALSE
+"Collins,Stephen Edward",...W.F. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM450,Fall2018,Sight and Sound Workshop,FALSE
+"Collins,Stephen Edward",..T.R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM450,Fall2018,Sight and Sound Workshop,FALSE
+"Parkin,Richard",..T.R.. 08:50AM-11:50AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM451,Fall2018,Introduction to Digital Filmmaking,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM454,Fall2018,Screenwriting,FALSE
+"Parkin,Richard",...W.F. 08:50AM-11:50AM;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM456,Fall2018,Advanced Filmmaking,FALSE
+"Rucnov,Mirko",...W.F. 08:50AM-11:50AM;,TBA,11,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM456,Fall2018,Advanced Filmmaking,FALSE
+"Rucnov,Mirko",...W.F. 08:50AM-11:50AM;,TBA,11,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM456,Fall2018,Advanced Filmmaking,FALSE
+"Cacaci,Joe",.....F. 08:50AM-11:50AM;,TBA,11,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM456,Fall2018,Advanced Filmmaking,FALSE
+"Cacaci,Joe",.....F. 01:20PM-04:10PM;,TBA,11,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM456,Fall2018,Advanced Filmmaking,FALSE
+"Cacaci,Joe",..T.... 01:20PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM460,Fall2018,Scripting Series for the Small Screen,FALSE
+"Slowik,Michael James",..T.R.. 08:50AM-12:10PM;,TBA,135,0,0,135,NA,10,15,50,60,FALSE,FILM304,Spring2019,History of World Cinema to the 1960s,FALSE
+"Longenecker,Marc Robert",..T.R.. 01:20PM-04:40PM;,TBA,19,NA,NA,19,NA,NA,NA,19,NA,FALSE,FILM305,Spring2019,"Sophomore Colloquium for Declaring Majors: This and That, Here and There, Now and Then",FALSE
+"Traube,Elizabeth G.",...W... 07:10PM-10:00PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ANTH308,Spring2019,Television Storytelling: The Conditions of Narrative Complexity,TRUE
+"Lensing,Leo A.",.M.W... 01:20PM-04:10PM;,TBA,25,8,6,25,NA,3,3,3,2,FALSE,FILM320,Spring2019,The New German Cinema,TRUE
+STAFF,..T.R.. 08:50AM-12:10PM;,TBA,24,12,12,24,NA,NA,NA,NA,NA,FALSE,FILM328,Spring2019,Moving Images Beyond the West: An introduction to Global Media,FALSE
+"Higgins,Scott",.M.W... 01:20PM-04:40PM;,TBA,35,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM342,Spring2019,Cinema of Adventure and Action,FALSE
+"Lensing,Leo A.",..T.R.. 01:20PM-04:10PM;,TBA,19,5,5,19,NA,5,2,2,0,FALSE,FILM355,Spring2019,Newest German (and Austrian) Cinema,TRUE
+"Slowik,Michael James",.M.W... 08:50AM-12:10PM;,TBA,24,12,12,24,NA,NA,NA,NA,NA,FALSE,FILM391,Spring2019,Sex and Violence: American Film-making Under Censorship,FALSE
+"Laub,David Paul",.M.W... 07:10PM-10:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM414,Spring2019,Senior Seminar,FALSE
+"Penn,Matthew",..T.... 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM448,Spring2019,Directing Actors for the Camera,FALSE
+"Collins,Stephen Edward",..T.R.. 08:50AM-11:50AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM450,Spring2019,Sight and Sound Workshop,FALSE
+"Parkin,Richard",..T.R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM450,Spring2019,Sight and Sound Workshop,FALSE
+"Rucnov,Mirko",...W.F. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM450,Spring2019,Sight and Sound Workshop,FALSE
+"Ring,Justin",.M..... 01:20PM-04:10PM;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM454,Spring2019,Screenwriting,FALSE
+"Collins,Stephen Edward",...W... 08:50AM-11:50AM;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM457,Spring2019,Advanced Filmmaking,FALSE
+"Parkin,Richard",...W... 08:50AM-11:50AM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM457,Spring2019,Advanced Filmmaking,FALSE
+"Rucnov,Mirko",...W... 08:50AM-11:50AM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM457,Spring2019,Advanced Filmmaking,FALSE
+"Cacaci,Joe",.....F. 08:50AM-11:50AM;,TBA,11,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,FILM457,Spring2019,Advanced Filmmaking,FALSE
+"Fitzpatrick,Joseph J.",..T.R.. 02:50PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Language (FYS),FALSE
+"Fitzpatrick,Joseph J.",.M.W... 02:50PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,The European Novel from Cervantes to Calvino (FYS),FALSE
+"Pfister,Joel",.M..... 07:10PM-10:00PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,Crosslisting:,"AMST125F,",Staging America: Modern American Drama (FYS),FALSE
+"Ponce-Hegenauer,Gabrielle Piedad",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,0,FALSE,NANA,NANA,Great Books Unbound (FYS),FALSE
+"Smyth,Daniel",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,0,FALSE,NANA,NANA,Great Books Unbound (FYS),FALSE
+"Torgerson,Jesse Wayne",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,0,FALSE,NANA,NANA,Great Books Unbound (FYS),FALSE
+"Barber,Charles",.....F. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,COL201,Fall2018,Writing Nonfiction,FALSE
+"Rubenstein,Mary-Jane Victoria",..T.R.. 08:50AM-10:10AM;,TBA,40,6,6,40,NA,4,4,12,8,FALSE,RELI220,Fall2018,Modern Christian Thought,TRUE
+"Roth,Michael S.",.M.W... 10:50AM-12:10PM;,TBA,118,11,13,118,NA,11,13,28,42,FALSE,COL228,Fall2018,"Virtue and Vice in History, Literature, and Philosophy",TRUE
+"Armstrong Roche,Michael",..T.R.. 02:50PM-04:10PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN230,Fall2018,"Heroes, Lovers, and Swindlers: Medieval and Renaissance Spanish Literature and History",TRUE
+"Aresu,Francesco Marco",..T.R.. 02:50PM-04:10PM;,TBA,25,4,4,25,NA,4,4,4,5,FALSE,FIST226,Fall2018,The Cosmos of Dante's Comedy,TRUE
+"Bobrick,Elizabeth A.   Torgerson,Jesse Wayne",.M.W... 01:20PM-02:40PM;,TBA,34,NA,NA,34,NA,NA,NA,34,NA,FALSE,COL241,Fall2018,Sophomore Colloquium,FALSE
+"Irani,Tushar    Leservot,Typhaine",.M.W... 01:20PM-02:40PM;,TBA,26,NA,26,26,NA,NA,NA,NA,NA,FALSE,COL243,Fall2018,Junior Colloquium,FALSE
+"Plass,Ulrich",.M.W... 01:20PM-02:40PM;,TBA,17,17,NA,17,NA,NA,NA,NA,NA,FALSE,COL245,Fall2018,Senior Colloquium,FALSE
+"Weil,Kari",..T.R.. 01:20PM-02:40PM;,TBA,18,4,4,18,0,4,3,3,0,FALSE,COL274,Fall2018,Outsiders in European Literature,TRUE
+"Ponce-Hegenauer,Gabrielle Piedad",.M.W... 02:50PM-04:10PM;,TBA,18,4,3,18,NA,4,4,3,0,FALSE,COL309,Fall2018,Truth & the Poet: Lyric Subjectivity and Phenomenology,FALSE
+"Armstrong Roche,Michael",..T.R.. 07:10PM-08:30PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN236,Fall2018,Cervantes,TRUE
+"Plass,Ulrich",.M.W.F. 02:50PM-03:40PM;,TBA,14,3,3,14,NA,3,3,2,0,FALSE,GRST390,Fall2018,Romanticism-Realism-Modernism,TRUE
+"Barber,Charles",.....F. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,COL227,Spring2019,Life Writing: Writing About the Self and from Experience,TRUE
+"Weil,Kari    Smyth,Daniel",.M.W... 01:20PM-02:40PM;,TBA,23,NA,23,23,NA,NA,NA,NA,NA,FALSE,COL244,Spring2019,Junior Colloquium,FALSE
+"T�lölyan,Khachig",.M.W... 01:20PM-02:40PM;,TBA,14,14,NA,14,NA,NA,NA,NA,NA,FALSE,COL246,Spring2019,Senior Colloquium,FALSE
+"T�lölyan,Khachig",..T.... 07:10PM-10:00PM;,TBA,18,0,10,18,NA,2,6,0,0,FALSE,COL249,Spring2019,Narrative and Ideology,TRUE
+"Ponce-Hegenauer,Gabrielle Piedad",..T.R.. 10:20AM-11:40AM;,TBA,18,3,3,18,NA,3,3,3,3,FALSE,COL250,Spring2019,The Renaissance Woman: Forms & Figures of Aesthetic-Fashioning of the Early Modern World,FALSE
+"Ponce-Hegenauer,Gabrielle Piedad",..T.R.. 02:50PM-04:10PM;,TBA,18,3,3,18,NA,3,3,3,3,FALSE,COL252,Spring2019,"Writing Love: Articulations of Passion, Genres of Intimacy",FALSE
+"Weil,Kari",..T.R.. 01:20PM-02:40PM;,TBA,18,4,4,18,NA,4,3,3,0,FALSE,COL257,Spring2019,Remembering Selves: Forces and Forms of Autobiography,FALSE
+"Fusso,Susanne Grace",.M.W... 10:50AM-12:10PM;,TBA,19,2,2,19,NA,2,2,4,7,FALSE,RUSS252,Spring2019,Tolstoy,TRUE
+"Fitzpatrick,Joseph J.",.....F. 01:20PM-04:10PM;,TBA,19,8,5,19,NA,3,3,0,0,FALSE,COL270,Spring2019,Modernist City-Texts,TRUE
+"Smyth,Daniel",.M.W... 10:50AM-12:10PM;,TBA,18,4,4,18,NA,4,4,2,0,FALSE,COL283,Spring2019,The Rationalist Tradition in Early Modern European Philosophy,TRUE
+"Fitzpatrick,Joseph J.",..T.R.. 10:20AM-11:40AM;,TBA,19,7,4,19,NA,4,4,0,0,FALSE,COL336,Spring2019,Theories of Translation,TRUE
+"Horst,Steven W.",..T.R.. 08:50AM-10:10AM;,TBA,35,5,5,35,0,4,5,8,8,FALSE,PHIL202,Spring2019,Philosophical Classics II: Early Modern Philosophy from Descartes Through Kant,TRUE
+"McPhilimy,Chelsie",.....F. 02:50PM-04:20PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC105,Fall2018,Dance Production Techniques,FALSE
+"Kolcio,Katja P.",.M.W... 10:40AM-12:10PM;,TBA,36,0,0,36,0,9,9,9,9,FALSE,DANC111,Fall2018,Introduction to Dance,FALSE
+"Kolcio,Katja P.",..T.R.. 08:40AM-10:10AM;,TBA,36,0,0,36,0,9,9,9,9,FALSE,DANC111,Fall2018,Introduction to Dance,FALSE
+STAFF,..T.R.. 04:40PM-06:10PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC202,Fall2018,Ballet I,FALSE
+"Alejandro,Pedro",.M.W... 01:20PM-02:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC211,Fall2018,Modern Dance I,FALSE
+STAFF,.M.W... 01:20PM-02:40PM; .....F. 12:40PM-02:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC215,Fall2018,Modern Dance II,FALSE
+STAFF,..T.R.. 09:40AM-11:40AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC249,Fall2018,Making Dances I: Solo Work,FALSE
+"Saaka,Iddrisu",.M.W... 06:40PM-08:10PM;,TBA,30,4,4,30,0,4,4,7,7,FALSE,DANC260,Fall2018,West African Dance I,FALSE
+"Saaka,Iddrisu",..T.R.. 06:40PM-08:10PM;,TBA,30,4,4,30,NA,4,4,7,7,FALSE,DANC260,Fall2018,West African Dance I,FALSE
+"Krishnan,Hari",.M.W... 09:50AM-11:20AM;,TBA,25,3,3,25,0,5,5,5,4,FALSE,DANC261,Fall2018,Bharata Natyam I: Introduction of South Indian Classical Dance,FALSE
+STAFF,..T.R.. 02:50PM-04:20PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC302,Fall2018,Ballet II,FALSE
+STAFF,.M.W... 01:20PM-02:40PM; .....F. 12:40PM-02:40PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC309,Fall2018,Modern Dance III,FALSE
+"Saaka,Iddrisu",.M.W... 04:40PM-06:10PM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC360,Fall2018,West African Dance II,FALSE
+"Krishnan,Hari",...W... 02:50PM-04:50PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC371,Fall2018,Choreography Workshop,FALSE
+"Alejandro,Pedro",..T.R.. 01:20PM-02:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC378,Fall2018,Repertory and Performance: Contemporary Dance from Global Perspectives,FALSE
+"Kolcio,Katja P.",TBA;,TBA,60,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC435,Fall2018,Advanced Dance Practice A,FALSE
+"Kolcio,Katja P.",TBA;,TBA,60,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC445,Fall2018,Advanced Dance Practice B,FALSE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,36,0,0,36,NA,9,9,9,9,FALSE,DANC111,Spring2019,Introduction to Dance,FALSE
+STAFF,..T.R.. 04:40PM-06:10PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC202,Spring2019,Ballet I,FALSE
+STAFF,.M.W... 01:20PM-02:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC211,Spring2019,Modern Dance I,FALSE
+"Kolcio,Katja P.",..T.R.. 01:20PM-02:40PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC250,Spring2019,Dance Composition,FALSE
+"Saaka,Iddrisu",.M.W... 06:40PM-08:10PM;,TBA,30,4,4,30,NA,4,4,7,7,FALSE,DANC260,Spring2019,West African Dance I,FALSE
+"Krishnan,Hari",.M.W... 09:50AM-11:20AM;,TBA,25,3,3,25,NA,5,5,5,4,FALSE,DANC261,Spring2019,Bharata Natyam I: Introduction of South Indian Classical Dance,FALSE
+STAFF,.M.W... 01:20PM-02:40PM; .....F. 12:40PM-02:40PM;,TBA,15,3,3,15,NA,3,4,2,0,FALSE,DANC300,Spring2019,Intermediate Modern Technique,FALSE
+STAFF,..T.R.. 02:50PM-04:20PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC302,Spring2019,Ballet II,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,12,3,3,12,NA,2,2,2,0,FALSE,THEA359,Spring2019,Design and the Performative Space,TRUE
+"Saaka,Iddrisu",.M.W... 04:40PM-06:10PM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC365,Spring2019,West African Dance III,FALSE
+"Krishnan,Hari",.M.W... 02:50PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC377,Spring2019,Perspectives in Dance as Culture: What the Body Knows--Social Change and Revolution,TRUE
+"Kolcio,Katja P.",..T.R.. 09:50AM-11:20AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,DANC377,Spring2019,Perspectives in Dance as Culture: What the Body Knows--Social Change and Revolution,TRUE
+"McCann,Sean",..T.R.. 10:20AM-11:40AM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL130,Fall2018,The English Essay,FALSE
+"McCann,Sean",....R.. 01:20PM-04:10PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL132,Fall2018,Writing Seminar II,FALSE
+"Yanique,Tiphanie",....R.. 01:20PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Caribbean Literature and Writing the Environment (FYS),FALSE
+"Day Frank,Morgan",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,The Past and Present of American Journalism (FYS),FALSE
+"Day Frank,Morgan",.M.W... 02:50PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,The Past and Present of American Journalism (FYS),FALSE
+"Greene,Anne F.",.M.W... 08:20AM-09:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,"Place, Character, and Design: Techniques in Writing Nonfiction and Fiction (FYS)",FALSE
+"Friedberg,Harris A.",..T.R.. 08:50AM-10:10AM;,TBA,15,0,1,15,NA,0,0,13,1,FALSE,NANA,NANA,Ways of Reading: Literary Form and Forms,FALSE
+"Bachner,Sally",...W.F. 10:50AM-12:10PM;,TBA,15,0,0,15,NA,0,1,13,1,FALSE,NANA,NANA,Ways of Reading: Borrowing and Stealing: Authorship and Originality in Literature,FALSE
+"Ellis Neyra,Rachel",..T.R.. 10:20AM-11:40AM;,TBA,15,0,0,15,NA,0,1,13,1,FALSE,NANA,NANA,"Ways of Reading: Sound Sense, Nonsense, and Language's Radical Desires",FALSE
+"Garrett,Matthew Carl",.M.W.F. 09:50AM-10:40AM;,TBA,60,3,5,60,NA,3,5,25,19,FALSE,ENGL203,Fall2018,American Literature from the Colonial Period to the Civil War,TRUE
+"Friedberg,Harris A.",..T.R.. 02:50PM-04:10PM;,TBA,40,8,10,40,NA,0,0,12,10,FALSE,ENGL205,Fall2018,Shakespeare,TRUE
+"Pitts-Taylor,Victoria",..T.R.. 10:20AM-11:40AM;,TBA,15,7,8,15,NA,NA,NA,NA,NA,FALSE,FGSS209,Fall2018,Feminist Theories,TRUE
+"Day Frank,Morgan",.M.W... 08:20AM-09:40AM;,TBA,16,4,5,16,NA,1,2,4,0,FALSE,ENGL212,Fall2018,Edgar Allan Poe and Literary Culture,TRUE
+STAFF,.M.W... 02:50PM-04:10PM;,TBA,15,5,5,15,NA,2,2,1,0,FALSE,ENGL216,Fall2018,Techniques of Poetry,FALSE
+"Saint,Lily Leopold",...W... 01:20PM-04:10PM;,TBA,19,4,5,19,NA,3,3,4,0,FALSE,ENGL221,Fall2018,The African Novel I: Nervous Conditions,FALSE
+"Nisse,Ruth",.M.W.F. 09:50AM-10:40AM;,TBA,25,5,5,25,NA,3,2,5,5,FALSE,ENGL232,Fall2018,Mystics and Militants: Medieval Women Writers,TRUE
+"Brown,Lois",..T.R.. 08:50AM-10:10AM;,TBA,35,4,4,35,NA,0,2,10,15,FALSE,AFAM202,Fall2018,Introduction to African American Literature,TRUE
+STAFF,.M.W... 08:20AM-09:40AM;,TBA,15,2,4,15,NA,2,2,3,2,FALSE,ENGL262,Fall2018,Beyond the Talking Book: Reading African American Literature in the Newspapers,TRUE
+STAFF,.....F. 01:20PM-04:10PM;,TBA,12,NA,NA,12,NA,NA,NA,NA,12,FALSE,THEA199,Fall2018,Introduction to Playwriting,TRUE
+"Greene,Anne F.",..T.R.. 08:50AM-10:10AM;,TBA,20,0,0,20,0,5,5,5,5,FALSE,ENGL270,Fall2018,Writing Creative Nonfiction,FALSE
+"Brown,Lois",.M.W... 10:50AM-12:10PM;,TBA,25,8,8,25,NA,2,2,5,0,FALSE,ENGL275,Fall2018,Race and Place in Early American Writing,TRUE
+"Ellis Neyra,Rachel",..T.R.. 02:50PM-04:10PM;,TBA,19,3,3,19,NA,1,1,6,5,FALSE,ENGL279,Fall2018,"Introduction to Latina/o/x Literature and Art: Border, Citizen, Body",FALSE
+"McMahon,Rashida Z. Shaw",.M.W.F. 09:50AM-10:40AM;,TBA,15,2,3,15,NA,1,2,3,4,FALSE,ENGL281,Fall2018,Award-Winning Playwrights,TRUE
+"Sawhney,Hirsh",.M.W... 10:50AM-12:10PM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL296,Fall2018,Techniques of Fiction,FALSE
+STAFF,.M..... 07:10PM-10:00PM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL296,Fall2018,Techniques of Fiction,FALSE
+"McCann,Sean",..T.R.. 10:20AM-11:40AM;,TBA,19,2,3,19,NA,2,2,8,2,FALSE,ENGL298,Fall2018,Richard Wright and Company,TRUE
+"Garrett,Matthew Carl",.M..... 01:20PM-04:10PM;,TBA,15,6,6,15,NA,1,2,0,0,FALSE,ENGL303,Fall2018,Narrative Theory,FALSE
+"Pfister,Joel",..T.... 07:10PM-10:00PM;,TBA,15,4,5,15,NA,1,2,3,0,FALSE,AMST315,Fall2018,Entertaining Social Change,TRUE
+"Cohen,Lisa",...W... 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL325,Fall2018,Intermediate Nonfiction Workshop,FALSE
+"Vogel,Danielle",....R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL336,Fall2018,Intermediate Poetry Workshop,FALSE
+"Sawhney,Hirsh",.M.W... 01:20PM-02:40PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL339,Fall2018,Intermediate Fiction Workshop,FALSE
+"Bachner,Sally",..T.R.. 08:50AM-10:10AM;,TBA,15,6,5,15,NA,2,2,0,0,FALSE,ENGL344,Fall2018,"Women's Lib, Women's Lit",TRUE
+"Korda,Natasha",...W... 01:20PM-04:10PM;,TBA,16,8,8,16,0,0,0,NA,NA,FALSE,ENGL349,Fall2018,Historicizing Early Modern Sexualities,TRUE
+"Saint,Lily Leopold",..T.... 01:20PM-04:10PM;,TBA,19,6,6,19,NA,4,3,0,NA,FALSE,ENGL365,Fall2018,Ethics and Literature,FALSE
+STAFF,.M.W... 02:50PM-04:10PM;,TBA,19,4,6,19,NA,3,4,2,0,FALSE,ENGL375,Fall2018,Black Global Cities,TRUE
+STAFF,.M..... 07:10PM-10:00PM;,TBA,15,5,6,15,NA,1,1,2,0,FALSE,ENGL379,Fall2018,Special Topic: Writing the Sonnet,FALSE
+"McMahon,Rashida Z. Shaw",...W.F. 01:20PM-02:40PM;,TBA,19,3,5,19,NA,3,5,3,NA,FALSE,ENGL385,Fall2018,Survey of African American Theater,TRUE
+"Vogel,Danielle",.....F. 01:20PM-04:10PM;,TBA,12,4,5,12,NA,1,1,1,0,FALSE,ENGL386,Fall2018,Special Topics: Improvisation--Collaborating with the Unknown,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL130,Spring2019,The English Essay,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Crosslisting:,CGST131B,Writing About Places: Africa,FALSE
+"Ellis Neyra,Rachel",..T.R.. 08:50AM-10:10AM;,TBA,15,NA,NA,15,0,NA,NA,NA,15,FALSE,NANA,NANA,"Slavery, Latifundio, and Revolution in Latin American Literature and Cinema (FYS)",FALSE
+"McMahon,Rashida Z. Shaw",.M.W.F. 09:50AM-10:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,Crosslisting:,"THEA175F,",August Wilson (FYS),FALSE
+"Nguyen,Marguerite",..T.R.. 02:50PM-04:10PM;,TBA,15,0,0,15,NA,0,1,13,1,FALSE,NANA,NANA,Ways of Reading: Contact Zones,FALSE
+"Saint,Lily Leopold",..T.R.. 08:50AM-10:10AM;,TBA,15,0,0,15,NA,0,1,13,1,FALSE,NANA,NANA,"Ways of Reading: Influence, Imitation, Invention",FALSE
+"Crosby,Christina",..T.R.. 02:50PM-04:10PM;,TBA,15,0,0,15,NA,0,1,13,1,FALSE,NANA,NANA,Ways of Reading: Autobiography,FALSE
+"McCann,Sean",.M.W.F. 09:50AM-10:40AM;,TBA,60,10,10,60,NA,0,10,15,15,FALSE,NANA,NANA,"American Literature, 1865--1945",FALSE
+"Garrett,Matthew Carl",.M.W... 10:50AM-12:10PM;,TBA,19,2,6,19,NA,0,2,7,2,FALSE,ENGL209,Spring2019,From Seduction to Civil War: The Early U.S. Novel,TRUE
+"Vogel,Danielle",.....F. 01:20PM-04:10PM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL216,Spring2019,Techniques of Poetry,FALSE
+"Yanique,Tiphanie",....R.. 07:10PM-10:00PM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL216,Spring2019,Techniques of Poetry,FALSE
+"Saint,Lily Leopold",..T.R.. 01:20PM-02:40PM;,TBA,25,7,7,25,NA,3,3,5,0,FALSE,ENGL223,Spring2019,The African Novel II: After Achebe,FALSE
+"Day,Morgan Anne",.M.W... 02:50PM-04:10PM;,TBA,19,7,7,19,NA,2,3,0,NA,FALSE,ENGL225,Spring2019,Darwinian Fictions,TRUE
+"Nguyen,Marguerite",..T.R.. 08:50AM-10:10AM;,TBA,19,5,6,19,NA,2,2,2,2,FALSE,ENGL244,Spring2019,Kill Anything That Moves: The Vietnam War in Literature and Film,TRUE
+"Greene,Anne F.",..T.R.. 08:50AM-10:10AM;,TBA,25,6,4,25,NA,4,4,5,5,FALSE,ENGL271,Spring2019,Distinguished Writers/New Voices,FALSE
+"Ellis Neyra,Rachel",..T.R.. 01:20PM-02:40PM;,TBA,25,5,10,25,NA,2,2,6,0,FALSE,ENGL274,Spring2019,"Caribbean Poetry and Cinema: ""Fields of Islands"" in an Open Sea",FALSE
+"Karamcheti,Indira",..T.R.. 02:50PM-04:10PM;,TBA,40,10,10,40,NA,5,5,5,5,FALSE,AMST273,Spring2019,Diasporic South Asian Writing and American Studies,TRUE
+"Korda,Natasha",...W... 01:20PM-04:10PM;,TBA,16,5,7,16,NA,1,1,2,0,FALSE,ENGL280,Spring2019,Staging Race in Early Modern England,TRUE
+"Greene,Anne F.",.M.W... 08:20AM-09:40AM;,TBA,16,3,5,16,NA,1,2,5,0,FALSE,ENGL290,Spring2019,"Place, Character, and Design: Techniques in Writing Nonfiction and Fiction",FALSE
+"Friedberg,Harris A.",..T.R.. 02:50PM-04:10PM;,TBA,19,3,5,19,0,0,0,8,3,FALSE,ENGL291,Spring2019,The First Stories: Oral Poetry in Greece and Anglo-Saxon England,FALSE
+"Vogel,Danielle",...W.F. 08:20AM-09:40AM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL292,Spring2019,Techniques of Nonfiction,FALSE
+"Sawhney,Hirsh",.M..... 01:20PM-04:10PM;,TBA,15,2,5,15,NA,0,2,6,0,FALSE,ENGL296,Spring2019,Techniques of Fiction,FALSE
+"Friedberg,Harris A.",..T.R.. 10:20AM-11:40AM;,TBA,19,5,7,19,NA,1,1,3,2,FALSE,ENGL305,Spring2019,Shakespeare's Macbeth: From Saga to Screen,TRUE
+"Cohen,Lisa",..T.... 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL326,Spring2019,Advanced Nonfiction Workshop,FALSE
+"Yanique,Tiphanie",....R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL342,Spring2019,Advanced Fiction Workshop,FALSE
+"Nisse,Ruth",..T.R.. 01:20PM-02:40PM;,TBA,15,5,5,15,0,0,0,5,0,FALSE,ENGL353,Spring2019,"Race, Ethnicity, and Religion in Medieval Literature",TRUE
+"Sawhney,Hirsh",...W... 01:20PM-04:10PM;,TBA,15,5,5,15,0,2,2,1,0,FALSE,ENGL358,Spring2019,"Writing the War on Terror: Crafting Literary Responses to Fiction, Film, and Television after 9/11",FALSE
+"Garrett,Matthew Carl",.M.W... 02:50PM-04:10PM;,TBA,15,5,5,15,NA,3,2,0,NA,FALSE,ENGL359,Spring2019,Criticism and Marxism,FALSE
+"Cohen,Lisa",...W... 01:20PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENGL360,Spring2019,Special Topics: Writing Lives,TRUE
+"McMahon,Rashida Z. Shaw",...W... 01:20PM-04:10PM;,TBA,19,5,5,19,0,4,3,2,0,FALSE,ENGL371,Spring2019,Sister Acts: Black Feminist/Womanist Theater of the African Diaspora,TRUE
+"McCann,Sean",...W... 07:10PM-10:00PM;,TBA,12,8,4,12,0,0,0,NA,NA,FALSE,ENGL388,Spring2019,Calderwood Seminar in Public Writing: The Literature of the American 1960s,FALSE
+"Ostrow,Catherine R.",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN101,Fall2018,Elementary French I,FALSE
+"Ostrow,Catherine R.",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN101,Fall2018,Elementary French I,FALSE
+"Ostrow,Catherine R.",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN101,Fall2018,Elementary French I,FALSE
+"Ponsavady,Stéphanie",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,FREN110,Fall2018,Accelerated Intermediate French I & II,FALSE
+"Paris-Bouvret,Emmanuel",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,FREN110,Fall2018,Accelerated Intermediate French I & II,FALSE
+"Rider,Jeff",.M.W.F. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,0,8,10,FALSE,FREN112,Fall2018,Intermediate French II,FALSE
+"Rider,Jeff",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,0,8,10,FALSE,FREN112,Fall2018,Intermediate French II,FALSE
+"Leservot,Typhaine",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,0,0,4,6,8,FALSE,FREN215,Fall2018,Composition and Conversation,FALSE
+"Ponsavady,St�phanie",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,0,0,4,6,8,FALSE,FREN215,Fall2018,Composition and Conversation,FALSE
+"Weisberg,Meg Furniss",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,0,0,4,6,8,FALSE,FREN215,Fall2018,Composition and Conversation,FALSE
+"Rider,Jeff",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,6,10,2,FALSE,FREN230,Fall2018,"Knights, Fools, and Lovers: An Introduction to Medieval and Renaissance French Culture",TRUE
+"Meere,Michael",.M.W.F. 02:50PM-03:40PM;,TBA,18,2,4,18,0,0,0,7,5,FALSE,FREN281,Fall2018,French and Francophone Theater in Performance,TRUE
+"Meere,Michael",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,NA,0,0,0,0,FALSE,FREN306,Fall2018,Spectacles of Violence in Early Modern French Tragedy,FALSE
+"Curran,Andrew",..T.R.. 10:20AM-11:40AM;,TBA,18,12,6,18,NA,0,0,0,0,FALSE,FREN391,Fall2018,Diderot,FALSE
+"Ponsavady,Stéphanie",.M.W.F. TBA;,TBA,18,12,6,18,NA,0,0,0,0,FALSE,FREN399,Fall2018,French Histories: National Identity and Narratives since the Third Republic,FALSE
+"Meere,Michael",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN102,Spring2019,Elementary French II,FALSE
+"Ostrow,Catherine R.",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN102,Spring2019,Elementary French II,FALSE
+"Meere,Michael",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,NA,1,1,6,10,FALSE,FREN102,Spring2019,Elementary French II,FALSE
+"Ponsavady,Stéphanie",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,FREN110,Spring2019,Accelerated Intermediate French I & II,FALSE
+"Paris-Bouvret,Emmanuel",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,FREN110,Spring2019,Accelerated Intermediate French I & II,FALSE
+"Curran,Andrew",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,4,6,8,FALSE,FREN215,Spring2019,Composition and Conversation,FALSE
+"Weisberg,Meg Furniss",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,0,8,10,FALSE,FREN215,Spring2019,Composition and Conversation,FALSE
+"Weisberg,Meg Furniss",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,NA,0,0,8,10,FALSE,FREN215,Spring2019,Composition and Conversation,FALSE
+"Ostrow,Catherine R.",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,4,18,NA,0,0,9,5,FALSE,FREN223,Spring2019,French Way(s),FALSE
+"Ponsavady,Stéphanie",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,6,18,NA,0,0,10,2,FALSE,FREN254,Spring2019,Paris to Saigon: French Representations of Asia,FALSE
+"Rider,Jeff",..T.R.. 01:20PM-02:40PM;,TBA,18,12,6,18,NA,0,0,0,0,FALSE,FREN330,Spring2019,"Lancelot, Guinevere, Grail: Enigma in the Romances of Chretien de Troyes",TRUE
+"Weisberg,Meg Furniss",.M.W... 02:50PM-04:10PM;,TBA,18,0,0,18,NA,0,0,0,0,FALSE,FREN348,Spring2019,Artistic Creation in Fin-de-siècle France,FALSE
+"Weisberg,Meg Furniss",.M.W... 10:50AM-12:10PM;,TBA,15,0,0,15,0,0,0,0,15,FALSE,FIST148,Fall2018,Responding to Political Turmoil,FALSE
+"Barlow,Rachael",.M..... 01:20PM-02:40PM;,TBA,15,2,4,15,NA,5,5,5,0,FALSE,FIST250,Fall2018,Integrative Learning Project 1: Reflecting About the Liberal Arts,FALSE
+"Barlow,Rachael",...W... 01:20PM-02:40PM;,TBA,15,8,7,15,0,0,0,0,0,FALSE,FIST350,Fall2018,Integrative Learning Project 2: Senior Capstone,FALSE
+"Greene,Nathanael",.M.W.F. 09:50AM-10:40AM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,HIST220,Spring2019,France Since 1870,TRUE
+"Rider,Jeff",..T.R.. 02:50PM-04:10PM;,TBA,18,0,0,18,NA,0,0,9,9,FALSE,FIST300,Spring2019,The Arthurian Legend on Film,TRUE
+"Winston,Krishna R.",..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,GRST230,Spring2019,The Simple Life (FYS),TRUE
+"Baeumel,Martin",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,2,3,5,9,FALSE,GRST101,Fall2018,Elementary German,FALSE
+"Baeumel,Martin",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,2,3,5,9,FALSE,GRST101,Fall2018,Elementary German,FALSE
+"Winston,Krishna R.",.M.W.F. 10:50AM-11:40AM;,TBA,16,0,0,16,NA,1,3,7,5,FALSE,GRST211,Fall2018,Intermediate German,FALSE
+"Baeumel,Martin",.M.W.F. 02:50PM-03:40PM;,TBA,16,0,0,16,NA,1,4,8,3,FALSE,GRST211,Fall2018,Intermediate German,FALSE
+"Winston,Krishna R.",..T.R.. 10:20AM-11:40AM;,TBA,16,2,4,16,NA,1,3,3,3,FALSE,GRST213,Fall2018,German Culture Today,FALSE
+"Baeumel,Martin",.M.W.F. 08:50AM-09:40AM;,TBA,19,NA,NA,19,NA,2,3,5,9,FALSE,GRST102,Spring2019,Elementary German,FALSE
+"Baeumel,Martin",.M.W.F. 09:50AM-10:40AM;,TBA,19,NA,NA,19,NA,2,3,5,9,FALSE,GRST102,Spring2019,Elementary German,FALSE
+"Plass,Ulrich",.M.W.F. 10:50AM-11:40AM;,TBA,16,0,2,16,NA,0,2,8,4,FALSE,GRST212,Spring2019,Practice in Speaking and Writing German,FALSE
+"Feller,Yaniv",..T.R.. 02:50PM-04:10PM;,TBA,19,2,2,19,0,4,4,4,3,FALSE,RELI272,Spring2019,Ethics After the Holocaust,TRUE
+"Winston,Krishna R.",.M.W... 02:50PM-04:10PM;,TBA,14,4,2,14,NA,2,2,2,2,FALSE,GRST376,Spring2019,The Volksstück Tradition,FALSE
+"Visvardi,Eirene",.M.W... 10:50AM-12:10PM; .....F. 10:50AM-11:40AM;,TBA,10,1,1,10,NA,1,1,3,3,FALSE,GRK102,Fall2018,Introduction to Ancient Greek: Semester II,FALSE
+"Szegedy-Maszak,Andrew",..T.R.. 02:50PM-04:10PM;,TBA,18,5,5,18,NA,5,3,0,0,FALSE,GRK367,Fall2018,The Great Greek Creation Myth:  Hesiod's Theogony,FALSE
+"Szegedy-Maszak,Andrew",.M.W... 10:50AM-12:10PM; .....F. 10:50AM-11:40AM;,TBA,10,0,3,10,NA,0,0,4,3,FALSE,GRK101,Spring2019,Introduction to Ancient Greek: Semester I,FALSE
+"Visvardi,Eirene",.M.W... 01:20PM-02:40PM;,TBA,15,2,3,15,NA,2,3,3,2,FALSE,GRK201,Spring2019,Reading Greek Prose: Plato's Crito,FALSE
+"Katz,Dalit",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,1,5,12,FALSE,HEBR101,Fall2018,Elementary Hebrew I,FALSE
+"Katz,Dalit",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,1,2,10,5,FALSE,HEBR201,Fall2018,Intermediate Hebrew I,FALSE
+"Katz,Dalit",..T.R.. 10:20AM-11:40AM;,TBA,18,0,0,18,NA,3,6,6,3,FALSE,HEBR211,Fall2018,Hebrew Literature,FALSE
+"Katz,Dalit",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,1,5,12,FALSE,HEBR102,Spring2019,Elementary Hebrew II,FALSE
+"Katz,Dalit",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,1,2,10,5,FALSE,HEBR202,Spring2019,Intermediate Hebrew II,FALSE
+"Zamboni,Camilla",.M.W.F. 08:50AM-09:40AM;,TBA,18,0,0,18,0,0,0,6,12,FALSE,ITAL101,Fall2018,Elementary Italian I,FALSE
+"Nerenberg,Ellen",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,0,0,0,6,12,FALSE,ITAL101,Fall2018,Elementary Italian I,FALSE
+"Zamboni,Camilla",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,0,0,3,12,3,FALSE,ITAL111,Fall2018,Intermediate Italian I,FALSE
+"Zamboni,Camilla",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,0,0,3,12,3,FALSE,ITAL111,Fall2018,Intermediate Italian I,FALSE
+"Nerenberg,Ellen",.M.W.F. 10:50AM-11:40AM;,TBA,15,0,5,15,0,0,5,3,2,FALSE,ITAL221,Fall2018,"Culture, Society, and History in Italy I",FALSE
+"Aresu,Francesco Marco",..T.R.. 07:10PM-08:30PM;,TBA,18,4,4,18,0,3,3,2,2,FALSE,ITAL236,Fall2018,Inferno,FALSE
+"Nerenberg,Ellen",.M.W.F. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,0,6,12,FALSE,ITAL102,Spring2019,Elementary Italian II,FALSE
+STAFF,.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,0,6,12,FALSE,ITAL102,Spring2019,Elementary Italian II,FALSE
+"Zamboni,Camilla",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,3,12,3,FALSE,ITAL112,Spring2019,Intermediate Italian II,FALSE
+"Zamboni,Camilla",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,3,12,3,FALSE,ITAL112,Spring2019,Intermediate Italian II,FALSE
+STAFF,.M.W.F. 10:50AM-11:40AM;,TBA,18,0,5,18,NA,2,6,3,2,FALSE,ITAL222,Spring2019,"Culture, Society, and History in Italy II",FALSE
+"Nerenberg,Ellen",.M.W... 02:50AM-04:10AM;,TBA,15,4,4,15,NA,3,3,2,2,FALSE,ITAL247,Spring2019,Coming Out/Coming of Age: Narratives of Becoming in Italian Culture,FALSE
+"Witzke,Serena S.",.M.W... 10:50AM-12:10PM; .....F. 10:50AM-11:40AM;,TBA,25,1,2,25,NA,1,3,8,10,FALSE,LAT101,Fall2018,First-Year Latin: Semester I,FALSE
+"Parslow,Christopher",..T.R.. 01:20PM-02:40PM;,TBA,19,3,3,19,NA,2,3,4,4,FALSE,LAT201,Fall2018,Catullus and Cicero: Love and Life in Republican Rome,FALSE
+"Witzke,Serena S.",..T.R.. 01:20PM-02:40PM;,TBA,15,3,3,15,NA,3,3,2,1,FALSE,LAT331,Fall2018,Vergil: AENEID 7-12,FALSE
+"Witzke,Serena S.",.M.W... 10:50AM-12:10PM; .....F. 10:50AM-11:40AM;,TBA,37,2,3,37,NA,2,5,10,15,FALSE,LAT102,Spring2019,First-Year Latin: Semester II,FALSE
+"Parslow,Christopher",.M.W.F. 09:50AM-10:40AM;,TBA,20,2,3,20,NA,2,3,5,5,FALSE,LAT104,Spring2019,Intensive Introductory Latin,FALSE
+"Szegedy-Maszak,Andrew",..T.R.. 10:50AM-12:10PM;,TBA,16,2,3,16,NA,1,2,4,4,FALSE,LAT202,Spring2019,Ovid: METAMORPHOSES,FALSE
+"Parslow,Christopher",..T.R.. 10:50AM-12:10PM;,TBA,14,3,3,14,NA,3,2,2,1,FALSE,LAT353,Spring2019,Demagogues and Tyrants in the Roman Historians,FALSE
+"Basile,Joseph M.",.M.W.F. 12:00PM-12:50PM;,TBA,19,0,0,19,NA,2,6,6,5,FALSE,LANG190,Fall2018,American Sign Language I,FALSE
+STAFF   STAFF,.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,2,6,6,5,FALSE,LANG190,Fall2018,American Sign Language I,FALSE
+"Basile,Joseph M.",.M.W.F. 12:00PM-12:50PM;,TBA,19,0,0,19,NA,2,6,6,5,FALSE,LANG191,Spring2019,Beginning American Sign Language II,FALSE
+STAFF,.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,2,6,6,5,FALSE,LANG191,Spring2019,Beginning American Sign Language II,FALSE
+"Galloway,Kate",.M.W... 02:50PM-04:10PM;,TBA,50,2,8,50,NA,2,8,15,15,FALSE,MUSC102,Fall2018,World Music,FALSE
+"Grant,Roger Mathew",..T.R.. 08:50AM-10:10AM;,TBA,60,0,0,60,NA,3,3,22,32,FALSE,MUSC103,Fall2018,Materials and Design,FALSE
+"Alden,Jane",.M.W... 01:20PM-02:40PM;,TBA,26,4,4,26,NA,0,0,9,9,FALSE,MUSC106,Fall2018,A Thousand Years of Music History,FALSE
+"Matthusen,Paula",..T.R.. 02:50PM-04:10PM;,TBA,40,5,5,40,NA,0,5,5,20,FALSE,MUSC109,Fall2018,Introduction to Experimental Music,FALSE
+"Balasubrahmaniyan,B.    Nelson,David Paul",..T.R.. 10:20AM-11:40AM;,TBA,30,3,3,30,NA,3,3,3,15,FALSE,MUSC110,Fall2018,Introduction to South Indian Music,FALSE
+"Bruce,Neely",.M.W... 01:20PM-02:40PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Poetry and Song (FYS),FALSE
+"Grant,Roger Mathew",..T.R.. 01:20PM-02:40PM;,TBA,19,5,5,19,NA,3,3,3,0,FALSE,MUSC208,Fall2018,Post-Tonal Music Theory,FALSE
+"Hoggard,Jay Clinton",..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC210,Fall2018,Theory of Jazz Improvisation,TRUE
+STAFF,...W... 01:20PM-04:10PM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA279,Fall2018,Music Theater Workshop,TRUE
+"Alden,Jane",.M.W... 02:50PM-04:10PM;,TBA,20,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC241,Fall2018,Allegory and Devotion in Medieval and Renaissance Music,TRUE
+"Potemkina,Nadya",..T.R.. 01:20PM-02:40PM;,TBA,15,3,3,15,NA,3,2,2,2,FALSE,MUSC246,Fall2018,The Symphony: Evolution of Genre,FALSE
+"Charry,Eric    Dankwa,John Wesley",.M.W... 01:20PM-02:40PM;,TBA,40,5,5,40,NA,10,10,5,5,FALSE,MUSC265,Fall2018,African Presences I: Music in Africa,FALSE
+"Bruce,Neely",.M.W... 10:50AM-12:10PM;,TBA,19,5,5,19,NA,0,0,5,4,FALSE,MUSC274,Fall2018,Hymnody in the United States Before the Civil War,TRUE
+"Zheng,Su",..T.R.. 02:50PM-04:10PM;,TBA,30,3,5,30,NA,2,5,15,0,FALSE,MUSC291,Fall2018,The Gendering of Music in Cross-Cultural Perspective,TRUE
+"Galloway,Kate",.M.W... 10:50AM-12:10PM;,TBA,15,7,8,15,NA,NA,NA,NA,NA,FALSE,MUSC300,Fall2018,Seminar for Music Majors,FALSE
+"Ebrecht,Ronald",..T.R.. 10:20AM-11:40AM;,TBA,12,6,6,12,NA,NA,NA,NA,NA,FALSE,MUSC300,Fall2018,Seminar for Music Majors,FALSE
+"Wiseman,Roy H.",TBA;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Ribchinsky,Julie Ann",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Aklaff,Pheeroan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Standaart,Peter",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Hoyle,Robert J.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Lombardozzi,Tony",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Sesma,Megan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Van Cleve,Libby",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Bozzi,Eugene",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Halsted,Carolyn Frances",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Braun,William R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Simmons,Fred",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Brown,Nancy",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Lazur,Allison",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Warshaw,Marvin D.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Elliot,Perry C.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Gale,Priscilla E.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Earhart,Robert",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Yueh,Chai-lun",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Duruoz,Cem",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Scott,Stanley A.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Edwards,Peter Craig",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Bergeron,John R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Gates,Giacomo",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Suriyakham,Charlie",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Stockton,Sarah",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Fall2018,Private Music Lessons for Nonmusic Majors,FALSE
+"Wiseman,Roy H.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Ribchinsky,Julie Ann",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Aklaff,Pheeroan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Standaart,Peter",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Hoyle,Robert J.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Lombardozzi,Tony",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Sesma,Megan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Van Cleve,Libby",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Bozzi,Eugene",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Halsted,Carolyn Frances",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Braun,William R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Simmons,Fred",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Brown,Nancy",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Lazur,Allison",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Warshaw,Marvin D.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Elliot,Perry C.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Gale,Priscilla E.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Earhart,Robert",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Yueh,Chai-lun",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Duruoz,Cem",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Scott,Stanley A.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Edwards,Peter Craig",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Bergeron,John R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Gates,Giacomo",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Suriyakham,Charlie",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Stockton,Sarah",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Fall2018,Private Music Lessons for Declared Music Majors,FALSE
+"Balasubrahmaniyan,B.",.M.W... 02:50PM-04:10PM;,TBA,10,1,2,10,1,0,0,2,4,FALSE,MUSC430,Fall2018,South Indian Voice--Beginning,FALSE
+"Balasubrahmaniyan,B.",..T.R.. 02:50PM-04:10PM;,TBA,8,3,2,8,NA,2,1,0,0,FALSE,MUSC432,Fall2018,South Indian Voice--Advanced,FALSE
+"Nelson,David Paul",TBA;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC433,Fall2018,South Indian Music--Percussion,FALSE
+"Potemkina,Nadya",..T.R.. 05:00PM-06:30PM;,TBA,56,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC436,Fall2018,Wesleyan Concert Choir,FALSE
+"Potemkina,Nadya",.M..... 06:30PM-09:00PM;,TBA,40,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC439,Fall2018,Wesleyan University Orchestra,FALSE
+"Ebrecht,Ronald",..T.R.. 01:20PM-02:40PM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC441,Fall2018,"Pipe Organ in Theory and Practice, from Sanctuary to Stage: A Performance-Based Examination of Music",FALSE
+"Ebrecht,Ronald",..T.R.. 02:50PM-04:10PM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC441,Fall2018,"Pipe Organ in Theory and Practice, from Sanctuary to Stage: A Performance-Based Examination of Music",FALSE
+STAFF,.....F. 12:10PM-02:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC442,Fall2018,Chamber Music Ensemble,FALSE
+"LaRusso,Salvatore",..T.... 07:10PM-09:40PM;,TBA,40,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC443,Fall2018,Wesleyan Wind Ensemble (WesWinds),FALSE
+"Dankwa,John Wesley",..T.R.. 02:50PM-04:10PM;,TBA,35,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC445,Fall2018,West African Music and Culture--Beginners,FALSE
+"Dankwa,John Wesley",..T.R.. 06:40PM-08:10PM;,TBA,20,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC446,Fall2018,West African Music and Culture--Intermediate,FALSE
+STAFF,.M..... 07:30PM-10:30PM;,TBA,100,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC448,Fall2018,Ebony Singers: Gospel Music,TRUE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC450,Fall2018,Steelband,FALSE
+"Sumarsam,Prof.    Harjito,I.",..T.R.. 10:20AM-11:40AM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC451,Fall2018,Javanese Gamelan--Beginners,FALSE
+"Sumarsam,Prof.    Harjito,I.",.M..R.. 08:00PM-10:00PM;,TBA,19,4,4,19,NA,4,4,3,0,FALSE,MUSC452,Fall2018,Javanese Gamelan--Advanced,FALSE
+STAFF,...W... 05:10PM-07:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC455,Fall2018,Jazz Ensemble,FALSE
+"Hoggard,Jay Clinton",..T.R.. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC457,Fall2018,Jazz Orchestra I,TRUE
+"Sorey,Tyshawn",.M..... 01:20PM-04:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC459,Fall2018,Wesleyan Ensemble for 20th and 21st Century Classical and Contemporary Music Part 1,TRUE
+"Kuivila,Ronald J.",..T.... 01:00PM-04:30PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHUM347,Fall2018,Sound Systems: The How of Hearing,TRUE
+"Zheng,Su",.M..... 08:50AM-11:40AM;,TBA,10,NA,NA,10,10,NA,NA,NA,NA,FALSE,MUSC506,Fall2018,Reading Ethnomusicology,FALSE
+"Sorey,Tyshawn",.M..... 08:50AM-11:40AM;,TBA,10,0,0,10,10,0,NA,NA,NA,FALSE,MUSC508,Fall2018,Graduate Seminar in Composition,FALSE
+"Charry,Eric",...W... 08:50AM-11:40AM;,TBA,15,NA,NA,15,15,NA,NA,NA,NA,FALSE,MUSC510,Fall2018,Graduate Proseminar in World Music Studies,FALSE
+"Galloway,Kate",.....F. 08:50AM-11:40AM;,TBA,10,NA,NA,10,10,NA,NA,NA,NA,FALSE,MUSC515,Fall2018,Mapping Music as/in Motion: The Cartographies and Circulation of Aural Culture,FALSE
+"Grant,Roger Mathew",....R.. 04:30PM-06:15PM;,TBA,25,NA,NA,25,25,NA,NA,NA,NA,FALSE,MUSC530,Fall2018,Department of Music Colloquium,FALSE
+"Matthusen,Paula",.M.W... 01:20PM-02:40PM;,TBA,17,0,0,17,NA,1,1,7,8,FALSE,MUSC103,Spring2019,Materials and Design,FALSE
+"Charry,Eric",.M.W.F. 01:20PM-02:10PM;,TBA,120,5,5,120,NA,20,20,35,35,FALSE,MUSC108,Spring2019,History of Rock and r&b,FALSE
+"Galloway,Kate",..T.R.. 08:50AM-10:10AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Music and the Moving Image: From Music Video to Film to Digital Media (FYS),FALSE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,25,3,4,25,NA,1,1,8,8,FALSE,MUSC201,Spring2019,Tonal Harmony,FALSE
+"Sorey,Tyshawn",.M.W... 10:50AM-12:10PM;,TBA,15,3,6,15,NA,3,3,NA,NA,FALSE,MUSC204,Spring2019,Undergraduate Seminar in Composition,FALSE
+"Bruce,Neely",.M.W... 02:50PM-04:10PM;,TBA,14,4,4,14,NA,2,2,2,0,FALSE,MUSC206,Spring2019,18th-Century Counterpoint,FALSE
+"Nelson,David Paul",.M.W... 02:50PM-04:10PM;,TBA,14,2,2,14,NA,2,2,2,4,FALSE,MUSC212,Spring2019,South Indian Music: Solkattu,FALSE
+"Kuivila,Ronald J.",.M.W... 02:50PM-04:10PM;,TBA,15,0,5,15,NA,0,3,3,4,FALSE,MUSC220,Spring2019,"Composing, Performing, and Listening to Experimental Music",FALSE
+"Kuivila,Ronald J.",..T.R.. 01:20PM-02:40PM;,TBA,16,8,8,16,NA,0,0,0,0,FALSE,MUSC223,Spring2019,"Music, Recording, and Sound Design",FALSE
+"Bruce,Neely",..T.R.. 10:20AM-11:40AM;,TBA,25,9,9,25,NA,0,0,4,3,FALSE,MUSC243,Spring2019,Music of the 19th Century,FALSE
+"Alden,Jane",...W... 07:10PM-10:00PM;,TBA,12,3,3,12,NA,3,3,NA,NA,FALSE,MUSC249,Spring2019,Calderwood Seminar in Public Writing: Music Journalism and Public Musicology,FALSE
+"Hoggard,Jay Clinton",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC269,Spring2019,Sacred and Secular African American Musics,TRUE
+"Sumarsam,Prof.",.M.W... 10:50AM-12:10PM;,TBA,15,8,7,15,NA,NA,NA,NA,NA,FALSE,MUSC300,Spring2019,Seminar for Music Majors,FALSE
+"Wiseman,Roy H.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Ribchinsky,Julie Ann",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Aklaff,Pheeroan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Standaart,Peter",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Hoyle,Robert J.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Lombardozzi,Tony",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Sesma,Megan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Van Cleve,Libby",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Bozzi,Eugene",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Halsted,Carolyn Frances",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Braun,William R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Simmons,Fred",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Brown,Nancy",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Lazur,Allison",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Warshaw,Marvin D.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Elliot,Perry C.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Gale,Priscilla E.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Earhart,Robert",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Yueh,Chai-lun",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Duruoz,Cem",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Scott,Stanley A.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Edwards,Peter Craig",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Bergeron,John R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Gates,Giacomo",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Suriyakham,Charlie",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Stockton,Sarah",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC405,Spring2019,Private Music Lessons for Nonmusic Majors,FALSE
+"Wiseman,Roy H.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Ribchinsky,Julie Ann",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Aklaff,Pheeroan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Standaart,Peter",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Hoyle,Robert J.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Lombardozzi,Tony",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Sesma,Megan",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Van Cleve,Libby",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Bozzi,Eugene",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Halsted,Carolyn Frances",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Braun,William R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Simmons,Fred",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Bennett,Garrett",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Brown,Nancy",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Lazur,Allison",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Warshaw,Marvin D.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Elliot,Perry C.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Gale,Priscilla E.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Earhart,Robert",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Yueh,Chai-lun",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Duruoz,Cem",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Scott,Stanley A.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Edwards,Peter Craig",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Bergeron,John R.",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Gates,Giacomo",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Suriyakham,Charlie",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Stockton,Sarah",12:00AM-12:00AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC406,Spring2019,Private Music Lessons for Declared Music Majors,FALSE
+"Balasubrahmaniyan,B.",..T.R.. 02:50PM-04:10PM;,TBA,10,1,2,10,1,0,0,2,4,FALSE,MUSC430,Spring2019,South Indian Voice--Beginning,FALSE
+"Balasubrahmaniyan,B.",..T.R.. 10:20AM-11:40AM;,TBA,8,2,2,8,NA,2,1,1,0,FALSE,MUSC431,Spring2019,South Indian Voice--Intermediate,FALSE
+"Nelson,David Paul",TBA;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC433,Spring2019,South Indian Music--Percussion,FALSE
+"Potemkina,Nadya",..T.R.. 05:00PM-06:30PM;,TBA,56,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC436,Spring2019,Wesleyan Concert Choir,FALSE
+"Alden,Jane",.M.W... 01:20PM-02:40PM;,TBA,25,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC438,Spring2019,Wesleyan University Collegium Musicum,TRUE
+"Potemkina,Nadya",.M..... 06:30PM-09:00PM;,TBA,40,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC439,Spring2019,Wesleyan University Orchestra,FALSE
+"Ebrecht,Ronald",..T.R.. 01:20PM-02:40PM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC441,Spring2019,"Pipe Organ in Theory and Practice, from Sanctuary to Stage: A Performance-Based Examination of Music",FALSE
+"Ebrecht,Ronald",..T.R.. 02:50PM-04:10PM;,TBA,9,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC441,Spring2019,"Pipe Organ in Theory and Practice, from Sanctuary to Stage: A Performance-Based Examination of Music",FALSE
+"LaRusso,Salvatore",..T.... 07:10PM-09:40PM;,TBA,40,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC443,Spring2019,Wesleyan Wind Ensemble (WesWinds),FALSE
+"Dankwa,John Wesley",..T.R.. 02:50PM-04:10PM;,TBA,35,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC445,Spring2019,West African Music and Culture--Beginners,FALSE
+"Dankwa,John Wesley",..T.R.. 06:40PM-08:10PM;,TBA,14,3,3,14,NA,3,3,2,0,FALSE,MUSC447,Spring2019,West African Music and Culture--Advanced,FALSE
+STAFF,.M..... 07:30PM-10:30PM;,TBA,100,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC448,Spring2019,Ebony Singers: Gospel Music,TRUE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC450,Spring2019,Steelband,FALSE
+"Sumarsam,Prof.    Harjito,I.",..T.R.. 10:20AM-11:40AM;,TBA,18,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC451,Spring2019,Javanese Gamelan--Beginners,FALSE
+"Sumarsam,Prof.    Harjito,I.",.M..R.. 08:00PM-10:00PM;,TBA,19,4,4,19,NA,3,4,4,0,FALSE,MUSC452,Spring2019,Javanese Gamelan--Advanced,FALSE
+STAFF,...W... 05:10PM-07:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC455,Spring2019,Jazz Ensemble,FALSE
+"Hoggard,Jay Clinton",..T.R.. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC458,Spring2019,Jazz Orchestra II,TRUE
+"Sorey,Tyshawn",.M..... 01:20PM-04:10PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC460,Spring2019,Wesleyan Ensemble for 20th and 21st Century Classical and Contemporary Music Part II,TRUE
+"Nelson,David Paul",TBA;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,MUSC463,Spring2019,Teaching Music Lessons to Children in Local Schools,FALSE
+"Galloway,Kate",.....F. 08:50AM-11:40AM;,TBA,10,NA,NA,10,10,NA,NA,NA,NA,FALSE,MUSC505,Spring2019,Topics in Applied Ethnomusicology/Public Musicology,FALSE
+"Charry,Eric",...W... 08:50AM-11:40AM;,TBA,12,0,0,12,12,NA,NA,NA,NA,FALSE,MUSC513,Spring2019,Improvisation in Cross-Cultural Perspective,FALSE
+"Zheng,Su",.M..... 08:50AM-11:40AM;,TBA,12,NA,NA,12,12,NA,NA,NA,NA,FALSE,MUSC519,Spring2019,Current Issues in Ethnomusicology,FALSE
+"Kuivila,Ronald J.",....R.. 04:30PM-06:15PM;,TBA,25,NA,NA,25,25,NA,NA,NA,NA,FALSE,MUSC530,Spring2019,Department of Music Colloquium,FALSE
+"Jackson,Elizabeth Anne",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,0,4,4,10,0,FALSE,PORT155,Fall2018,Portuguese (Romance Language Speakers) I,FALSE
+"Jackson,Elizabeth Anne",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,4,4,10,0,FALSE,PORT156,Spring2019,Portuguese (Romance Language Speakers) II,FALSE
+"Aleshkovsky,Irina",.M.W.F. 01:20PM-02:10PM; ..T.R.. 08:50AM-09:40AM;,TBA,18,1,2,18,NA,0,0,3,12,FALSE,RUSS101,Fall2018,Elementary Russian I,FALSE
+"Aleshkovsky,Irina",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,0,1,9,9,FALSE,RUSS201,Fall2018,Intermediate Russian I,FALSE
+"Fusso,Susanne Grace",.M.W... 10:50AM-12:10PM;,TBA,19,2,2,19,NA,2,2,2,9,FALSE,RUSS205,Fall2018,"Murder and Adultery: Dostoevsky, Tolstoy, and the 19th-Century Russian Novel",TRUE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,Crosslisting:,"RULE208F,",Otherness & Belonging (FYS),FALSE
+STAFF,..T.R.. 01:20PM-02:40PM;,TBA,19,2,2,19,NA,3,3,5,4,FALSE,REES235,Fall2018,Queer Russia,TRUE
+"Fusso,Susanne Grace",.M.W... 02:50PM-04:10PM;,TBA,15,2,3,15,NA,3,3,2,2,FALSE,RUSS267,Fall2018,"Parody: Humor, Artistic Evolution, and Restoration of the Sacred",TRUE
+"Aleshkovsky,Irina",.M.W.F. 10:50AM-11:40AM;,TBA,15,1,2,15,NA,0,0,7,5,FALSE,RUSS301,Fall2018,Third-Year Russian I,FALSE
+"Aleshkovsky,Irina",.M.W.F. 01:20PM-02:10PM; ..T.R.. 08:50AM-09:40AM;,TBA,18,1,2,18,0,0,0,3,12,FALSE,RUSS102,Spring2019,Elementary Russian II,FALSE
+"Aleshkovsky,Irina",.M.W.F. 09:50AM-10:40AM;,TBA,17,0,0,17,0,0,0,9,8,FALSE,RUSS202,Spring2019,Intermediate Russian II,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,25,2,3,25,0,5,5,5,5,FALSE,REES233,Spring2019,Introduction to Russian and Soviet Cinema,TRUE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,19,2,2,19,0,3,3,5,4,FALSE,REES254,Spring2019,Nobel Laureates: The Politics of Literature,TRUE
+"Fusso,Susanne Grace",.M.W... 02:50PM-04:10PM;,TBA,19,2,2,19,NA,2,2,4,7,FALSE,RUSS255,Spring2019,"Prague, Vienna, Sarajevo: 20th-Century Novels from Central and Eastern Europe",TRUE
+"Aleshkovsky,Irina",.M.W.F. 10:50AM-11:40AM;,TBA,15,1,2,15,0,0,0,7,5,FALSE,RUSS302,Spring2019,Third-Year Russian II,FALSE
+"Treme,Matthew James",.M.W.F. 10:50AM-11:40AM;,TBA,18,NA,NA,18,NA,NA,NA,4,14,FALSE,SPAN103,Fall2018,Elementary Spanish for High Beginners,FALSE
+"Neary,Louise C.",.M.W.F. 08:50AM-09:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN111,Fall2018,Intermediate Spanish I,FALSE
+"Neary,Louise C.",.M.W.F. 09:50AM-10:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN111,Fall2018,Intermediate Spanish I,FALSE
+"Perez-Girones,Ana M.",.M.W.F. 10:50AM-11:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN111,Fall2018,Intermediate Spanish I,FALSE
+"Neary,Louise C.",.M.W.F. 01:20PM-02:10PM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN111,Fall2018,Intermediate Spanish I,FALSE
+"Perez-Girones,Ana M.",.M.W.F. 08:50AM-09:40AM;,TBA,18,NA,NA,18,NA,NA,NA,9,9,FALSE,SPAN113,Fall2018,Intermediate-Advanced Spanish,FALSE
+"Perez-Girones,Ana M.",.M.W.F. 09:50AM-10:40AM;,TBA,18,NA,NA,18,NA,NA,NA,9,9,FALSE,SPAN113,Fall2018,Intermediate-Advanced Spanish,FALSE
+"Treme,Matthew James",.M.W.F. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Fall2018,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Ospina,Maria",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Fall2018,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Conn,Robert T.",.M.W.F. 10:50AM-11:40AM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Fall2018,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Sendra Ferrer,Olga",.M.W.F. 01:20PM-02:10PM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Fall2018,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Sendra Ferrer,Olga",.M.W... 02:50PM-04:10PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN256,Fall2018,"City, Mobility, and Technology: Towards the Modern City in Spain",FALSE
+"Gonzalez,Bernardo Antonio",..T.R.. 08:50AM-10:10AM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN258,Fall2018,The Intercultural Stage: Migration and the Performing Arts in the Hispanic World,TRUE
+"Ospina,Maria",.M.W... 01:20PM-02:40PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN282,Fall2018,Narratives of Crisis: Violence and Representation in Contemporary Latin American Culture,TRUE
+"Conn,Robert T.",..T.R.. 10:20AM-11:40AM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN284,Fall2018,Tales of Resistance: Modernity and the Latin American Short Story,TRUE
+"Flores-Cuadra,Octavio",.M.W.F. 10:50AM-11:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN110,Spring2019,Spanish for High Beginners,FALSE
+"Perez-Girones,Ana M.",.M.W.F. 08:50AM-09:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN112,Spring2019,Intermediate Spanish II,FALSE
+"Neary,Louise C.",.M.W.F. 09:50AM-10:40AM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN112,Spring2019,Intermediate Spanish II,FALSE
+"Flores-Cuadra,Octavio",.M.W.F. 01:20PM-02:10PM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN112,Spring2019,Intermediate Spanish II,FALSE
+"Flores-Cuadra,Octavio",.M.W.F. 02:50PM-03:40PM;,TBA,18,NA,NA,18,NA,0,0,8,10,FALSE,SPAN112,Spring2019,Intermediate Spanish II,FALSE
+"Perez-Girones,Ana M.",.M.W... 02:50PM-04:10PM;,TBA,18,0,0,18,NA,0,0,8,10,FALSE,SPAN203,Spring2019,Spanish for Heritage Speakers,FALSE
+"Treme,Matthew James",.M.W.F. 08:50AM-09:40AM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Spring2019,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Sendra Ferrer,Olga",.M.W.F. 09:50AM-10:40AM;,TBA,18,0,0,18,NA,0,2,9,7,FALSE,SPAN221,Spring2019,Introduction to Hispanic Literatures and Advanced Practice in Spanish,FALSE
+"Ospina,Maria",..T.R.. 10:20AM-11:40AM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,SPAN227,Spring2019,Writing Short Fiction in Spanish,TRUE
+"Sendra Ferrer,Olga",.M.W... 02:50PM-04:10PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN259,Spring2019,Detective Fiction: Procedure and Paranoia in Spanish Narrative,FALSE
+"Conn,Robert T.",.M.W.F. 01:20PM-02:10PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN270,Spring2019,Spanish American Literature and Civilization,TRUE
+"Ospina,Maria",..T.R.. 02:50PM-04:10PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN280,Spring2019,Screening Youth in Contemporary Latin American Cinema,TRUE
+"Conn,Robert T.",..T.R.. 01:20PM-02:40PM;,TBA,18,10,3,18,NA,1,1,2,1,FALSE,SPAN286,Spring2019,Simón Bolívar: The Politics of Monument Building,TRUE
+"Foster,Rebecca",.....F. 09:00AM-10:20AM;,TBA,6,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Fall2018,Production Laboratory,FALSE
+"Anderson,Calvin O'Malley",.....F. 10:50AM-12:10PM;,TBA,6,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Fall2018,Production Laboratory,FALSE
+"Milik,Christian L.",.M..... 04:20PM-05:40PM;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Fall2018,Production Laboratory,FALSE
+"Jenkins,Ronald S.",...W.F. 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,THEA135,Fall2018,Documentary Performance: Theater and Social Justice,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,32,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA183,Fall2018,Directed Experiences in Acting,FALSE
+"Brewer Ball,Katherine",.M.W... 01:20PM-02:40PM;,TBA,18,1,4,18,NA,0,0,7,6,FALSE,THEA203,Fall2018,Special Topics in Theater History,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA245,Fall2018,Acting I,FALSE
+STAFF,..T.R.. 01:20PM-02:40PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA245,Fall2018,Acting I,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA245,Fall2018,Acting I,FALSE
+"Brewer Ball,Katherine",.M.W... 02:50PM-04:10PM;,TBA,19,5,5,19,NA,3,3,3,0,FALSE,THEA267,Fall2018,Revolution Girl-Style Now: Queer and Feminist Performance Strategies,TRUE
+STAFF,...W... 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA281,Fall2018,Introduction to Directing,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA285,Fall2018,Acting II,FALSE
+"Anderson,Calvin O'Malley",..T.R.. 10:20AM-11:40AM;,TBA,12,0,3,12,NA,NA,0,6,3,FALSE,THEA315,Fall2018,Stage Management,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Fall2018,Technical Practice A,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Fall2018,Technical Practice B,FALSE
+"Jenkins,Ronald S.",....R.. 01:20PM-04:10PM;,TBA,12,3,3,12,NA,3,3,0,NA,FALSE,THEA350,Fall2018,Calderwood Seminar in Public Writing: Arts Journalism,FALSE
+STAFF,..T.R.. 01:20PM-02:40PM;,TBA,12,4,4,12,NA,0,0,4,0,FALSE,THEA383,Fall2018,Introduction to Costume Design for Performance,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA427,Fall2018,Performance Practice A,FALSE
+"Conlin,Kathleen F.",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA427,Fall2018,Performance Practice A,FALSE
+STAFF,TBA;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA431,Fall2018,Performance Practice B,FALSE
+"Conlin,Kathleen F.",TBA;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA431,Fall2018,Performance Practice B,FALSE
+STAFF,TBA;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA433,Fall2018,Performance Practice C,FALSE
+"Conlin,Kathleen F.",TBA;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA433,Fall2018,Performance Practice C,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA435,Fall2018,Performance Practice in Design A,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA435,Fall2018,Performance Practice in Design A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA437,Fall2018,Performance Practice in Design B,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA437,Fall2018,Performance Practice in Design B,FALSE
+"Foster,Rebecca",.....F. 09:00AM-10:20AM;,TBA,6,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Spring2019,Production Laboratory,FALSE
+"Anderson,Calvin O'Malley",.....F. 10:50AM-12:10PM;,TBA,6,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Spring2019,Production Laboratory,FALSE
+"Milik,Christian L.",.M..... 04:20PM-05:40PM;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA105,Spring2019,Production Laboratory,FALSE
+"Jenkins,Ronald S.",.M..... 04:00PM-09:00PM;,TBA,11,0,0,11,NA,0,2,4,5,FALSE,THEA115,Spring2019,America in Prison: Theater Behind Bars,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,32,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA183,Spring2019,Directed Experiences in Acting,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,10,0,0,10,NA,0,0,0,10,FALSE,THEA185,Spring2019,Text and the Visual Imagination,FALSE
+STAFF,..T.R.. 01:20PM-02:40PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA245,Spring2019,Acting I,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA245,Spring2019,Acting I,FALSE
+"Brewer Ball,Katherine",.M.W... 10:50AM-12:10PM;,TBA,23,5,8,23,NA,0,0,10,0,FALSE,THEA302,Spring2019,Contemporary Theater: Theories and Aesthetics,FALSE
+"Anderson,Calvin O'Malley",.....F. 01:20PM-04:10PM;,TBA,12,3,4,12,NA,0,2,3,0,FALSE,THEA305,Spring2019,Lighting Design for the Theater,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Ote�za,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Oteíza,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA329,Spring2019,Technical Practice A,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Foster,Rebecca",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Ote�za,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Oteíza,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA331,Spring2019,Technical Practice B,FALSE
+"Jenkins,Ronald S.",..T.... 01:20PM-04:10PM;,TBA,12,3,3,12,NA,3,3,0,NA,FALSE,THEA350,Spring2019,Calderwood Seminar in Public Writing: Arts Journalism,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,8,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA381,Spring2019,Directing II,FALSE
+STAFF,TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA427,Spring2019,Performance Practice A,FALSE
+"Conlin,Kathleen F.",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA427,Spring2019,Performance Practice A,FALSE
+STAFF,TBA;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA431,Spring2019,Performance Practice B,FALSE
+"Conlin,Kathleen F.",TBA;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA431,Spring2019,Performance Practice B,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA435,Spring2019,Performance Practice in Design A,FALSE
+"Ote�za,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA435,Spring2019,Performance Practice in Design A,FALSE
+"Anderson,Calvin O'Malley",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA437,Spring2019,Performance Practice in Design B,FALSE
+"Ote�za,Marcela",TBA;,TBA,7,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,THEA437,Spring2019,Performance Practice in Design B,FALSE
+"Weiss,Margot",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,Crosslisting:,FGSS117F,Social Norms and Social Power (FYS),FALSE
+"Hill,Patricia R.",.M.W... 02:50PM-04:10PM;,TBA,40,3,3,40,NA,0,0,24,10,FALSE,AMST175,Fall2018,Soundscapes and Aurality in American Culture: An Introduction to American Studies,FALSE
+"Karamcheti,Indira",..T.R.. 01:20PM-02:40PM;,TBA,40,5,10,40,NA,NA,NA,20,5,FALSE,AMST178,Fall2018,"Sites of the Self: Maps, Gardens, Houses: An Introduction to American Studies",FALSE
+"Kauanui,J. Kehaulani",.M.W... 10:50AM-12:10PM;,TBA,40,8,32,40,NA,0,0,0,NA,FALSE,AMST200,Fall2018,Colonialism and Its Consequences in the Americas,TRUE
+"Karamcheti,Indira",.M.W... 02:50PM-04:10PM;,TBA,15,5,10,15,NA,0,0,NA,NA,FALSE,AMST206,Fall2018,Junior Colloquium: New England and Empire,FALSE
+"Grappo,Laura",....R.. 01:20PM-04:10PM;,TBA,15,3,12,15,NA,NA,NA,NA,NA,FALSE,AMST209,Fall2018,Junior Colloquium: Cultural Theory and Analysis,FALSE
+"Johnson,Khalil Anthony",.M.W... 02:50PM-04:10PM;,TBA,35,4,5,35,NA,4,2,10,10,FALSE,AFAM203,Fall2018,"African American History, 1444-1877",TRUE
+"Grappo,Laura",...W.F. 01:20PM-02:40PM;,TBA,30,8,10,30,NA,NA,NA,8,4,FALSE,AMST225,Fall2018,Latinidad: Introduction to Latina/o Studies,FALSE
+"Schatz,Ronald W.",..T.R.. 02:50PM-04:10PM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,HIST266,Fall2018,American Labor History from 1776 to Recent Times,TRUE
+"Hatch,Anthony Ryan",.M.W... 10:50AM-12:10PM;,TBA,30,5,8,30,NA,3,4,10,NA,FALSE,SISP262,Fall2018,Cultural Studies of Health,TRUE
+"Tang,Amy Cynthia",..T.R.. 10:20AM-11:40AM;,TBA,25,6,6,25,NA,3,3,5,2,FALSE,AMST291,Fall2018,Afro-Asian Intersections in the Americas,FALSE
+"Glick,Megan H.",.M..... 01:20PM-04:10PM;,TBA,15,7,8,15,0,0,0,0,NA,FALSE,CHUM343,Fall2018,Imitations of Life: Experimental Bodies at the Interface of Science and Culture,TRUE
+"McAlister,Elizabeth",..T.R.. 02:50PM-04:10PM;,TBA,19,8,5,19,NA,3,3,0,0,FALSE,RELI391,Fall2018,Religion and the Social Construction of Race,TRUE
+"Glick,Megan H.",..T.R.. 08:50AM-10:10AM;,TBA,40,7,15,40,NA,NA,NA,10,8,FALSE,AMST174,Spring2019,Popular Culture and Social Justice: An Introduction to American Studies,FALSE
+"Grappo,Laura",.M.W... 02:50PM-04:10PM;,TBA,40,0,12,40,NA,NA,NA,18,10,FALSE,AMST179,Spring2019,Contemporary U.S. Politics: An Introduction to American Studies,FALSE
+"Tang,Amy Cynthia",...W.F. 10:50AM-12:10PM;,TBA,15,6,9,15,NA,0,0,NA,NA,FALSE,AMST202,Spring2019,Junior Colloquium: Representing Race in American Culture,FALSE
+"Glick,Megan H.",....R.. 01:20PM-04:10PM;,TBA,15,6,9,15,NA,NA,NA,NA,NA,FALSE,AMST208,Spring2019,Junior Colloquium: Visual Culture Studies and Violence,FALSE
+"Karamcheti,Indira",.M.W... 01:20PM-02:40PM;,TBA,15,3,3,15,NA,3,3,3,0,FALSE,AMST224,Spring2019,History of American English,FALSE
+"Schatz,Ronald W.",..T.R.. 01:20PM-02:40PM;,TBA,25,5,5,25,NA,5,5,5,NA,FALSE,HIST240,Spring2019,The United States Since 1901,TRUE
+"Weiss,Margot",.M.W... 01:20PM-02:40PM;,TBA,25,8,10,25,NA,0,0,7,NA,FALSE,AMST233,Spring2019,Global Queer Studies,TRUE
+"McAlister,Elizabeth",..T.R.. 10:20AM-11:40AM;,TBA,19,9,10,19,NA,0,0,0,NA,FALSE,RELI280,Spring2019,"Mixed in America: Race, Religion, and Memoir",TRUE
+"Kauanui,J. Kehaulani",..T.R.. 10:20AM-11:40AM;,TBA,25,10,15,25,NA,0,0,0,NA,FALSE,AMST255,Spring2019,Anarchy in America,FALSE
+"Rayack,Wendy",..T.R.. 10:20AM-11:40AM;,TBA,35,0,0,35,NA,10,10,10,5,FALSE,ECON213,Spring2019,Economics of Wealth and Poverty,TRUE
+"Schatz,Ronald W.",.M..... 01:20PM-04:10PM;,TBA,15,1,4,15,NA,4,2,4,0,FALSE,HIST380,Spring2019,Labor and Religion in American History,TRUE
+"Grappo,Laura",..T.... 07:10PM-10:00PM;,TBA,15,5,5,15,NA,3,2,NA,NA,FALSE,AMST351,Spring2019,Queer of Color Critique,TRUE
+"Rubenstein,Mary-Jane Victoria",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,RELI379,Spring2019,Christianity and Sexuality,TRUE
+"Sharma,Anu (Aradhana)",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,20,15,FALSE,ANTH101,Fall2018,Introduction to Cultural Anthropology,FALSE
+"Bell,Sierra",..T.R.. 02:50PM-04:10PM;,TBA,35,NA,NA,35,NA,NA,NA,15,20,FALSE,ANTH101,Fall2018,Introduction to Cultural Anthropology,FALSE
+STAFF,...W.F. 10:50AM-12:10PM;,TBA,25,7,8,25,NA,2,2,6,NA,FALSE,ANTH207,Fall2018,Anthropology of Time,FALSE
+"Ulysse,Gina Athena",.M..... 01:20PM-04:10PM;,TBA,12,0,8,12,NA,0,0,4,0,FALSE,ANTH208,Fall2018,Crafting Ethnography,FALSE
+"Ulysse,Gina Athena",.M.W... 08:20AM-09:40AM;,TBA,30,8,10,30,NA,0,2,10,NA,FALSE,ANTH210,Fall2018,Haiti: Between Anthropology and Journalism,TRUE
+"Bell,Sierra",..T.R.. 08:50AM-10:10AM;,TBA,12,4,4,12,0,0,0,4,NA,FALSE,ANTH225,Fall2018,Rightwing Movements in the Age of Trump,FALSE
+"Charles,Douglas K.",..T.R.. 02:50PM-04:10PM;,TBA,25,2,3,25,NA,0,10,10,0,FALSE,ANTH268,Fall2018,North America Before Columbus,TRUE
+"Weiss,Margot",..T.... 01:20PM-04:10PM;,TBA,15,6,9,15,NA,NA,NA,NA,NA,FALSE,ANTH295,Fall2018,Theory 1: Anthropology of Affect,FALSE
+"Quijada,Justine",.M.W... 10:50AM-12:10PM;,TBA,19,6,5,19,NA,6,2,0,0,FALSE,RELI307,Fall2018,Ritual,TRUE
+"Sharma,Anu (Aradhana)",...W... 01:20PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ANTH312,Fall2018,"Eat, Grow, Save: The Anthropology of Food and Justice",FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,12,7,5,12,NA,0,0,0,NA,FALSE,ANTH319,Fall2018,Toxic Sovereignties: Life after Environmental Collapse,FALSE
+"Charles,Douglas K.",...W.F. 01:20PM-02:40PM;,TBA,18,1,2,18,NA,6,7,2,NA,FALSE,ANTH349,Fall2018,The Human Skeleton,FALSE
+"Traube,Elizabeth G.",..T.... 07:10PM-10:00PM;,TBA,14,14,NA,14,NA,NA,NA,NA,NA,FALSE,ANTH400,Fall2018,Cultural Analysis: Senior Capstone Seminar,FALSE
+STAFF,TBA;,TBA,35,NA,NA,35,NA,NA,NA,15,20,FALSE,ANTH101,Spring2019,Introduction to Cultural Anthropology,FALSE
+STAFF,TBA;,TBA,15,0,10,15,NA,0,0,5,NA,FALSE,ANTH208,Spring2019,Crafting Ethnography,FALSE
+"Ulysse,Gina Athena",..T.R.. 10:20AM-11:40AM;,TBA,30,4,4,30,NA,4,6,6,6,FALSE,ANTH231,Spring2019,"Post-Zora Interventions: Art, Activism and Anthropology",FALSE
+"Ulysse,Gina Athena",..T.... 07:10PM-10:00PM;,TBA,14,0,0,14,0,0,0,0,0,FALSE,ANTH232,Spring2019,Alter(ed)native Approaches: Middletown Lives,FALSE
+"Sharma,Anu (Aradhana)",.M.W... 10:50AM-12:10PM;,TBA,25,4,6,25,NA,2,4,9,NA,FALSE,ANTH259,Spring2019,"Development, Disasters, and Beyond",FALSE
+"Sharma,Anu (Aradhana)",..T.... 01:20PM-04:10PM;,TBA,15,6,9,15,NA,NA,NA,NA,NA,FALSE,ANTH296,Spring2019,Theory 2: Anthropology and Capitalist Globalization,FALSE
+"Kauanui,J. Kehaulani",....R.. 01:20PM-04:10PM;,TBA,15,8,7,15,NA,0,0,NA,NA,FALSE,ANTH315,Spring2019,Anarchist Anthropology,FALSE
+"Skillman,Gilbert L.",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS220,Fall2018,Sophomore Economics Tutorial: Topics in the History of Economic Thought,FALSE
+"Wiliarty,Sarah E.",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS230,Fall2018,Sophomore Government Tutorial: State and Society in the Modern Age,FALSE
+"Grimmer-Solem,Erik",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS240,Fall2018,Sophomore History Tutorial: The Emergence of Modern Europe,FALSE
+"Moon,J. Donald",.M.W... 01:20PM-02:40PM;,TBA,30,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS271,Fall2018,Sophomore Colloquium: Modern Social Theory,FALSE
+"Adelstein,Richard P.",...W.F. 02:50PM-04:10PM;,TBA,30,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS391,Fall2018,Senior Colloquium: Crime and Punishment,FALSE
+"Skillman,Gilbert L.",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS220,Spring2019,Sophomore Economics Tutorial: Topics in the History of Economic Thought,FALSE
+"Skillman,Gilbert L.",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS220,Spring2019,Sophomore Economics Tutorial: Topics in the History of Economic Thought,FALSE
+"Willarty,Sarah",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS230,Spring2019,Sophomore Government Tutorial: State and Society in the Modern Age,FALSE
+"Willarty,Sarah",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS230,Spring2019,Sophomore Government Tutorial: State and Society in the Modern Age,FALSE
+"Grimmer-Solem,Erik",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS240,Spring2019,Sophomore History Tutorial: The Emergence of Modern Europe,FALSE
+"Grimmer-Solem,Erik",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS240,Spring2019,Sophomore History Tutorial: The Emergence of Modern Europe,FALSE
+"Rayack,Wendy",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS320,Spring2019,Junior Economics Tutorial: Wealth in a Global Context,FALSE
+"Rayack,Wendy",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS320,Spring2019,Junior Economics Tutorial: Wealth in a Global Context,FALSE
+"Gallarotti,Giulio",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS330,Spring2019,Junior Government Tutorial: Political Treatises that Changed the World,FALSE
+"Gallarotti,Giulio",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS330,Spring2019,Junior Government Tutorial: Political Treatises that Changed the World,FALSE
+"Miller,Cecilia",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS340,Spring2019,Junior History Tutorial: World History,FALSE
+"Miller,Cecilia",.....F. 02:00PM-04:00PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS340,Spring2019,Junior History Tutorial: World History,FALSE
+"Kaye,Kerwin",.M.W... 01:20PM-02:40PM;,TBA,30,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSS371,Spring2019,Junior Colloquium: Liberalism and Its Discontents,FALSE
+"Rayack,Wendy",..T.R.. 10:20AM-11:40AM;,TBA,90,NA,NA,90,NA,2,3,30,55,FALSE,ECON101,Fall2018,Introduction to Economics,FALSE
+"Adelstein,Richard P.",.M.W.F. 09:50AM-10:40AM;,TBA,45,0,0,45,NA,0,0,10,35,FALSE,ECON110,Fall2018,Introduction to Economic Theory,FALSE
+"Yohe,Gary W.",..T.R.. 01:20PM-02:40PM;,TBA,40,0,0,40,NA,0,0,30,10,FALSE,ECON110,Fall2018,Introduction to Economic Theory,FALSE
+"Kuenzel,David Julian",.M.W... 02:50PM-04:10PM;,TBA,40,0,0,40,NA,0,0,20,20,FALSE,ECON110,Fall2018,Introduction to Economic Theory,FALSE
+"Gosman,Martin",..T.R.. 02:50PM-04:10PM;,TBA,35,10,10,35,NA,5,5,5,NA,FALSE,ECON127,Fall2018,Introduction to Financial Accounting,TRUE
+"Moursli,Reda",.M.W... 02:50AM-04:10AM;,TBA,35,5,5,35,NA,5,5,15,0,FALSE,ECON231,Fall2018,Corporate Governance,FALSE
+"Boulware,Karl David",.M.W... 02:50PM-04:10PM;,TBA,35,5,15,35,NA,0,0,15,0,FALSE,ECON237,Fall2018,Financial Crises: Beginning to End,FALSE
+"Lorenzo,Michael William",.M.W... 01:20PM-02:40PM;,TBA,35,0,5,35,NA,5,5,20,0,FALSE,ECON241,Fall2018,"Money, Banking, and Financial Markets",FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON251,Fall2018,Economics of Alexanders Hamilton's America,FALSE
+"Hornstein,Abigail S.   Kaparakis,Emmanuel I.",..T.R.. 08:50AM-10:10AM; .....F. 09:20AM-10:40AM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Fall2018,Quantitative Methods in Economics,FALSE
+"Wang,Peter    Kaparakis,Emmanuel I.",.M.W.F. 01:20PM-02:40PM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Fall2018,Quantitative Methods in Economics,FALSE
+"Boulware,Karl David   Kaparakis,Emmanuel I.",.M.W.F. 10:50AM-12:10PM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Fall2018,Quantitative Methods in Economics,FALSE
+"Sheehan-Connor,Damien Francis",..T.R.. 10:20AM-11:40AM;,TBA,35,0,25,35,NA,0,0,10,0,FALSE,ECON301,Fall2018,Microeconomic Analysis,FALSE
+"Hogendorn,Christiaan",..T.R.. 02:50PM-04:10PM;,TBA,35,5,20,35,NA,0,0,10,0,FALSE,ECON301,Fall2018,Microeconomic Analysis,FALSE
+"Bonin,John P.",..T.R.. 01:20PM-02:40PM;,TBA,35,5,20,35,NA,0,0,10,0,FALSE,ECON301,Fall2018,Microeconomic Analysis,FALSE
+"Kuenzel,David Julian",.M.W... 10:50AM-12:10PM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON302,Fall2018,Macroeconomic Analysis,FALSE
+"Bandaogo,Mahama Samir",..T.R.. 08:50AM-10:10AM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON302,Fall2018,Macroeconomic Analysis,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON302,Fall2018,Macroeconomic Analysis,FALSE
+"Sheehan-Connor,Damien Francis",..T.R.. 01:20PM-02:40PM;,TBA,25,18,7,25,NA,0,0,0,0,FALSE,ECON308,Fall2018,Healthcare Economics,FALSE
+"Yohe,Gary W.",..T.R.. 08:50AM-10:10AM;,TBA,25,8,4,25,NA,7,3,3,0,FALSE,ECON310,Fall2018,Environmental and Resource Economics,FALSE
+"Rayack,Wendy",.....F. 01:20PM-04:10PM;,TBA,25,15,10,25,NA,0,0,0,NA,FALSE,ECON319,Fall2018,Low-wage Labor Markets - A Data-driven Exploration,FALSE
+"Hogendorn,Christiaan",.M.W... 02:50PM-04:10PM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,ECON321,Fall2018,Industrial Organization,FALSE
+"Hornstein,Abigail S.",..T.R.. 10:20AM-11:40AM;,TBA,25,13,12,25,NA,0,0,0,0,FALSE,ECON328,Fall2018,Investment Finance,FALSE
+"Bandaogo,Mahama Samir",..T.R.. 02:50PM-04:10PM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,ECON331,Fall2018,Open-Economy Macroeconomics,FALSE
+"Lorenzo,Michael William",.M.W... 08:20AM-09:40AM;,TBA,25,10,7,25,NA,5,3,0,0,FALSE,ECON349,Fall2018,Economic Growth,FALSE
+"Grossman,Richard S.",.M.W... 02:50PM-04:10PM;,TBA,25,8,12,25,NA,2,3,0,NA,FALSE,ECON357,Fall2018,Topics in European Economic History,FALSE
+"Keats,Anthony Bruno",.M.W... 02:50PM-04:10PM;,TBA,25,10,15,25,NA,0,0,0,0,FALSE,ECON366,Fall2018,The Economics of Developing Countries,FALSE
+"Wang,Peter",.M.W... 08:20AM-09:40AM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,ECON371,Fall2018,International Trade,FALSE
+"Moursli,Reda",.M.W... 10:50AM-12:10PM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,ECON385,Fall2018,Econometrics,FALSE
+"Grossman,Richard S.",.M.W... 02:50PM-04:10PM;,TBA,95,NA,NA,95,5,10,10,20,50,FALSE,ECON101,Spring2019,Introduction to Economics,FALSE
+"Kuenzel,David Julian",.M.W... 02:50PM-04:10PM;,TBA,45,0,0,45,NA,0,0,15,30,FALSE,ECON110,Spring2019,Introduction to Economic Theory,FALSE
+"Hogendorn,Christiaan",..T.R.. 02:50PM-04:10PM;,TBA,45,0,0,45,NA,0,0,10,35,FALSE,ECON110,Spring2019,Introduction to Economic Theory,FALSE
+"Hogendorn,Christiaan",.M.W... 01:20PM-02:40PM;,TBA,45,0,0,45,NA,0,0,20,25,FALSE,ECON110,Spring2019,Introduction to Economic Theory,FALSE
+"Gosman,Martin",..T.R.. 02:50PM-04:10PM;,TBA,35,10,10,35,NA,5,5,5,NA,FALSE,ECON127,Spring2019,Introduction to Financial Accounting,TRUE
+"Lorenzo,Michael William",..T.R.. 01:20PM-02:40PM;,TBA,35,5,5,35,NA,5,5,10,5,FALSE,ECON255,Spring2019,Introduction to Open-Economy Macroeconomics,FALSE
+"Keats,Anthony Bruno",.M.W... 02:50PM-04:10PM;,TBA,35,10,10,35,NA,5,5,5,0,FALSE,ECON266,Spring2019,The Economics of Developing Countries--Lower Level,FALSE
+"Kuenzel,David Julian",.M.W... 10:50AM-12:10PM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON270,Spring2019,International Economics,FALSE
+"Bandaogo,Mahama Samir",..T.R.. 08:50AM-10:10AM;,TBA,35,5,10,35,NA,0,5,10,5,FALSE,ECON273,Spring2019,Economic Growth and Development in Sub-Saharan Africa,FALSE
+"Boulware,Karl David   Kaparakis,Emmanuel I.",.M.W... 08:20AM-09:40AM; .....F. 09:20AM-10:40AM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Spring2019,Quantitative Methods in Economics,FALSE
+"Wang,Peter    Kaparakis,Emmanuel I.",.M.W... 01:20PM-02:40PM; .....F. 01:20PM-02:40PM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Spring2019,Quantitative Methods in Economics,FALSE
+"Hornstein,Abigail S.   Kaparakis,Emmanuel I.",..T.R.. 10:20AM-11:40AM; .....F. 10:50AM-12:10PM;,TBA,33,0,0,33,NA,0,3,30,0,FALSE,ECON300,Spring2019,Quantitative Methods in Economics,FALSE
+"Skillman,Gilbert L.",...W.F. 10:50AM-12:10PM;,TBA,35,5,20,35,NA,0,0,10,0,FALSE,ECON301,Spring2019,Microeconomic Analysis,FALSE
+STAFF,.M.W... 02:50PM-04:10PM;,TBA,35,5,20,35,NA,0,0,10,0,FALSE,ECON301,Spring2019,Microeconomic Analysis,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON302,Spring2019,Macroeconomic Analysis,FALSE
+"Bandaogo,Mahama Samir",..T.R.. 02:50PM-04:10PM;,TBA,35,5,10,35,NA,0,5,15,0,FALSE,ECON302,Spring2019,Macroeconomic Analysis,FALSE
+"Hornstein,Abigail S.",....R.. 01:20PM-04:10PM;,TBA,12,12,0,12,NA,NA,NA,NA,NA,FALSE,ECON327,Spring2019,The Global Firm:  A Calderwood Public Writing Seminar,FALSE
+"Moursli,Reda",..T.R.. 10:20AM-11:40AM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,ECON329,Spring2019,Corporate Finance,FALSE
+"Lorenzo,Michael William",..T.R.. 08:50AM-10:10AM;,TBA,25,13,12,25,NA,0,0,0,NA,FALSE,ECON341,Spring2019,"Money, Banking, and Financial Markets",FALSE
+"Boulware,Karl David",.M.W... 02:50PM-04:10PM;,TBA,25,10,10,25,NA,5,0,0,0,FALSE,ECON347,Spring2019,Transmission Mechanisms of Monetary Policy,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,35,0,0,35,0,0,0,0,0,FALSE,ECON356,Spring2019,American Macroeconomic Policy,FALSE
+"Keats,Anthony Bruno",.M.W... 10:50AM-12:10PM;,TBA,25,10,15,25,NA,0,0,0,0,FALSE,ECON366,Spring2019,The Economics of Developing Countries,FALSE
+"Moursli,Reda",..T.R.. 02:50PM-04:10PM;,TBA,25,13,12,25,NA,0,0,0,0,FALSE,ECON385,Spring2019,Econometrics,FALSE
+"Dancey,Logan M.",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,10,25,FALSE,GOVT151,Fall2018,American Government and Politics,FALSE
+"Peck,Justin Craig",.M.W... 10:50AM-12:10PM;,TBA,35,NA,NA,35,NA,NA,NA,10,25,FALSE,GOVT151,Fall2018,American Government and Politics,FALSE
+"Eisner,Marc A.",.M.W... 08:20AM-09:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,American Government and Politics (FYS),FALSE
+"Foyle,Douglas C.",..T.R.. 08:50AM-10:10AM;,TBA,35,NA,NA,35,NA,NA,NA,18,17,FALSE,GOVT155,Fall2018,International Politics,FALSE
+"Gallarotti,Giulio",.M.W... 08:20AM-09:40AM;,TBA,19,NA,NA,19,NA,NA,NA,11,8,FALSE,GOVT155,Fall2018,International Politics,FALSE
+"Gallarotti,Giulio",.M.W... 10:50AM-12:10PM;,TBA,19,NA,NA,19,NA,NA,NA,8,11,FALSE,GOVT155,Fall2018,International Politics,FALSE
+"Matesan,Ioana Emy",.M.W... 10:50AM-12:10PM;,TBA,35,NA,NA,35,NA,NA,NA,20,15,FALSE,GOVT157,Fall2018,Democracy and Dictatorship: Politics in the Contemporary World,FALSE
+"Chakravarti,Sonali",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,15,20,FALSE,GOVT159,Fall2018,The Moral Basis of Politics,FALSE
+"Kaparakis,Emmanuel I.",..T.R.. 01:20PM-02:40PM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Fall2018,Applied Data Analysis,TRUE
+"Nazzaro,Valerie L.   Kaparakis,Emmanuel I.",..T.R.. 01:20PM-02:40PM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Fall2018,Applied Data Analysis,TRUE
+"Kaparakis,Emmanuel I.",..T.R.. 10:20AM-11:40AM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Fall2018,Applied Data Analysis,TRUE
+"Kabacoff,Robert Ira   Kaparakis,Emmanuel I.",..T.R.. 10:20AM-11:40AM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Fall2018,Applied Data Analysis,TRUE
+"Krupicka,Benjamin Thomas",.M.W... 08:20AM-09:40AM;,TBA,25,10,8,25,NA,5,2,0,NA,FALSE,GOVT203,Fall2018,American Constitutional Law,FALSE
+"Peck,Justin Craig",..T.R.. 02:50PM-04:10PM;,TBA,25,9,8,25,NA,2,2,4,NA,FALSE,GOVT217,Fall2018,The American Presidency,FALSE
+"Dancey,Logan M.",.M.W... 02:50PM-04:10PM;,TBA,25,8,8,25,NA,2,2,5,NA,FALSE,GOVT232,Fall2018,Campaigns and Elections,FALSE
+"Rutland,Peter",..T.R.. 10:20AM-11:40AM;,TBA,25,6,6,25,NA,5,5,3,NA,FALSE,GOVT278,Fall2018,Nationalism,FALSE
+"Rutland,Peter",.M.W... 10:50AM-12:10PM;,TBA,24,5,5,24,NA,5,5,4,0,FALSE,GOVT303,Fall2018,The Evolution of War,FALSE
+"Foyle,Douglas C.",..T.R.. 10:20AM-11:40AM;,TBA,25,0,13,25,NA,0,0,12,NA,FALSE,GOVT311,Fall2018,United States Foreign Policy,FALSE
+"Gallarotti,Giulio",...W... 01:20PM-04:10PM;,TBA,18,11,7,18,NA,0,0,0,NA,FALSE,GOVT326,Fall2018,Political Consulting for International Business,FALSE
+"Barnhart Trager,Joslyn",..T.R.. 02:50PM-04:10PM;,TBA,25,13,12,25,NA,0,0,NA,NA,FALSE,GOVT332,Fall2018,Psychology and International Politics,FALSE
+"Franklin Fowler,Erika",..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,GOVT378,Fall2018,Advanced Topics in Media Analysis,FALSE
+"Barnhart Trager,Joslyn",..T.R.. 10:20AM-11:40AM;,TBA,25,15,10,25,NA,0,0,NA,NA,FALSE,GOVT386,Fall2018,The Nuclear Age in World Politics,FALSE
+"Chakravarti,Sonali",..T.... 01:20PM-04:10PM;,TBA,15,6,6,15,NA,3,0,0,0,FALSE,GOVT398,Fall2018,What Is the Good Life?,FALSE
+"Krupicka,Benjamin Thomas",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,19,NA,NA,NA,7,12,FALSE,GOVT151,Spring2019,American Government and Politics,FALSE
+"Barnhart Trager,Joslyn",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,18,17,FALSE,GOVT155,Spring2019,International Politics,FALSE
+"Krupicka,Benjamin Thomas",..T.R.. 02:50PM-04:10PM;,TBA,19,NA,NA,19,NA,NA,NA,7,12,FALSE,GOVT159,Spring2019,The Moral Basis of Politics,FALSE
+"Kaparakis,Emmanuel I.",..T.R.. 01:20PM-02:40PM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Spring2019,Applied Data Analysis,TRUE
+"Nazzaro,Valerie L.   Kaparakis,Emmanuel I.",..T.R.. 01:20PM-02:40PM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Spring2019,Applied Data Analysis,TRUE
+"Kaparakis,Emmanuel I.",..T.R.. 10:20AM-11:40AM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Spring2019,Applied Data Analysis,TRUE
+"Kabacoff,Robert Ira   Kaparakis,Emmanuel I.",..T.R.. 10:20AM-11:40AM; .....F. 01:00PM-03:00PM;,TBA,18,0,0,18,NA,2,6,10,0,FALSE,QAC201,Spring2019,Applied Data Analysis,TRUE
+"Eisner,Marc A.",.M.W... 08:20AM-09:40AM;,TBA,25,6,7,25,NA,4,5,3,NA,FALSE,GOVT206,Spring2019,Public Policy,TRUE
+"Franklin Fowler,Erika",..T.R.. 01:20PM-02:40PM;,TBA,24,6,8,24,NA,1,2,7,NA,FALSE,GOVT214,Spring2019,Media and Politics,FALSE
+"Dancey,Logan M.",.M.W... 10:50AM-12:10PM;,TBA,25,8,8,25,NA,2,2,5,NA,FALSE,GOVT215,Spring2019,Congressional Policy Making,FALSE
+"Krupicka,Benjamin Thomas",...W... 01:20PM-04:10PM;,TBA,15,6,6,15,NA,2,1,0,NA,FALSE,GOVT250,Spring2019,Civil Liberties,FALSE
+"Peck,Justin Craig",..T.R.. 10:20AM-11:40AM;,TBA,25,5,5,25,NA,5,5,5,NA,FALSE,GOVT253,Spring2019,The American National Security State,FALSE
+"Matesan,Ioana Emy",.M.W... 10:50AM-12:10PM;,TBA,25,5,7,25,NA,3,4,6,NA,FALSE,GOVT270,Spring2019,Comparative Politics of the Middle East,FALSE
+"Rutland,Peter",..T.R.. 01:20PM-02:40PM;,TBA,25,8,7,25,NA,4,4,2,NA,FALSE,GOVT274,Spring2019,Russian Politics,TRUE
+"Willarty,Sarah",..T.R.. 02:50PM-04:10PM;,TBA,25,7,7,25,NA,3,3,5,NA,FALSE,GOVT284,Spring2019,Comparative Politics of Western Europe,FALSE
+"Matesan,Ioana Emy",.M.W... 02:50PM-04:10PM;,TBA,25,8,8,25,NA,3,3,3,NA,FALSE,GOVT298,Spring2019,Terrorism and Film,FALSE
+"Cassidy,Robert",..T.... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,6,6,2,2,FALSE,CSPL330,Spring2019,Policy and Strategy in War and Peace,TRUE
+"Foyle,Douglas C.",..T.R.. 08:50AM-10:10AM;,TBA,25,12,13,25,NA,0,0,0,NA,FALSE,GOVT334,Spring2019,International Security in a Changing World,FALSE
+"Chakravarti,Sonali",..T.R.. 10:20AM-11:40AM;,TBA,25,5,10,25,NA,3,2,5,NA,FALSE,GOVT338,Spring2019,Modern Political Theory,FALSE
+"Chakravarti,Sonali",..T.R.. 01:20PM-02:40PM;,TBA,25,10,5,25,NA,5,5,0,NA,FALSE,GOVT355,Spring2019,Political Theory and Transitional Justice,FALSE
+"Franklin Fowler,Erika",..T.R.. 08:50AM-10:10AM;,TBA,20,2,10,20,NA,0,0,8,NA,FALSE,GOVT366,Spring2019,Empirical Methods for Political Science,FALSE
+"Dancey,Logan M.",..T.... 01:20PM-04:10PM;,TBA,15,8,4,15,NA,2,1,NA,NA,FALSE,GOVT373,Spring2019,Congressional Reform,FALSE
+"Peck,Justin Craig",...W... 01:20PM-04:10PM;,TBA,15,7,3,15,NA,3,2,0,NA,FALSE,GOVT375,Spring2019,American Political Development,FALSE
+"Foyle,Douglas C.",..T.R.. 10:20AM-11:40AM;,TBA,15,8,7,15,NA,0,0,NA,NA,FALSE,GOVT387,Spring2019,Foreign Policy at the Movies,FALSE
+"Gallarotti,Giulio",...W.F. 10:50AM-12:10PM;,TBA,30,18,12,30,NA,0,0,0,0,FALSE,GOVT389,Spring2019,The Global Village: Globalization in the Modern World,FALSE
+"Lennox,Jeffers",..T.R.. 01:20PM-02:40PM;,TBA,19,NA,NA,19,NA,NA,NA,11,8,FALSE,HIST175,Fall2018,Introduction to History: The Atlantic World to 1850,FALSE
+"Erickson,Paul Hilding",.M..... 01:20PM-04:10PM;,TBA,19,NA,NA,19,NA,NA,NA,19,NA,FALSE,HIST176,Fall2018,Introduction to History: Science in the Making: Thinking Historically About Science,TRUE
+"Eudell,Demetrius L.",..T.... 04:30PM-05:50PM;,TBA,10,0,0,10,NA,0,0,0,10,FALSE,HIST195,Fall2018,Mellon Mays Seminar,FALSE
+"Greene,Nathanael",.M.W.F. 08:50AM-09:40AM;,TBA,45,6,6,45,NA,5,8,10,10,FALSE,HIST203,Fall2018,Modern Europe,FALSE
+"Lennox,Jeffers",..T.R.. 10:20AM-11:40AM;,TBA,29,4,4,29,NA,4,4,8,5,FALSE,HIST238,Fall2018,"Liberty and Loyalism: Reconfiguring North America in the Age of Revolution, 1774-1848",FALSE
+"Eudell,Demetrius L.",..T.R.. 02:50PM-04:10PM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,HIST253,Fall2018,"Slavery, Race, and Indigeneity in Early America",FALSE
+"Erickson,Paul Hilding",..T.R.. 08:50AM-10:10AM;,TBA,40,6,6,40,NA,4,4,10,10,FALSE,HIST254,Fall2018,Science in Western Culture,TRUE
+"Grimmer-Solem,Erik",.M.W... 01:20PM-02:40PM;,TBA,25,3,5,0,NA,2,5,5,5,FALSE,HIST280,Fall2018,The Industrial Revolution in Global Context: Economic History Since 1800,FALSE
+"Miller,Cecilia",.....F. 01:20PM-04:10PM;,TBA,32,5,7,32,NA,5,5,5,5,FALSE,HIST294,Fall2018,Political Fiction,FALSE
+"L�pez Fadul,Valeria",..T.R.. 10:20AM-11:40AM;,TBA,30,4,4,30,NA,3,3,8,8,FALSE,HIST296,Fall2018,Colonial Latin America,TRUE
+"Twagira,Laura Ann",..T.... 01:20PM-04:10PM;,TBA,15,0,0,15,0,5,5,5,NA,FALSE,CHUM349,Fall2018,Body Histories in Africa,TRUE
+"Schatz,Ronald W.",.M..... 01:20PM-04:10PM;,TBA,15,3,4,15,NA,2,3,3,0,FALSE,HIST342,Fall2018,The Rise of the Conservative Movement in the United States Since 1945,FALSE
+"Fullilove,Courtney",..T.R.. 08:50AM-10:10AM;,TBA,15,4,7,15,NA,2,2,NA,NA,FALSE,HIST362,Fall2018,Issues in Contemporary Historiography,FALSE
+"Holmes,Oliver W.",..T.R.. 08:50AM-10:10AM;,TBA,15,4,7,15,NA,2,2,NA,NA,FALSE,HIST362,Fall2018,Issues in Contemporary Historiography,FALSE
+"Tucker,Jennifer",..T.R.. 08:50AM-10:10AM;,TBA,15,4,7,15,NA,2,2,NA,NA,FALSE,HIST362,Fall2018,Issues in Contemporary Historiography,FALSE
+"Holmes,Oliver W.",..T.R.. 02:50PM-04:10PM;,TBA,19,2,4,19,NA,2,4,5,2,FALSE,HIST383,Fall2018,French Existentialism and Marxism,FALSE
+"Holmes,Oliver W.",..T.R.. 02:50PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,History and the Humanities II (FYS),FALSE
+"Eudell,Demetrius L.",..T.... 04:30PM-05:50PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,HIST195,Spring2019,Mellon Mays Seminar,FALSE
+"Holmes,Oliver W.",..T.R.. 10:20AM-11:40AM;,TBA,40,2,5,40,NA,10,3,10,10,FALSE,HIST202,Spring2019,Early Modern Europe,FALSE
+"Twagira,Laura Ann",..T.R.. 02:50PM-04:10PM;,TBA,25,2,2,25,NA,2,2,13,4,FALSE,HIST217,Spring2019,Africa to 1800,FALSE
+"Smolkin,Victoria",..T.R.. 02:50PM-04:10PM;,TBA,30,5,1,30,NA,3,1,10,10,FALSE,HIST219,Spring2019,"Russian and Soviet History, 1881 to the Present",TRUE
+"Masters,Bruce A.",.M.W.F. 08:50AM-09:40AM;,TBA,30,4,3,30,NA,3,2,8,10,FALSE,HIST231,Spring2019,Islamic Civilization: The Classical Age,TRUE
+"Miller,Cecilia",..T.R.. 02:50PM-04:10PM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,HIST242,Spring2019,World History,FALSE
+"L�pez Fadul,Valeria",..T.R.. 08:50AM-10:10AM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,HIST245,Spring2019,Modern Latin America Since 1810,TRUE
+"Grimmer-Solem,Erik",.M.W... 01:20PM-02:40PM;,TBA,25,5,2,25,NA,5,5,5,3,FALSE,HIST268,Spring2019,"The Origins of Global Capitalism: Economic History, 1400--1800",FALSE
+"Shaw,Gary",.M.W... 02:50PM-04:10PM;,TBA,20,4,4,20,NA,4,4,4,NA,FALSE,HIST272,Spring2019,"Law, Court, and Crime in England, 600--1660",FALSE
+"Pinch,William R.",.M.W.F. 09:50AM-10:40AM;,TBA,19,2,5,19,NA,1,2,10,5,FALSE,HIST285,Spring2019,Modern India,FALSE
+"Lennox,Jeffers",..T.R.. 10:20AM-11:40AM;,TBA,16,4,4,16,NA,4,4,0,0,FALSE,HIST298,Spring2019,"Oh Canada:  Creating the Northern Neighbour, 1776--1896",FALSE
+"Masters,Bruce A.",..T.R.. 08:50AM-10:10AM;,TBA,19,6,6,19,NA,2,2,3,NA,FALSE,HIST311,Spring2019,"Ethnicity, Religion, and Class in the Middle East and the Balkans",FALSE
+"Lennox,Jeffers",.....F. 01:20PM-04:10PM;,TBA,19,3,3,19,NA,3,3,3,0,FALSE,HIST324,Spring2019,Homelands and First Nations: Native Worlds in North America,FALSE
+"Shaw,Gary K.",..T.... 07:10PM-10:00PM;,TBA,25,5,5,25,NA,5,5,5,NA,FALSE,HIST338,Spring2019,History and Theory,FALSE
+"Karera,Axelle",.M.W... 01:20PM-02:40PM;,TBA,15,0,0,15,0,0,0,0,0,FALSE,PHIL211,Fall2018,Critical Philosophy of Race,TRUE
+"Horst,Steven W.",.M.W.F. 09:50AM-10:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,PHIL221,Fall2018,Philosophy as a Way of Life,FALSE
+"Shieh,Sanford",..T.R.. 02:50PM-04:10PM;,TBA,40,3,3,40,NA,4,3,12,15,FALSE,PHIL231,Fall2018,Reason and Paradox,FALSE
+"Shieh,Sanford",....R.. 07:10PM-10:00PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,PHIL232,Fall2018,Beginning Philosophy,FALSE
+"Horst,Steven W.",..T.R.. 08:50AM-10:10AM;,TBA,25,5,5,25,NA,4,4,4,3,FALSE,PHIL255,Fall2018,Moral Psychology:  Care of the Soul,FALSE
+"Rouse,Joseph T.",.M.W... 10:50AM-12:10PM;,TBA,25,7,7,25,NA,5,4,2,NA,FALSE,PHIL265,Fall2018,Postanalytic Philosophy: Science and Metaphysics,FALSE
+"Gruen,Lori",...W... 07:10PM-10:00PM;,TBA,12,0,0,12,0,0,0,0,0,FALSE,PHIL275,Fall2018,Calderwood Seminar in Public Writing: Writing for Social Justice,FALSE
+"Rouse,Joseph T.",.M.W... 02:50PM-04:10PM;,TBA,33,13,12,33,NA,3,3,2,NA,FALSE,SISP202,Fall2018,Philosophy of Science,TRUE
+"Springer,Elise",....R.. 07:10PM-10:00PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PHIL321,Fall2018,"American Pragmatist Philosophy: Purposes, Meanings, and Truths",FALSE
+"Gruen,Lori",.....F. 01:20PM-04:10PM;,TBA,12,3,3,12,0,3,3,0,0,FALSE,PHIL357,Fall2018,Animal Minds,FALSE
+"Springer,Elise",.M.W... 02:50PM-04:10PM;,TBA,35,5,10,35,NA,2,3,8,7,FALSE,PHIL212,Spring2019,Introduction to Ethics,TRUE
+"Rouse,Joseph T.",.M.W.F. 08:50AM-09:40AM;,TBA,25,NA,0,25,NA,NA,3,11,11,FALSE,PHIL214,Spring2019,Reasoning About Justice,FALSE
+"Gruen,Lori",.M.W... 01:20PM-02:40PM;,TBA,25,0,0,25,NA,0,5,10,10,FALSE,PHIL215,Spring2019,"Humans, Animals, and Nature",TRUE
+"Springer,Elise",.M.W... 01:20PM-02:40PM;,TBA,25,7,0,25,NA,7,0,11,0,FALSE,PHIL277,Spring2019,Feminist Philosophy and Moral Theory (FGSS Gateway),TRUE
+"Gruen,Lori",.M.W... 10:50AM-12:10PM;,TBA,25,5,5,25,NA,5,5,5,0,FALSE,PHIL278,Spring2019,Political Philosophy,FALSE
+"Kanet,Sharisse Leigh",..T.R.. 08:50AM-10:10AM;,TBA,25,3,4,25,NA,4,4,6,4,FALSE,PHIL283,Spring2019,Animal Law and Policy,FALSE
+"Horst,Steven W.",..T.R.. 02:50PM-04:10PM;,TBA,25,5,5,25,0,5,5,5,0,FALSE,PHIL286,Spring2019,Philosophy of Mind,TRUE
+"Shieh,Sanford",..T.R.. 02:50PM-04:10PM;,TBA,19,4,4,19,0,3,3,5,0,FALSE,PHIL289,Spring2019,Philosophy of Language,FALSE
+"Shieh,Sanford",....R.. 07:10PM-10:00PM;,TBA,20,5,5,20,NA,3,3,4,0,FALSE,PHIL290,Spring2019,Philosophical Logic,FALSE
+"Karera,Axelle",...W... 07:10PM-10:00PM;,TBA,15,0,0,15,0,0,0,0,0,FALSE,PHIL353,Spring2019,Blackness in the Anthropocene,FALSE
+"Rouse,Joseph T.",.M.W... 02:50PM-04:10PM;,TBA,15,7,5,15,NA,2,1,0,NA,FALSE,SISP366,Spring2019,"Bodies, Machines, and Meaning: Cultural Studies of the Sciences",TRUE
+"Quijada,Justine",..T.R.. 10:20AM-11:40AM;,TBA,40,0,0,40,NA,0,0,20,20,FALSE,RELI151,Fall2018,Introduction to the Study of Religion,FALSE
+"Feller,Yaniv",..T.R.. 01:20AM-02:40AM;,TBA,30,2,2,30,NA,4,4,9,9,FALSE,RELI201,Fall2018,Introduction to The Hebrew Bible (Old Testament),TRUE
+STAFF,.M.W... 02:50PM-04:10PM;,TBA,19,6,5,19,NA,0,0,4,4,FALSE,RELI208,Fall2018,The Buddha: His Life and Teachings,FALSE
+"Cameron,Ron",.M.W... 02:50PM-04:10PM;,TBA,40,0,5,40,NA,5,10,10,10,FALSE,RELI212,Fall2018,Introduction to the New Testament,TRUE
+"Feller,Yaniv",.M.W... 01:20PM-02:40PM;,TBA,19,2,2,19,0,3,4,4,4,FALSE,RELI213,Fall2018,Refugees & Exiles: Religion in the Diaspora,TRUE
+"Gottschalk,Peter S.",..T.R.. 01:20PM-02:40PM;,TBA,19,2,2,19,NA,3,3,5,4,FALSE,RELI221,Fall2018,Islam and Muslim Cultures,FALSE
+"Gottschalk,Peter S.",..T.R.. 02:50PM-04:10PM;,TBA,19,2,2,19,NA,3,3,5,4,FALSE,RELI221,Fall2018,Islam and Muslim Cultures,FALSE
+"Gottschalk,Peter S.",.M.W... 08:20AM-09:40AM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Religions Resisting Modernity (FYS),FALSE
+"Rubenstein,Mary-Jane Victoria",..T.R.. 01:20PM-02:40PM;,TBA,19,6,6,19,0,2,2,3,0,FALSE,RELI377,Fall2018,Worlding the World: Creation Myths from Ancient Greece to the Multiverse,TRUE
+"Quijada,Justine",..T.R.. 01:20PM-02:40PM;,TBA,40,0,0,40,NA,0,0,10,30,FALSE,RELI151,Spring2019,Introduction to the Study of Religion,FALSE
+"Feller,Yaniv",.M.W... 02:50PM-04:10PM;,TBA,19,2,2,19,NA,3,4,4,4,FALSE,RELI203,Spring2019,"Jews & Judaism:  Race, Religion, Culture",TRUE
+"Quijada,Justine",..T.R.. 08:50AM-10:10AM;,TBA,19,5,4,19,NA,4,4,1,1,FALSE,RELI271,Spring2019,Secularism: An Introduction,TRUE
+"McAlister,Elizabeth",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,"Mixed in America: Race, Religion, and Memoir (FYS)",FALSE
+"Gottschalk,Peter S.",.M.W... 01:20PM-02:40PM;,TBA,12,3,9,12,NA,0,0,0,0,FALSE,RELI398,Spring2019,Majors Colloquium in Religious Studies,FALSE
+"Kus,Basak",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,10,25,FALSE,SOC151,Fall2018,Introductory Sociology,FALSE
+"Boggs,Abigail Huston",..T.R.. 08:50AM-10:10AM;,TBA,19,NA,NA,19,NA,5,NA,NA,14,FALSE,SOC151,Fall2018,Introductory Sociology,FALSE
+"Patterson-Faye,Courtney",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,NA,35,FALSE,SOC151,Fall2018,Introductory Sociology,FALSE
+"Kaye,Kerwin",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,NA,35,FALSE,SOC151,Fall2018,Introductory Sociology,FALSE
+"Autry,Robyn Kimberley",.M.W... 10:50AM-12:10PM;,TBA,20,12,8,20,NA,0,0,0,0,FALSE,SOC202,Fall2018,Sociological Analysis,FALSE
+"Cutler,Jonathan",...W... 07:10PM-10:00PM;,TBA,22,13,7,22,NA,NA,NA,2,NA,FALSE,SOC212,Fall2018,Sociology and Social Theory,FALSE
+"Hatch,Anthony Ryan",.M.W... 01:20PM-02:40PM;,TBA,25,7,7,25,NA,4,3,4,NA,FALSE,SISP215,Fall2018,Metabolism and Technoscience,TRUE
+"Kus,Basak",..T.R.. 01:20PM-02:40PM;,TBA,19,3,6,19,NA,0,2,8,NA,FALSE,SOC222,Fall2018,Political Sociology,FALSE
+"Kaye,Kerwin",..T.R.. 02:50PM-04:10PM;,TBA,25,9,9,25,NA,0,0,7,0,FALSE,SOC231,Fall2018,Sociology of Crime and Punishment,FALSE
+"Boggs,Abigail Huston",.M.W... 01:20PM-02:40PM;,TBA,19,5,5,19,NA,2,2,5,NA,FALSE,SOC244,Fall2018,Feminist and Queer Theories of Social Reproduction,TRUE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,SOC315,Fall2018,The Health of Communities,TRUE
+"Patterson-Faye,Courtney",..T.... 01:20PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,SOC322,Fall2018,The Sociology of Nina Simone,FALSE
+"Autry,Robyn Kimberley",.M.W... 02:50PM-04:10PM;,TBA,15,7,2,15,NA,3,3,NA,NA,FALSE,NANA,NANA,Adv. Res. Sem: The Hair Class,FALSE
+"Cutler,Jonathan",.M.W... 01:20PM-02:40PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,SOC405,Fall2018,Sociology Thesis Seminar,FALSE
+"Cutler,Jonathan",.M.W... 10:50AM-12:10PM;,TBA,35,NA,NA,35,NA,NA,NA,NA,35,FALSE,SOC151,Spring2019,Introductory Sociology,FALSE
+"Patterson-Faye,Courtney",..T.R.. 10:20AM-11:40AM;,TBA,35,NA,NA,35,NA,NA,NA,NA,35,FALSE,SOC151,Spring2019,Introductory Sociology,FALSE
+"Autry,Robyn Kimberley",.M.W... 10:50AM-12:10PM;,TBA,20,12,8,20,NA,0,0,0,0,FALSE,SOC202,Spring2019,Sociological Analysis,FALSE
+"Boggs,Abigail Huston",..T.R.. 10:20AM-11:40AM;,TBA,22,13,7,22,NA,NA,NA,2,NA,FALSE,SOC212,Spring2019,Sociology and Social Theory,FALSE
+"Kaye,Kerwin",..T.R.. 10:20AM-11:40AM;,TBA,25,7,7,25,NA,7,4,0,0,FALSE,SOC256,Spring2019,"Sex Work and Sex Trafficking: Empowerment, Exploitation, and the Politics of Sex",TRUE
+"Kus,Basak",..T.R.. 10:20AM-11:40AM;,TBA,15,2,4,15,NA,2,4,3,NA,FALSE,SOC265,Spring2019,Social Science Research: Design and Methods,TRUE
+"Boggs,Abigail Huston",..T.R.. 01:20PM-02:40PM;,TBA,20,6,5,20,NA,2,2,5,NA,FALSE,SOC309,Spring2019,America's Lure: The Politics of the Transnational US University,FALSE
+"Patterson-Faye,Courtney",..T.R.. 01:20PM-02:40PM;,TBA,15,8,7,15,NA,NA,NA,NA,NA,FALSE,NANA,NANA,"Advanced Research Seminar: Hot Mamas: Black Women, Sexuality, and Body Size",FALSE
+"Kus,Basak",..T.R.. 02:50PM-04:10PM;,TBA,15,8,7,15,NA,NA,NA,NA,NA,FALSE,NANA,NANA,Law & Society,FALSE
+"Cutler,Jonathan",.M.W... 01:20PM-02:40PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,SOC406,Spring2019,Sociology Thesis Seminar,FALSE
+"Krizanc,Daniel",..T.... 08:50AM-10:10AM; ....R.. 08:50AM-10:10AM;,TBA,19,NA,NA,19,NA,3,3,5,8,FALSE,COMP112,Fall2018,Introduction to Programming,FALSE
+"Krizanc,Daniel",..T.... 08:50AM-10:10AM; ....R.. 10:20AM-11:40AM;,TBA,19,NA,NA,19,NA,3,3,5,8,FALSE,COMP112,Fall2018,Introduction to Programming,FALSE
+"Krizanc,Daniel",..T.... 08:50AM-10:10AM; ...W... 08:20AM-09:40AM;,TBA,19,NA,NA,19,NA,3,3,5,8,FALSE,COMP112,Fall2018,Introduction to Programming,FALSE
+"Lipton,James",..T.... 08:50AM-10:10AM; ....R.. 08:50AM-10:10AM;,TBA,19,NA,NA,19,NA,3,3,5,8,FALSE,COMP112,Fall2018,Introduction to Programming,FALSE
+STAFF,..T.... 08:50AM-10:10AM; ....R.. 08:50AM-10:10AM;,TBA,19,NA,NA,19,NA,3,3,5,8,FALSE,COMP112,Fall2018,Introduction to Programming,FALSE
+"Shai,Saray",..T.R.. 10:20AM-11:40AM; ...W... 01:20PM-02:40PM;,TBA,19,NA,NA,19,NA,0,0,12,7,FALSE,COMP211,Fall2018,Computer Science I,FALSE
+"Shai,Saray",..T.R.. 10:20AM-11:40AM; ...W... 02:50PM-04:10PM;,TBA,19,NA,NA,19,NA,0,0,12,7,FALSE,COMP211,Fall2018,Computer Science I,FALSE
+"Danner,Norman",..T.R.. 10:20AM-11:40AM; ...W... 02:50PM-04:10PM;,TBA,25,NA,1,25,NA,1,1,22,0,FALSE,COMP212,Fall2018,Computer Science II,FALSE
+"Willis,Matthew James",..T.R.. 08:50AM-10:10AM;,TBA,40,0,0,40,NA,5,5,12,18,FALSE,MATH132,Fall2018,Elementary Statistics,FALSE
+"Willis,Matthew James",..T.R.. 01:20PM-02:40PM;,TBA,40,0,0,40,NA,5,5,12,18,FALSE,MATH132,Fall2018,Elementary Statistics,FALSE
+"Hill,Cameron Donnay",..T.R.. 10:20AM-11:40AM;,TBA,40,0,0,40,NA,0,0,15,25,FALSE,MATH221,Fall2018,Vectors and Matrices,FALSE
+"Collins,Karen L.",.M.W.F. 10:50AM-11:40AM;,TBA,40,0,0,40,NA,0,0,15,25,FALSE,MATH221,Fall2018,Vectors and Matrices,FALSE
+STAFF,..T.R.. 02:50PM-04:10PM;,TBA,35,0,0,35,NA,1,1,13,20,FALSE,MATH223,Fall2018,Linear Algebra,FALSE
+"Collins,Karen L.",.M.W.F. 08:50AM-09:40AM;,TBA,30,0,6,30,NA,0,0,20,4,FALSE,MATH228,Fall2018,Discrete Mathematics,FALSE
+"Rasmussen,Christopher",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,4,19,NA,0,0,12,3,FALSE,MATH228,Fall2018,Discrete Mathematics,FALSE
+"Li,Han",..T.R.. 01:20PM-02:40PM;,TBA,30,8,8,30,NA,3,3,8,NA,FALSE,MATH231,Fall2018,An Introduction to Probability,FALSE
+"Juhasz,Barbara Jean",..T.R.. 02:50PM-04:10PM;,TBA,19,0,0,19,NA,0,0,15,4,FALSE,PSYC200,Fall2018,Statistics: An Activity-Based Approach,FALSE
+"Dierker,Lisa C.",...W... 01:20PM-04:10PM;,TBA,19,0,0,19,NA,0,0,15,4,FALSE,PSYC200,Fall2018,Statistics: An Activity-Based Approach,FALSE
+"Oleinikov,Pavel V",.M.W... 01:20PM-02:40PM;,TBA,19,0,0,19,0,5,7,7,0,FALSE,QAC241,Fall2018,Introduction to Network Analysis,TRUE
+"Rose,Jennifer S.",..T.R.. 08:50AM-10:10AM;,TBA,16,0,0,16,1,6,6,3,0,FALSE,QAC312,Fall2018,Hierarchical Linear Models,FALSE
+"Rose,Jennifer S.",..T.R.. 08:50AM-10:10AM;,TBA,16,0,0,16,1,6,6,3,0,FALSE,QAC313,Fall2018,Latent Variable Analysis,FALSE
+"Kabacoff,Robert Ira",.M.W... 10:50AM-12:10PM;,TBA,19,0,0,19,1,7,7,4,0,FALSE,QAC385,Fall2018,Applications of Machine Learning in Data Analysis,FALSE
+"Weir,Michael P.",.M.W.F. 10:50AM-11:40AM;,TBA,20,5,5,20,NA,NA,NA,5,5,FALSE,BIOL265,Spring2019,Bioinformatics Programming,TRUE
+STAFF,..T.... 08:50AM-10:10AM; ....R.. 08:50AM-10:10AM;,TBA,25,NA,NA,25,NA,5,5,5,10,FALSE,COMP112,Spring2019,Introduction to Programming,FALSE
+STAFF,..T.... 08:50AM-10:10AM; ....R.. 10:20AM-11:40AM;,TBA,25,NA,NA,25,NA,5,5,5,10,FALSE,COMP112,Spring2019,Introduction to Programming,FALSE
+STAFF,..T.... 08:50AM-10:10AM; ...W... 08:20AM-09:40AM;,TBA,25,NA,NA,25,NA,5,5,5,10,FALSE,COMP112,Spring2019,Introduction to Programming,FALSE
+"Manfredi,Victoria Ursula",..T.R.. 10:20AM-11:40AM; ...W... 01:20PM-02:40PM;,TBA,20,NA,NA,20,NA,1,1,7,11,FALSE,COMP211,Spring2019,Computer Science I,FALSE
+"Licata,Dan",..T.R.. 10:20AM-11:40AM; ...W... 07:10PM-08:30PM;,TBA,20,NA,NA,20,NA,1,1,11,7,FALSE,COMP212,Spring2019,Computer Science II,FALSE
+"Constantine,David A.",..T.R.. 08:50AM-10:10AM;,TBA,35,0,0,35,NA,5,5,10,15,FALSE,MATH132,Spring2019,Elementary Statistics,FALSE
+"Hildum,Alyson",.M.W... 02:50PM-04:10PM;,TBA,35,0,0,35,NA,5,5,10,15,FALSE,MATH132,Spring2019,Elementary Statistics,FALSE
+"Adeboye,Ilesanmi",..T.R.. 01:20PM-02:40PM;,TBA,40,0,0,40,NA,0,0,15,25,FALSE,MATH221,Spring2019,Vectors and Matrices,FALSE
+"Hill,Cameron Donnay",..T.R.. 10:20AM-11:40AM;,TBA,40,0,0,40,NA,0,0,15,25,FALSE,MATH221,Spring2019,Vectors and Matrices,FALSE
+"Pollack,David",..T.R.. 01:20PM-02:40PM;,TBA,35,0,0,35,NA,0,0,13,22,FALSE,MATH223,Spring2019,Linear Algebra,FALSE
+"Pollack,David",..T.R.. 02:50PM-04:10PM;,TBA,30,0,6,30,NA,0,0,20,4,FALSE,MATH228,Spring2019,Discrete Mathematics,FALSE
+"Willis,Matthew James",.M.W... 01:20PM-02:40PM;,TBA,30,0,6,30,NA,0,0,20,4,FALSE,MATH228,Spring2019,Discrete Mathematics,FALSE
+"Constantine,David A.",..T.R.. 10:20AM-11:40AM;,TBA,30,8,8,30,NA,3,3,8,0,FALSE,MATH232,Spring2019,Mathematical Statistics,FALSE
+"Stewart,Brian A.",..T.... 01:20PM-04:10PM;,TBA,18,3,5,18,NA,3,5,2,0,FALSE,PHYS340,Spring2019,Computational Physics,FALSE
+"Juhasz,Barbara Jean",.M.W... 02:50PM-04:10PM;,TBA,19,0,0,19,NA,0,0,9,10,FALSE,PSYC200,Spring2019,Statistics: An Activity-Based Approach,FALSE
+"Patalano,Andrea L.",..T.R.. 08:50AM-10:10AM;,TBA,19,0,0,19,NA,0,0,9,10,FALSE,PSYC200,Spring2019,Statistics: An Activity-Based Approach,FALSE
+"Kurtz,Matthew M.",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,0,0,9,10,FALSE,PSYC200,Spring2019,Statistics: An Activity-Based Approach,FALSE
+"Oleinikov,Pavel V",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,0,3,3,8,5,FALSE,QAC211,Spring2019,Digging the Digital Era: A Data Science Primer,FALSE
+"Diver,Kim",..T.R.. 08:50AM-10:10AM;,TBA,30,0,0,30,NA,5,9,10,6,FALSE,QAC231,Spring2019,Introduction to (Geo)Spatial Data Analysis and Visualization,FALSE
+"Nazzaro,Valerie L.",.M.W... 10:50AM-12:10PM;,TBA,19,0,0,19,NA,3,5,6,5,FALSE,QAC251,Spring2019,Data Visualization: An Introduction,TRUE
+"Kaparakis,Emmanuel I.",.M.W... 01:20PM-02:40PM;,TBA,16,0,0,16,1,6,6,3,0,FALSE,QAC311,Spring2019,Longitudinal Data Analysis,FALSE
+"Nazzaro,Valerie L.",.M.W... 01:20PM-02:40PM;,TBA,16,0,0,16,1,6,6,3,0,FALSE,QAC314,Spring2019,Survival Analysis,FALSE
+"Diver,Kim",....R.. 01:20PM-04:10PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,Crosslisting:,"QAC344,",Advanced GIS and Spatial Analyses,FALSE
+"Rose,Jennifer S.",.M.W... 08:20AM-09:40AM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC380,Spring2019,Introduction to Statistical Consulting,TRUE
+"Oleinikov,Pavel V",..T.R.. 02:50PM-04:10PM;,TBA,19,0,0,19,1,7,7,4,0,FALSE,QAC386,Spring2019,Quantitative Textual Analysis: Introduction to Text Mining,FALSE
+"Redfield,Seth",...W... 12:20PM-01:10PM;,TBA,19,6,6,19,5,0,0,2,0,FALSE,ASTR430,Fall2018,Seminar on Astronomical Pedagogy,FALSE
+"Sultan,Sonia",..T.... 01:20PM-04:10PM;,TBA,10,4,1,10,1,3,1,0,NA,FALSE,BIOL318,Fall2018,Nature and Nurture: The Interplay of Genes and Environment,TRUE
+"Roberts,Andrea",..T.... 04:25PM-05:55PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHEM241,Fall2018,Informal Science Education for Elementary School Students I,FALSE
+"Kingsley,Makaela Jane",.....F. 01:20PM-03:20PM;,TBA,19,0,0,19,NA,5,6,4,4,FALSE,CSPL262,Fall2018,Introduction to Social Entrepreneurship,FALSE
+"Kingsley,Makaela Jane",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL264,Fall2018,Patricelli Center Fellowship I,FALSE
+"Kingsley,Makaela Jane",..T.R.. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL264,Fall2018,Patricelli Center Fellowship I,FALSE
+"Chernoff,Barry",..T.R.. 02:50PM-04:10PM;,TBA,70,NA,NA,70,NA,NA,NA,20,50,FALSE,Crosslisting:,"BIOL197,",Introduction to Environmental Studies,FALSE
+"Diver,Kim",..T.R.. 01:20PM-02:40PM;,TBA,19,7,4,19,2,3,3,0,0,FALSE,Crosslisting:,E&ES580,Introduction to GIS,FALSE
+"Diver,Kim",...W... 01:20PM-04:10PM;,TBA,19,7,4,19,2,3,3,0,0,FALSE,Crosslisting:,E&ES581,GIS Service-Learning Laboratory,FALSE
+"Versey,H. Shellae",..T.R.. 08:50AM-10:10AM;,TBA,15,0,0,15,NA,0,0,10,5,FALSE,PSYC209,Fall2018,Research Methods in Ecological-Community Psychology,FALSE
+"Patalano,Andrea L.",..T.R.. 08:50AM-10:10AM;,TBA,80,10,26,80,NA,0,4,20,20,FALSE,PSYC220,Fall2018,Cognitive Psychology,TRUE
+"Sanislow,Charles A.",.M.W... 10:50AM-12:10PM;,TBA,35,10,10,35,NA,0,0,15,0,FALSE,PSYC251,Fall2018,Psychopathology,FALSE
+"Plous,Scott L.",..T.R.. 01:20PM-02:40PM;,TBA,150,25,25,150,NA,15,15,45,25,FALSE,PSYC260,Fall2018,Social Psychology,FALSE
+"Juhasz,Barbara Jean",..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC355,Fall2018,Psychology of Reading,FALSE
+"Roberts,Andrea",..T.... 04:25PM-05:55PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHEM242,Spring2019,Informal Science Education for Elementary School Students II,TRUE
+"Kingsley,Makaela Jane",.....F. 01:20PM-03:20PM;,TBA,19,0,0,19,NA,5,6,4,4,FALSE,CSPL262,Spring2019,Introduction to Social Entrepreneurship,FALSE
+"Kingsley,Makaela Jane",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL265,Spring2019,Patricelli Center Fellowship II,FALSE
+"Kingsley,Makaela Jane",..T.R.. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL265,Spring2019,Patricelli Center Fellowship II,FALSE
+"Sanislow,Charles A.",..T.R.. 10:20AM-11:40AM;,TBA,35,10,10,35,NA,0,0,15,0,FALSE,PSYC251,Spring2019,Psychopathology,FALSE
+"Sanislow,Charles A.",..T.... 07:10PM-10:00PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC329,Spring2019,Neural Costs of War,TRUE
+"Cohan,Frederick M.",..T.R.. 01:20PM-02:40PM;,TBA,180,30,30,180,NA,30,30,30,30,FALSE,BIOL173,Fall2018,Global Change and Infectious Disease,TRUE
+"Singer,Michael",..T.R.. 08:50AM-10:10AM;,TBA,40,5,6,40,NA,5,4,20,0,FALSE,BIOL216,Fall2018,Ecology,TRUE
+"Burke,Ann Campbell",.M..... 12:15PM-01:15PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,BIOL507,Fall2018,Evolution Journal Club I,FALSE
+"Northrop,Brian Hale",....R.. 12:00PM-01:00PM;,TBA,15,2,0,15,13,0,0,0,0,FALSE,CHEM557,Fall2018,Seminar in Organic and Inorganic Chemistry,FALSE
+STAFF,.M..... 12:00PM-01:00PM;,TBA,28,4,4,28,13,4,3,0,0,FALSE,CHEM587,Fall2018,Seminar in Biological Chemistry,TRUE
+"Burke,Ann Campbell",..T.R.. 01:20PM-02:40PM;,TBA,50,15,6,50,NA,15,6,8,NA,FALSE,BIOL214,Spring2019,"MacroEvolution, Pattern and Process",FALSE
+"Coolon,Joseph David",.M..... 12:15PM-01:15PM;,TBA,14,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,BIOL508,Spring2019,Evolution Journal Club II,FALSE
+"Ku,Timothy C.W.",..T.R.. 08:50AM-10:10AM;,TBA,35,8,8,35,3,2,2,8,4,FALSE,NANA,NANA,Sedimentology,FALSE
+"Chernoff,Barry    Poulos,Helen Mills",TBA;,TBA,20,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENVS201,Spring2019,Sophomore Seminar in Environmental Studies,FALSE
+"Phillips,Earl W.",TBA;,TBA,16,7,7,16,NA,NA,NA,2,NA,FALSE,ENVS285,Spring2019,Environmental Law and Policy,FALSE
+"Smith,Colin A.",..T.R.. 10:20AM-11:40AM;,TBA,25,8,9,25,1,2,2,3,0,FALSE,Crosslisting:,"CHEM381,",Physical Chemistry for the Life Sciences,FALSE
+"Murolo,Michelle Aaron",.M.W.F. 10:50AM-11:40AM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"Murolo,Michelle Aaron",.M.W... 10:50AM-11:40AM; .....F. 01:10PM-02:00PM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"Weir,Michael P.",.M.W.F. 09:50AM-10:40AM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"Weir,Michael P.",.M.W... 09:50AM-10:40AM; .....F. 01:10PM-02:00PM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"McAlear,Michael A.",.M.W.F. 09:50AM-10:40AM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"McAlear,Michael A.",.M.W... 09:50AM-10:40AM; .....F. 10:50AM-11:40AM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+STAFF,.M.W.F. 08:50AM-09:40AM;,TBA,20,0,0,20,NA,1,1,5,13,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+STAFF,.M.W... 08:50AM-09:40AM; .....F. 09:50AM-10:40AM;,TBA,15,0,0,15,NA,1,1,3,10,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+STAFF,.M.W.F. 10:50AM-11:40AM;,TBA,15,0,0,15,NA,1,1,3,10,FALSE,Crosslisting:,BIOL181,Principles of Biology I: Cell Biology and Molecular Basis of Heredity,FALSE
+"Licata,Dan",..T.R.. 02:50PM-04:10PM;,TBA,30,13,12,30,NA,0,0,5,0,FALSE,COMP312,Fall2018,Algorithms and Complexity,TRUE
+"MacQueen,Amy",.M.W.F. 09:50AM-10:40AM;,TBA,60,2,15,60,NA,9,9,25,0,FALSE,Crosslisting:,BIOL208,Molecular Biology,FALSE
+"Lane,Robert P.",..T.R.. 10:20AM-11:40AM;,TBA,40,4,10,40,NA,3,3,20,NA,FALSE,BIOL210,Spring2019,"Genomics: Modern Genetics, Bioinformatics, and the Human Genome Project",TRUE
+STAFF,...W... 01:20PM-02:40PM;,TBA,30,5,5,30,20,0,0,0,0,FALSE,CHEM307,Fall2018,Molecular Biophysics Journal Club I,TRUE
+"Russu,Irina M.",..T.R.. 01:20PM-02:40PM;,TBA,60,15,15,60,10,10,5,5,0,FALSE,CHEM325,Fall2018,Introduction to Biomolecular Structure,TRUE
+"Taylor,Erika A.",.M.W.F. 08:50AM-09:40AM; .M..... 07:30PM-09:00PM;,TBA,22,6,6,22,4,2,2,2,NA,FALSE,CHEM383,Fall2018,Biochemistry,TRUE
+"Taylor,Erika A.",.M.W.F. 08:50AM-09:40AM; ....R.. 11:50AM-01:10PM;,TBA,22,6,6,22,4,2,2,2,NA,FALSE,CHEM383,Fall2018,Biochemistry,TRUE
+"Taylor,Erika A.",.M.W.F. 08:50AM-09:40AM; ...W... 07:30PM-09:00PM;,TBA,22,6,6,22,4,2,2,2,NA,FALSE,CHEM383,Fall2018,Biochemistry,TRUE
+"Knee,Joseph L.",.....F. 03:30PM-04:30PM;,TBA,60,20,15,60,25,0,0,0,0,FALSE,CHEM521,Fall2018,Chemistry Symposia I,FALSE
+"Mukerji,Ishita",..T.R.. 01:20PM-02:40PM;,TBA,19,7,6,19,6,0,0,NA,NA,FALSE,Crosslisting:,"MB&B335,",Protein Folding: From Misfolding to Disease,FALSE
+STAFF,...W... 01:20PM-02:40PM;,TBA,30,5,5,30,20,0,0,0,0,FALSE,CHEM308,Spring2019,Molecular Biophysics Journal Club II,TRUE
+STAFF,.M..... 12:00PM-01:00PM;,TBA,28,4,4,28,13,4,3,0,0,FALSE,CHEM588,Spring2019,Seminar in Biological Chemistry,TRUE
+"Tavernier,Royette",.M.W... 02:50PM-04:10PM;,TBA,35,6,10,35,NA,2,2,10,5,FALSE,PSYC248,Fall2018,Adolescence and Emerging Adulthood,FALSE
+"Barth,Hilary C.",.M.W... 01:20PM-02:40PM;,TBA,80,15,15,80,NA,0,0,40,10,FALSE,PSYC230,Spring2019,Developmental Psychology,FALSE
+"Stemler,Steven E.",..T.R.. 08:50AM-10:10AM;,TBA,35,4,10,35,0,2,2,15,2,FALSE,PSYC253,Spring2019,Educational Psychology,FALSE
+"Cooley,John Richard",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,0,NA,NA,NA,NA,15,FALSE,CIS150,Fall2018,The Science Behind Popular Scientific Literature,FALSE
+"Herbst,William",..T.R.. 10:20AM-11:40AM;,TBA,40,NA,NA,40,NA,10,10,10,10,FALSE,ASTR107,Fall2018,The Universe,FALSE
+"Herbst,William",..T.R.. 01:20PM-02:40PM;,TBA,40,0,0,40,NA,10,10,10,10,FALSE,ASTR107,Fall2018,The Universe,FALSE
+"Redfield,Seth",.M.W... 01:20PM-02:40PM;,TBA,44,0,0,44,NA,4,4,12,24,FALSE,ASTR155,Fall2018,Introduction to Astrophysics,FALSE
+"Hughes,Meredith",.M.W... 02:50PM-04:10PM;,TBA,40,10,10,40,10,5,5,0,0,FALSE,ASTR240,Fall2018,Radio Astronomy,FALSE
+"Redfield,Seth",.M.W... 10:50AM-12:10PM;,TBA,44,0,0,44,NA,11,11,11,11,FALSE,ASTR105,Spring2019,Exploring the Cosmos,FALSE
+"Kilgard,Roy E.",..T.R.. 10:20AM-11:40AM;,TBA,19,NA,NA,19,NA,3,4,6,6,FALSE,ASTR108,Spring2019,Conceptual Astronomy: Science Fact vs. Science Fiction,FALSE
+"Hughes,Meredith",..T.R.. 02:50PM-04:10PM;,TBA,19,NA,NA,19,NA,4,4,11,NA,FALSE,ASTR211,Spring2019,Observational Astronomy,FALSE
+"Herbst,William",.M.W... 02:50PM-04:10PM;,TBA,19,6,6,19,5,1,1,0,NA,FALSE,ASTR221,Spring2019,Galactic Astronomy,TRUE
+"Hughes,Meredith",...W... 12:20PM-01:10PM;,TBA,19,6,6,19,5,0,0,1,1,FALSE,ASTR431,Spring2019,Research Discussion in Astronomy,FALSE
+"Powzyk,Joyce Ann",..T.R.. 08:50AM-10:10AM;,TBA,19,NA,NA,19,NA,5,5,5,4,FALSE,BIOL106,Fall2018,The Biology of Sex,FALSE
+"Powzyk,Joyce Ann",...W.F. 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,BIOL140,Fall2018,Classic Studies in Animal Behavior,FALSE
+"Powzyk,Joyce Ann",...W.F. 01:20PM-02:40PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,BIOL140,Fall2018,Classic Studies in Animal Behavior,FALSE
+"Murolo,Michelle Aaron",.M..... 01:20PM-04:10PM;,TBA,48,0,1,48,NA,6,6,15,20,FALSE,Crosslisting:,BIOL191,Principles of Biology I--Laboratory,FALSE
+"Murolo,Michelle Aaron",..T.... 01:20PM-04:10PM;,TBA,48,0,1,48,NA,6,6,15,20,FALSE,Crosslisting:,BIOL191,Principles of Biology I--Laboratory,FALSE
+"Murolo,Michelle Aaron",...W... 01:20PM-04:10PM;,TBA,48,0,1,48,NA,6,6,15,20,FALSE,Crosslisting:,BIOL191,Principles of Biology I--Laboratory,FALSE
+"Murolo,Michelle Aaron",.M..... 06:40PM-09:30PM;,TBA,48,0,1,48,NA,6,6,15,20,FALSE,Crosslisting:,BIOL191,Principles of Biology I--Laboratory,FALSE
+"Murolo,Michelle Aaron",....R.. 01:20PM-04:10PM;,TBA,48,0,1,48,NA,6,6,15,20,FALSE,Crosslisting:,BIOL191,Principles of Biology I--Laboratory,FALSE
+"Naegele,Janice R.   Robinson,Mike",..T.R.. 10:20AM-11:40AM;,TBA,140,10,15,140,NA,0,0,115,NA,FALSE,Crosslisting:,"BIOL213,",Behavioral Neurobiology,FALSE
+"Grabel,Laura B.",..T.R.. 01:20PM-02:40PM;,TBA,50,8,12,50,4,4,4,18,0,FALSE,BIOL218,Fall2018,Developmental Biology,FALSE
+"Kirn,John",..T.R.. 02:50PM-04:10PM;,TBA,19,6,5,19,NA,5,3,NA,NA,FALSE,BIOL224,Fall2018,"Hormones, Brain, and Behavior",TRUE
+"Royer,Dana",.....F. 01:20PM-04:10PM;,TBA,25,9,9,25,NA,1,1,4,1,FALSE,Crosslisting:,BIOL229,Geobiology Laboratory,FALSE
+"Oliver,Donald B.",..T.R.. 02:50PM-04:10PM;,TBA,35,10,10,35,NA,5,5,5,0,FALSE,Crosslisting:,BIOL231,Microbiology,FALSE
+"Royer,Dana",..T.R.. 10:20AM-11:40AM;,TBA,25,9,9,25,NA,1,1,4,1,FALSE,Crosslisting:,"BIOL233,",Geobiology,FALSE
+STAFF,.M.W... 10:50AM-12:10PM;,TBA,30,15,15,30,NA,0,0,0,0,FALSE,Crosslisting:,"BIOL239,",Functional Anatomy of the Human Brain,FALSE
+"Aaron,Gloster B.",...W.F. 10:50AM-12:10PM;,TBA,25,15,10,25,NA,0,0,0,0,FALSE,BIOL245,Fall2018,Cellular Neurophysiology,TRUE
+"Treloar,Helen B.",...W.F. 10:50AM-12:10PM;,TBA,18,10,8,18,NA,0,0,0,NA,FALSE,Crosslisting:,BIOL252,Cell Biology of the Neuron,FALSE
+"Coolon,Joseph David",.M.W... 02:50PM-04:10PM;,TBA,12,6,6,12,NA,0,0,0,0,FALSE,BIOL310,Fall2018,Genomics Analysis,TRUE
+"Treloar,Helen B.",..T.R.. 08:50AM-10:10AM;,TBA,15,10,5,15,NA,0,0,NA,NA,FALSE,Crosslisting:,"BIOL353,",Neurobiology of Neurological Disorders,FALSE
+"Treloar,Helen B.",..T.R.. 01:20PM-02:40PM;,TBA,15,10,5,15,NA,0,0,NA,NA,FALSE,Crosslisting:,"BIOL353,",Neurobiology of Neurological Disorders,FALSE
+"Grabel,Laura B.",.M..... 12:15PM-01:15PM;,TBA,17,3,2,17,12,0,0,0,0,FALSE,BIOL505,Fall2018,Cell and Development Journal Club I,FALSE
+"Aaron,Gloster B.",.M..... 12:15PM-01:15PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,BIOL509,Fall2018,Neuroscience Journal Club I,TRUE
+"Burke,Ann Campbell",.....F. 03:30PM-05:00PM;,TBA,25,NA,NA,25,25,NA,NA,NA,NA,FALSE,BIOL557,Fall2018,Advanced Research Seminars in Biology,FALSE
+"Powzyk,Joyce Ann",...W.F. 10:50AM-12:10PM;,TBA,35,NA,NA,35,NA,15,10,10,NA,FALSE,BIOL106,Spring2019,The Biology of Sex,FALSE
+"Powzyk,Joyce Ann",..T.R.. 01:20PM-02:40PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,Primate Behavior: The Real Monkey Business (FYS),FALSE
+"Kirn,John    Singer,Michael",.M.W.F. 09:50AM-10:40AM;,TBA,270,NA,NA,270,NA,20,20,100,130,FALSE,BIOL182,Spring2019,Principles of Biology II,TRUE
+"Johnson,Ruth Ineke",.M.W.F. 10:50AM-11:40AM;,TBA,35,8,9,35,2,2,2,12,NA,FALSE,BIOL212,Spring2019,Principles and Mechanisms of Cell Biology,TRUE
+STAFF,.M.W.F. 09:50AM-10:40AM;,TBA,40,0,5,40,NA,15,10,10,0,FALSE,Crosslisting:,BIOL228,Introductory Medical Biochemistry,FALSE
+"Weir,Michael P.",.M.W.F. 10:50AM-11:40AM;,TBA,5,2,2,5,NA,0,0,1,0,FALSE,BIOL266,Spring2019,Bioinformatics,TRUE
+"Treloar,Helen B.",..T.R.. 10:20AM-11:40AM;,TBA,15,9,6,15,NA,0,0,0,NA,FALSE,Crosslisting:,BIOL328,Chemical Senses,FALSE
+"Devoto,Stephen H.",...W... 01:20PM-04:10PM;,TBA,16,4,4,16,2,3,3,NA,NA,FALSE,BIOL343,Spring2019,Muscle and Nerve Development,TRUE
+"Aaron,Gloster B.",..T.R.. 02:50PM-04:10PM;,TBA,19,8,8,19,NA,3,NA,NA,NA,FALSE,BIOL347,Spring2019,Mammalian Cortical Circuits,TRUE
+"Treloar,Helen B.",..T.R.. 01:20PM-02:40PM;,TBA,18,9,9,18,NA,0,0,0,NA,FALSE,Crosslisting:,"BIOL356,",Neurodevelopmental Disorders,FALSE
+"Weir,Michael P.",.M..... 12:15PM-01:15PM;,TBA,12,2,0,12,10,0,0,0,0,FALSE,BIOL506,Spring2019,Cell and Development Journal Club II,FALSE
+"Aaron,Gloster B.",.M..... 12:15PM-01:15PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,BIOL510,Spring2019,Neurosciences Journal Club II,TRUE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,18,0,0,18,NA,0,0,0,18,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; ..T.... 04:20PM-05:50PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; ..T.... 04:20PM-05:50PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; ..T.... 07:10PM-08:40PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Davis,Anthony P.",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,18,0,0,18,NA,2,2,7,7,FALSE,CHEM141,Fall2018,Introductory Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; .M..... 04:25PM-05:55PM;,TBA,16,0,0,16,NA,1,1,1,13,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,19,0,0,19,NA,0,0,0,19,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,19,0,0,19,NA,1,1,1,16,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; ..T.... 04:25PM-05:55PM;,TBA,19,1,0,19,NA,0,1,1,16,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; .M..... 04:25PM-05:55PM;,TBA,19,0,0,19,NA,1,1,1,16,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; ..T.... 04:25PM-05:55PM;,TBA,19,0,0,19,NA,1,1,1,16,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Westmoreland,T. David",.M.W.F. 08:50AM-09:40AM; .M..... 04:25PM-05:55PM;,TBA,19,0,0,0,NA,1,1,1,16,FALSE,CHEM143,Fall2018,Principles of Chemistry I,FALSE
+"Jimenez Hoyos,Carlos Alberto",.M..... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Fall2018,Introductory Chemistry Laboratory,FALSE
+"Jimenez Hoyos,Carlos Alberto",..T.... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Fall2018,Introductory Chemistry Laboratory,FALSE
+"Jimenez Hoyos,Carlos Alberto",...W... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Fall2018,Introductory Chemistry Laboratory,FALSE
+"Jimenez Hoyos,Carlos Alberto",....R.. 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Fall2018,Introductory Chemistry Laboratory,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 02:50PM-04:10PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 02:45PM-04:10PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50PM-10:10PM; .M..... 04:25PM-05:55PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 04:25PM-05:55PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 07:10PM-08:40PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 07:10PM-08:40PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 07:30PM-09:00PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+"Northrop,Brian Hale",..T.R.. 08:50AM-10:10AM; .M..... 07:30PM-09:00PM;,TBA,19,0,0,19,NA,2,5,10,2,FALSE,CHEM251,Fall2018,Principles of Organic Chemistry I,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ..T.... 08:20AM-12:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; .....F. 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ..T.... 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ...W... 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ....R.. 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ...W... 06:10PM-10:00PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ....R.. 06:10PM-10:00PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM257,Fall2018,General Chemistry Laboratory,FALSE
+"Novick,Stewart E.",..T.R.. 10:20AM-11:40AM;,TBA,40,8,15,40,5,0,0,10,2,FALSE,CHEM337,Fall2018,Physical Chemistry I: Quantum Mechanics and Spectroscopy,FALSE
+"Calter,Michael A.",.M.W.F. 09:50AM-10:40AM;,TBA,19,7,7,19,5,0,0,0,0,FALSE,CHEM359,Fall2018,Advanced Organic Synthesis,FALSE
+"Personick,Michelle Louise",..T.R.. 08:50AM-10:10AM;,TBA,30,8,8,30,10,2,2,0,0,FALSE,CHEM361,Fall2018,Advanced Inorganic Chemistry,FALSE
+"Roberts,Andrea",.M..... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,10,3,7,10,NA,0,0,0,0,FALSE,CHEM375,Fall2018,Integrated Chemistry Laboratory I,FALSE
+"Roberts,Andrea",..T.... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,10,4,6,10,NA,0,0,0,0,FALSE,CHEM375,Fall2018,Integrated Chemistry Laboratory I,FALSE
+"Roberts,Andrea",...W... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,10,5,5,10,NA,0,0,0,0,FALSE,CHEM375,Fall2018,Integrated Chemistry Laboratory I,FALSE
+"Russu,Irina M.",..T.R.. 01:20PM-02:40PM;,TBA,35,0,0,35,NA,7,8,10,10,FALSE,CHEM118,Spring2019,DNA,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; ..T.... 04:20PM-05:50PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; ..T.... 04:20PM-05:50PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; ..T.... 07:10PM-08:40PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; .M..... 04:20PM-05:50PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Roberts,Andrea",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,16,0,0,16,NA,1,2,4,9,FALSE,CHEM142,Spring2019,Introductory Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; .M..... 04:25PM-05:55PM;,TBA,12,0,0,12,NA,1,1,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; .M..... 04:25PM-05:55PM;,TBA,12,0,0,12,NA,1,1,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,12,0,0,12,NA,1,1,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; .M..... 07:10PM-08:40PM;,TBA,12,0,0,12,NA,1,1,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; ..T.... 04:25PM-05:55PM;,TBA,12,0,0,12,NA,1,1,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+"Personick,Michelle Louise",.M.W.F. 08:50AM-09:40AM; ..T.... 07:10PM-08:40PM;,TBA,12,1,1,12,NA,0,0,1,9,FALSE,CHEM144,Spring2019,Principles of Chemistry II,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Spring2019,Introductory Chemistry Laboratory,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Spring2019,Introductory Chemistry Laboratory,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Spring2019,Introductory Chemistry Laboratory,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Spring2019,Introductory Chemistry Laboratory,FALSE
+STAFF,.....F. 01:20PM-04:10PM;,TBA,24,0,0,24,NA,1,2,5,16,FALSE,CHEM152,Spring2019,Introductory Chemistry Laboratory,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; .M..... 02:50PM-04:10PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; .M..... 07:10PM-08:40PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; .M..... 07:10PM-08:40PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; ..T.... 02:50PM-04:10PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; ..T.... 07:10PM-08:40PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; ..T.... 07:10PM-08:40PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; .M..... 07:30PM-09:00PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+"Calter,Michael A.",..T.R.. 08:50AM-10:10AM; ..T.... 07:30PM-09:00PM;,TBA,22,0,0,22,NA,2,3,15,2,FALSE,CHEM252,Spring2019,Principles of Organic Chemistry II,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ..T.... 08:20AM-12:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; .....F. 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ..T.... 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ...W... 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ....R.. 01:20PM-05:10PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ...W... 06:10PM-10:00PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+STAFF,.M..... 01:20PM-02:40PM; ....R.. 06:10PM-10:00PM;,TBA,20,0,0,20,NA,2,2,14,2,FALSE,CHEM258,Spring2019,Organic Chemistry Laboratory,FALSE
+"Davis,Anthony P.",.M.W... 10:50AM-12:10PM; ....R.. 01:10PM-04:10PM;,TBA,12,11,0,12,1,0,0,0,NA,FALSE,CHEM317,Spring2019,Analytical Chemistry,FALSE
+"Taylor,Erika A.",..T.R.. 08:50AM-10:10AM;,TBA,19,7,7,19,NA,2,3,0,0,FALSE,CHEM321,Spring2019,Biomedicinal Chemistry,TRUE
+"Jimenez Hoyos,Carlos Alberto",..T.R.. 10:20AM-11:40AM;,TBA,24,5,10,24,5,0,0,4,0,FALSE,CHEM338,Spring2019,"Physical Chemistry II: Thermodynamics, Statistical Mechanics, and Kinetics",FALSE
+"Northrop,Brian Hale",.M.W.F. 09:50AM-10:40AM;,TBA,19,7,7,19,5,0,0,0,0,FALSE,CHEM358,Spring2019,Structure and Mechanism,FALSE
+"Westmoreland,T. David",.M..... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,10,3,7,10,NA,0,0,0,0,FALSE,CHEM376,Spring2019,Integrated Chemistry Laboratory II,FALSE
+"Westmoreland,T. David",..T.... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,10,3,7,10,NA,0,0,0,0,FALSE,CHEM376,Spring2019,Integrated Chemistry Laboratory II,FALSE
+"Westmoreland,T. David",...W... 01:20PM-06:10PM; .....F. 01:20PM-02:10PM;,TBA,5,2,2,5,NA,1,0,0,0,FALSE,CHEM376,Spring2019,Integrated Chemistry Laboratory II,FALSE
+"Personick,Michelle Louise",.....F. 03:30PM-04:30PM;,TBA,60,20,15,60,25,0,0,0,0,FALSE,CHEM522,Spring2019,Chemistry Symposia II,FALSE
+"Knee,Joseph L.",.M..... 12:10PM-01:00PM;,TBA,19,3,3,19,13,0,0,0,0,FALSE,PHYS588,Spring2019,Seminar in Chemical Physics,TRUE
+"Northrop,Brian Hale",....R.. 12:00PM-01:00PM;,TBA,15,2,0,15,13,0,0,0,0,FALSE,CHEM558,Spring2019,Seminar in Organic and Inorganic Chemistry,FALSE
+"Aaron,Gloster B.",.....F. 02:50PM-03:40PM;,TBA,35,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS121,Fall2018,Wesleyan Mathematics and Science Scholars Colloquium I,FALSE
+"Teva,David Leipziger",.M..... 04:30PM-06:30PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS135,Fall2018,Mindfulness,FALSE
+"Cooley,John Richard",.M.W... 10:50AM-12:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,The Science Behind Popular Scientific Literature (FYS),FALSE
+"Thomas,Ellen",.....F. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS221,Fall2018,Research Frontiers in the Sciences I,FALSE
+"Nazzaro,Valerie L.",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,2,7,7,3,0,FALSE,QAC307,Fall2018,Experimental Design and Causal Inference,TRUE
+"Mukerji,Ishita",.....F. 01:20PM-02:40PM;,TBA,30,15,10,30,5,0,0,0,NA,FALSE,CIS321,Fall2018,Senior Colloquium I: Integrative Sciences,FALSE
+"Hughes,Meredith",.....F. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS340,Fall2018,STEM Equity and Inclusion,TRUE
+"Hildum,Alyson",.M.W.F. 09:50AM-10:40AM;,TBA,40,0,0,40,NA,1,1,10,28,FALSE,MATH222,Fall2018,Multivariable Calculus,FALSE
+"Li,Han",.M.W... 01:20PM-02:40PM;,TBA,40,0,0,40,NA,1,1,10,28,FALSE,MATH222,Fall2018,Multivariable Calculus,FALSE
+"Fieldsteel,Adam",..T.R.. 08:50AM-10:10AM;,TBA,35,8,9,35,NA,4,5,9,0,FALSE,MATH226,Fall2018,Complex Analysis,FALSE
+"Loui,Psyche",..T.R.. 02:50PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC398,Fall2018,Advanced Research in Auditory Cognitive Neuroscience,TRUE
+"Ellis,Fred M.",.M.W... 10:50AM-12:10PM;,TBA,19,7,8,19,2,0,0,2,0,FALSE,PHYS315,Fall2018,Quantum Mechanics II,TRUE
+"Sanislow,Charles A.",.M.W... 02:50PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC392,Fall2018,Behavioral Methods in Affective Neuroscience,TRUE
+"Hovey,Mark A.",TBA;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,CIS115,Spring2019,Experiential Design and Application,FALSE
+"Aaron,Gloster B.",.....F. 02:50PM-03:40PM;,TBA,35,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS122,Spring2019,Wesleyan Mathematics and Science Scholars Colloquium II,FALSE
+"Teva,David Leipziger",.M..... 04:30PM-06:30PM;,TBA,16,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS135,Spring2019,Mindfulness,FALSE
+"Thomas,Ellen",.....F. 01:20PM-02:40PM;,TBA,19,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CIS222,Spring2019,Research Frontiers in the Sciences II,FALSE
+"Mukerji,Ishita",.....F. 01:20PM-02:40PM;,TBA,30,15,10,30,5,0,0,0,0,FALSE,CIS322,Spring2019,Senior Colloquium II: Integrative Sciences,FALSE
+"Gilmore,Martha S.",...W... 01:20PM-04:10PM;,TBA,20,8,2,20,2,6,2,0,0,FALSE,NANA,NANA,Remote-Sensing Laboratory,FALSE
+"Hildum,Alyson",.M.W.F. 09:50AM-10:40AM;,TBA,40,0,0,40,NA,1,2,12,25,FALSE,MATH222,Spring2019,Multivariable Calculus,FALSE
+"Hildum,Alyson",.M.W.F. 10:50AM-11:40AM;,TBA,35,0,0,35,NA,1,2,10,22,FALSE,MATH222,Spring2019,Multivariable Calculus,FALSE
+"Fieldsteel,Adam",..T.R.. 08:50AM-10:10AM;,TBA,60,15,15,60,NA,10,10,10,0,FALSE,MATH225,Spring2019,Fundamentals of Analysis: An Introduction to Real Analysis,FALSE
+"Ram�rez,Felipe A.",.M.W.F. 08:50AM-09:40AM;,TBA,35,5,10,35,NA,5,5,8,2,FALSE,MATH229,Spring2019,Differential Equations,FALSE
+"Robinson,Mike",..T.R.. 10:20AM-11:40AM;,TBA,35,11,11,35,NA,3,3,7,NA,FALSE,Crosslisting:,PSYC227,Motivation and Reward,FALSE
+"Morgan,Thomas J.",.M.W... 02:50PM-04:10PM;,TBA,19,7,7,19,3,0,0,2,0,FALSE,PHYS313,Spring2019,Classical Dynamics,TRUE
+"H�wel,Lutz",.M.W... 02:50PM-04:10PM;,TBA,24,12,12,24,NA,0,0,0,0,FALSE,PHYS358,Spring2019,Condensed Matter,TRUE
+"Juhasz,Barbara Jean",.M.W... 10:50AM-12:10PM;,TBA,35,0,0,35,NA,10,10,10,5,FALSE,PSYC222,Spring2019,Sensation and Perception,TRUE
+"Lipton,James",..T.R.. 01:20PM-02:40PM;,TBA,30,15,10,30,NA,0,0,5,0,FALSE,COMP301,Fall2018,Automata Theory and Formal Languages,TRUE
+"Manfredi,Victoria Ursula",.M.W... 01:20PM-02:40PM;,TBA,30,15,10,30,0,0,0,5,0,FALSE,COMP332,Fall2018,Computer Networks,FALSE
+"Danner,Norman",.M.W... 01:20PM-02:40PM;,TBA,25,NA,NA,25,NA,5,5,5,10,FALSE,COMP114,Spring2019,How to Talk to Machines,FALSE
+"Danner,Norman",..T.R.. 01:20PM-02:40PM;,TBA,30,15,10,30,NA,0,0,5,0,FALSE,COMP321,Spring2019,Design of Programming Languages,TRUE
+"Krizanc,Daniel",..T.R.. 08:50AM-10:10AM;,TBA,30,15,10,30,NA,0,0,5,0,FALSE,COMP331,Spring2019,Computer Structure and Organization,TRUE
+"Shai,Saray",..T.R.. 02:50PM-04:10PM;,TBA,25,10,10,25,NA,0,0,5,0,FALSE,NANA,NANA,Special Topics in Computer Science,FALSE
+"Greenwood,James P.",.M.W... 01:20PM-02:40PM; ...W... 02:40PM-04:10PM;,TBA,50,NA,NA,50,NA,0,0,25,25,FALSE,NANA,NANA,Dynamic Earth,FALSE
+"Varekamp,Johan C.",..T.R.. 08:50AM-10:10AM;,TBA,25,13,12,25,NA,0,0,0,0,FALSE,NANA,NANA,Mineralogy,FALSE
+"Varekamp,Johan C.",.M..... 01:20PM-04:10PM;,TBA,25,13,12,25,NA,0,0,0,0,FALSE,NANA,NANA,Laboratory Study of Minerals,FALSE
+"Resor,Phillip G.",..T.... 02:50PM-04:10PM;,TBA,19,6,6,19,3,1,1,2,NA,FALSE,NANA,NANA,New England Geology,FALSE
+"O'Connell,Suzanne B.",...W... 01:20PM-04:10PM;,TBA,12,0,0,12,NA,0,0,NA,NA,FALSE,NANA,NANA,Calderwood Seminar in Public Writing: Environmental Science Journalism,FALSE
+"Ku,Timothy C.W.   Resor,Phillip G.",.M.W... 10:50AM-12:10PM;,TBA,30,30,NA,30,NA,NA,NA,NA,NA,FALSE,NANA,NANA,Senior Seminar,FALSE
+"Royer,Dana",.....F. 04:15PM-05:15PM;,TBA,19,NA,NA,19,19,NA,NA,NA,NA,FALSE,NANA,NANA,Research Discussion in Earth & Environmental Sciences,FALSE
+"Royer,Dana",.....F. 01:20PM-04:10PM;,TBA,25,NA,0,25,NA,NA,NA,25,NA,FALSE,NANA,NANA,Sophomore Field Course,FALSE
+"Ku,Timothy C.W.",.M..... 01:20PM-04:10PM;,TBA,32,8,8,32,NA,2,2,8,4,FALSE,NANA,NANA,Sedimentology/Stratigraphy Techniques,FALSE
+"Greenwood,James P.",.M.W... 10:50AM-12:10PM;,TBA,20,5,5,20,NA,5,5,0,0,FALSE,Crosslisting:,E&ES513,Petrogenesis of Igneous and Metamorphic Rocks,FALSE
+"Greenwood,James P.",..T.... 01:20PM-04:10PM;,TBA,20,5,5,20,NA,5,5,0,0,FALSE,NANA,NANA,Laboratory Study of Igneous and Metamorphic Rocks,FALSE
+"Resor,Phillip G.",.M.W.F. 09:50AM-10:40AM;,TBA,20,6,6,20,4,2,2,0,0,FALSE,Crosslisting:,E&ES575,Modeling the Earth and Environment,FALSE
+"Gilmore,Martha S.",..T.R.. 10:20AM-11:40AM;,TBA,20,8,2,20,NA,8,2,0,0,FALSE,Crosslisting:,E&ES585,Remote Sensing,FALSE
+"Ku,Timothy C.W.   Resor,Phillip G.",.....F. 01:20PM-04:10PM;,TBA,30,30,NA,30,NA,NA,NA,NA,NA,FALSE,NANA,NANA,Senior Field Research Project,FALSE
+"Leidy,Constance",.M.W.F. 10:50AM-11:40AM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH119,Fall2018,"Elements of Calculus, Part 1",FALSE
+STAFF,.M.W.F. 08:50AM-09:40AM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH119,Fall2018,"Elements of Calculus, Part 1",FALSE
+STAFF,.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,0,1,6,12,FALSE,MATH119,Fall2018,"Elements of Calculus, Part 1",FALSE
+STAFF,.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,0,1,6,12,FALSE,MATH119,Fall2018,"Elements of Calculus, Part 1",FALSE
+"Pollack,David",..T.R.. 02:50PM-04:10PM;,TBA,70,0,0,70,NA,0,0,20,50,FALSE,MATH121,Fall2018,"Calculus I, Part I",FALSE
+"Hildum,Alyson",.M.W.F. 08:50AM-09:40AM;,TBA,40,0,0,40,NA,0,0,15,25,FALSE,MATH121,Fall2018,"Calculus I, Part I",FALSE
+"Adeboye,Ilesanmi",.M.W.F. 09:50AM-10:40AM;,TBA,40,0,0,40,NA,4,4,12,20,FALSE,MATH122,Fall2018,"Calculus I, Part II",FALSE
+"Chan,Wai Kiu",.M.W... 02:50PM-04:10PM;,TBA,40,0,0,40,NA,1,1,10,28,FALSE,MATH122,Fall2018,"Calculus I, Part II",FALSE
+"Constantine,David A.",..T.R.. 10:20AM-11:40AM;,TBA,30,16,14,30,NA,0,0,0,0,FALSE,MATH255,Fall2018,Fundamentals of Analysis II,FALSE
+"Rasmussen,Christopher",.M.W... 02:50PM-04:10PM;,TBA,40,20,15,40,NA,NA,NA,5,NA,FALSE,MATH261,Fall2018,"Abstract Algebra: Groups, Rings, and Fields",FALSE
+"Chan,Wai Kiu",.M.W... 01:20PM-02:40PM;,TBA,30,10,10,30,0,2,3,5,0,FALSE,MATH271,Fall2018,Error-Correcting Codes,FALSE
+"Constantine,David A.",..T.R.. 08:50AM-10:10AM;,TBA,16,2,0,16,14,0,0,0,0,FALSE,MATH515,Fall2018,Analysis II,FALSE
+"Leidy,Constance",.M.W... 02:50PM-04:10PM;,TBA,16,4,2,16,10,0,0,0,0,FALSE,MATH523,Fall2018,Topology I,FALSE
+"Adeboye,Ilesanmi",.M.W... 01:20PM-02:40PM;,TBA,16,2,0,16,14,0,0,0,0,FALSE,MATH525,Fall2018,Topology II: Topics in Topology,FALSE
+"Pollack,David",..T.R.. 01:20PM-02:40PM;,TBA,16,4,2,16,10,0,0,0,0,FALSE,MATH543,Fall2018,Algebra I,FALSE
+"Hill,Cameron Donnay",..T.R.. 02:50PM-04:10PM;,TBA,16,4,2,16,10,0,0,0,0,FALSE,MATH545,Fall2018,Algebra II: Topics in Algebra,FALSE
+"Rasmussen,Christopher",.M.W.F. 10:50AM-11:40AM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH120,Spring2019,"Elements of Calculus, Part II",FALSE
+STAFF,.M.W.F. 08:50AM-09:40AM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH120,Spring2019,"Elements of Calculus, Part II",FALSE
+STAFF,.M.W.F. 09:50AM-10:40AM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH120,Spring2019,"Elements of Calculus, Part II",FALSE
+STAFF,.M.W.F. 01:20PM-02:10PM;,TBA,19,NA,NA,19,NA,0,1,6,12,FALSE,MATH120,Spring2019,"Elements of Calculus, Part II",FALSE
+"Adeboye,Ilesanmi",..T.R.. 02:50PM-04:10PM;,TBA,40,0,0,40,NA,0,0,20,20,FALSE,MATH122,Spring2019,"Calculus I, Part II",FALSE
+"Willis,Matthew James",.M.W.F. 08:50AM-09:40AM;,TBA,40,0,0,40,NA,0,0,20,20,FALSE,MATH122,Spring2019,"Calculus I, Part II",FALSE
+"Willis,Matthew James",.M.W.F. 09:50AM-10:40AM;,TBA,40,0,0,40,NA,0,0,20,20,FALSE,MATH122,Spring2019,"Calculus I, Part II",FALSE
+"Hill,Cameron Donnay",..T.R.. 02:50PM-04:10PM;,TBA,30,0,10,30,NA,0,10,8,2,FALSE,MATH241,Spring2019,Set Theory,FALSE
+STAFF,..T.R.. 10:20AM-11:40AM;,TBA,30,0,0,30,0,0,0,0,0,FALSE,MATH246,Spring2019,Applied Topology,FALSE
+"Chan,Wai Kiu",.M.W... 02:50PM-04:10PM;,TBA,30,5,5,30,NA,5,5,5,5,FALSE,MATH262,Spring2019,Abstract Algebra,FALSE
+"Ram�rez,Felipe A.",.M.W.F. 10:50AM-11:40AM;,TBA,16,2,0,16,14,0,0,0,0,FALSE,MATH516,Spring2019,Analysis II,FALSE
+STAFF,..T.R.. 01:20PM-02:40PM;,TBA,16,2,0,16,14,0,0,0,0,FALSE,MATH526,Spring2019,Topology II,FALSE
+"Chan,Wai Kiu",.M.W... 01:20PM-02:40PM;,TBA,16,4,2,16,10,0,0,0,0,FALSE,MATH544,Spring2019,Algebra I,FALSE
+"Rasmussen,Christopher",.M.W... 02:50PM-04:10PM;,TBA,16,2,0,16,14,0,0,0,0,FALSE,MATH546,Spring2019,Algebra II,FALSE
+"Lane,Robert P.",.M..... 12:15PM-01:15PM;,TBA,19,3,3,19,13,0,0,0,0,FALSE,Crosslisting:,MB&B285,Seminar in Molecular Biology,FALSE
+"Lane,Robert P.",...W... 04:10PM-05:10PM;,TBA,44,0,0,44,44,0,0,0,0,FALSE,NANA,NANA,Research Seminars in Molecular Biology,FALSE
+"Oliver,Donald B.",.M.W.F. 02:50PM-03:40PM;,TBA,35,0,0,35,NA,5,5,10,10,FALSE,NANA,NANA,The Science of Human Health: Microbiology and Immunology,FALSE
+"Lane,Robert P.",.M..... 12:15PM-01:15PM;,TBA,19,3,3,19,13,0,0,0,0,FALSE,Crosslisting:,MB&B286,Seminar in Molecular Biology,FALSE
+"Holmes,Scott G.",..T.R.. 08:50AM-10:10AM;,TBA,19,5,4,19,10,0,0,0,0,FALSE,Crosslisting:,MB&B306,Epigenetics,FALSE
+"McAlear,Michael A.",.M.W... 02:50PM-04:10PM;,TBA,18,4,4,18,10,0,0,0,NA,FALSE,Crosslisting:,MB&B515,The Regulation of Ribosome Biosynthesis,FALSE
+"MacQueen,Amy",..T.... 01:20PM-05:10PM; ....R.. 01:20PM-02:40PM;,TBA,20,10,10,20,NA,0,0,0,0,FALSE,NANA,NANA,Advanced Laboratory in Molecular Biology and Genetics,FALSE
+"McAlear,Michael A.",...W... 04:20PM-05:20PM;,TBA,25,0,0,25,25,0,0,0,0,FALSE,NANA,NANA,Research Seminars in Molecular Biology,FALSE
+"Kim,Kyungmi",..T.R.. 10:20AM-11:40AM;,TBA,15,0,0,15,NA,0,0,10,5,FALSE,PSYC210,Fall2018,Research Methods in Cognition,TRUE
+"Loui,Psyche",..T.R.. 01:20PM-02:40PM;,TBA,15,0,0,15,NA,0,0,10,5,FALSE,PSYC210,Fall2018,Research Methods in Cognition,TRUE
+"Robinson,Mike",.M.W.F. 09:50AM-10:40AM;,TBA,15,0,0,15,NA,0,0,12,3,FALSE,PSYC215,Fall2018,Research Methods: Behavioral Methods in Animal Research,TRUE
+"Kurtz,Matthew M.",.M.W... 10:50AM-12:10PM;,TBA,35,17,18,35,NA,0,0,0,0,FALSE,PSYC228,Fall2018,Clinical Neuropsychology,TRUE
+"Kim,Kyungmi",..T.R.. 02:50PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC383,Fall2018,Advanced Research in Learning and Memory,TRUE
+"Loui,Psyche",..T.R.. 02:50PM-04:10PM;,TBA,40,15,15,40,NA,0,0,10,NA,FALSE,Crosslisting:,PSYC225,Cognitive Neuroscience,FALSE
+STAFF,.M...F. 10:50AM-12:10PM;,TBA,31,9,9,31,1,2,2,8,NA,FALSE,NANA,NANA,Neuroethics,FALSE
+"Loui,Psyche",..T.R.. 10:20AM-11:40AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC342,Spring2019,Music Perception and Cognition,TRUE
+"Robinson,Mike",.M.W.F. 09:50AM-10:40AM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC399,Spring2019,"Lab in Gambling, Drugs, and Junk Food",TRUE
+"Stewart,Brian A.",.M.W.F. 10:50AM-11:40AM;,TBA,80,NA,NA,80,NA,20,20,20,20,FALSE,PHYS111,Fall2018,Introductory Physics I,FALSE
+"H�wel,Lutz",.M.W... 10:50AM-11:40AM; .....F. 10:50AM-11:40AM;,TBA,36,0,0,36,NA,0,0,10,26,FALSE,PHYS113,Fall2018,General Physics I,FALSE
+"Hüwel,Lutz",.M.W... 10:50AM-11:40AM; .....F. 09:50AM-10:40AM;,TBA,36,0,0,36,NA,0,0,10,26,FALSE,PHYS113,Fall2018,General Physics I,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,16,NA,NA,16,NA,5,5,5,1,FALSE,PHYS121,Fall2018,Physics Laboratory I,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,16,NA,NA,16,NA,5,5,5,1,FALSE,PHYS121,Fall2018,Physics Laboratory I,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,16,NA,NA,16,NA,5,5,5,1,FALSE,PHYS121,Fall2018,Physics Laboratory I,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,16,NA,NA,16,NA,5,5,5,1,FALSE,PHYS121,Fall2018,Physics Laboratory I,FALSE
+STAFF,.....F. 01:20PM-04:10PM;,TBA,16,NA,NA,16,NA,5,5,5,1,FALSE,PHYS121,Fall2018,Physics Laboratory I,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,12,0,0,12,NA,1,1,4,6,FALSE,PHYS123,Fall2018,General Physics Laboratory I,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,12,0,0,12,NA,1,1,4,6,FALSE,PHYS123,Fall2018,General Physics Laboratory I,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,12,0,0,12,NA,1,1,4,6,FALSE,PHYS123,Fall2018,General Physics Laboratory I,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,12,0,0,12,NA,1,1,4,6,FALSE,PHYS123,Fall2018,General Physics Laboratory I,FALSE
+"Starr,Francis W.",..T.R.. 10:20AM-11:40AM;,TBA,45,0,2,45,NA,2,2,34,5,FALSE,PHYS213,Fall2018,Waves and Oscillations,FALSE
+"Morgan,Thomas J.",..T.R.. 02:50PM-04:10PM;,TBA,30,5,5,30,NA,2,2,8,8,FALSE,PHYS215,Fall2018,Special Relativity,FALSE
+"Morgan,Thomas J.",..T.R.. 02:50PM-04:10PM;,TBA,19,4,5,19,NA,0,0,10,0,FALSE,PHYS219,Fall2018,Introduction to Contemporary Physics,FALSE
+"Kottos,Tsampikos",.M.W... 01:20PM-02:40PM;,TBA,35,12,15,35,5,0,0,3,0,FALSE,PHYS324,Fall2018,Electricity and Magnetism,TRUE
+"Sher,Meng-ju Renee",....R.. 01:20PM-04:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PHYS342,Fall2018,Experimental Optics,TRUE
+"Ellis,Fred M.",...W... 04:15PM-05:15PM;,TBA,15,4,3,15,8,0,0,0,0,FALSE,PHYS505,Fall2018,Condensed Matter Physics Seminar I,FALSE
+"H�wel,Lutz",.M..... 04:20PM-05:20PM;,TBA,10,1,1,10,8,0,0,0,0,FALSE,PHYS507,Fall2018,Atomic and Molecular Physics Seminar I,FALSE
+"Kottos,Tsampikos",.....F. 01:20PM-02:10PM;,TBA,19,6,6,19,7,0,0,0,0,FALSE,PHYS509,Fall2018,Theoretical Physics Seminar I,FALSE
+"Stewart,Brian A.",....R.. 11:50AM-01:10PM;,TBA,19,2,1,19,16,0,0,0,0,FALSE,PHYS521,Fall2018,Physics Colloquium I,FALSE
+"Bl�mel,Reinhold",..T.R.. 10:20AM-11:40AM;,TBA,25,3,2,25,20,0,0,0,0,FALSE,PHYS566,Fall2018,Electrodynamics,FALSE
+"Sher,Meng-ju Renee",..T.... 01:20PM-02:40PM;,TBA,17,6,6,17,5,0,0,0,0,FALSE,PHYS573,Fall2018,Advanced Topics in Condensed Matter,FALSE
+STAFF,.M.W.F. 10:50AM-11:40AM;,TBA,200,0,0,200,NA,50,50,50,50,FALSE,PHYS112,Spring2019,Introductory Physics II,FALSE
+"Starr,Francis W.",.M.W... 10:50AM-11:40AM; .....F. 10:50AM-11:40AM;,TBA,36,NA,NA,36,NA,NA,0,12,24,FALSE,PHYS116,Spring2019,General Physics II,FALSE
+"Starr,Francis W.",.M.W... 10:50AM-11:40AM; .....F. 09:50AM-10:40AM;,TBA,36,NA,NA,36,NA,NA,0,12,24,FALSE,PHYS116,Spring2019,General Physics II,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,5,5,5,FALSE,PHYS122,Spring2019,Physics Laboratory II,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,5,5,5,FALSE,PHYS122,Spring2019,Physics Laboratory II,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,5,5,5,FALSE,PHYS122,Spring2019,Physics Laboratory II,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,5,5,5,FALSE,PHYS122,Spring2019,Physics Laboratory II,FALSE
+STAFF,.....F. 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,5,5,5,FALSE,PHYS122,Spring2019,Physics Laboratory II,FALSE
+STAFF,.M..... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,1,6,8,FALSE,PHYS124,Spring2019,General Physics Laboratory II,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,1,6,8,FALSE,PHYS124,Spring2019,General Physics Laboratory II,FALSE
+STAFF,...W... 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,1,6,8,FALSE,PHYS124,Spring2019,General Physics Laboratory II,FALSE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,16,0,0,16,NA,1,1,6,8,FALSE,PHYS124,Spring2019,General Physics Laboratory II,FALSE
+"Sher,Meng-ju Renee",.M.W... 10:50AM-12:10PM;,TBA,45,2,10,45,NA,0,3,30,0,FALSE,PHYS214,Spring2019,Quantum Mechanics I,FALSE
+"Bl�mel,Reinhold",.M.W... 01:20PM-02:40PM;,TBA,24,5,5,24,NA,0,0,10,4,FALSE,PHYS217,Spring2019,Non-linear Dynamics and Chaos,FALSE
+"Etson,Candice Marie",..T.R.. 10:20AM-11:40AM;,TBA,30,12,12,30,0,0,0,6,0,FALSE,PHYS316,Spring2019,Thermal and Statistical Physics,TRUE
+STAFF,....R.. 01:20PM-04:10PM;,TBA,18,8,8,18,2,0,0,0,0,FALSE,PHYS345,Spring2019,Electronics Lab,TRUE
+"Sher,Meng-ju Renee",...W... 04:15PM-05:15PM;,TBA,15,4,3,15,8,0,0,0,0,FALSE,PHYS506,Spring2019,Condensed Matter Physics Seminar II,FALSE
+"Stewart,Brian A.",.M..... 04:20PM-05:20PM;,TBA,10,1,1,10,8,0,0,0,0,FALSE,PHYS508,Spring2019,Atomic and Molecular Physics Seminar II,FALSE
+"Bl�mel,Reinhold",.....F. 01:20PM-02:10PM;,TBA,26,8,8,26,10,0,0,0,0,FALSE,PHYS510,Spring2019,Theoretical Physics Seminar II,FALSE
+"Morgan,Thomas J.",....R.. 11:50AM-01:10PM;,TBA,19,2,1,19,16,0,0,0,0,FALSE,PHYS522,Spring2019,Physics Colloquium II,FALSE
+"Voth,Greg A.",..T.R.. 10:20AM-11:40AM;,TBA,19,4,4,19,11,0,0,0,0,FALSE,PHYS543,Spring2019,Analytical Mechanics,FALSE
+"Stewart,Brian A.",...W... 02:50PM-04:20PM;,TBA,10,2,0,10,8,0,0,NA,NA,FALSE,PHYS572,Spring2019,Advanced Topics in Atomic and Molecular Physics,FALSE
+"Stemler,Steven E.",..T.R.. 10:20AM-11:40AM;,TBA,200,0,0,200,NA,20,20,55,105,FALSE,PSYC105,Fall2018,Foundations of Contemporary Psychology,FALSE
+"Steele,Robert S.",.....F. 01:20PM-04:10PM;,TBA,21,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC111,Fall2018,"Myth, Magic, and Movies",FALSE
+"Barth,Hilary C.",.M.W... 01:20PM-02:40PM;,TBA,15,0,5,15,NA,NA,NA,10,0,FALSE,PSYC207,Fall2018,Research Methods in Developmental Psychology,FALSE
+"Carney,Sarah Kristin",.M.W... 08:20AM-09:40AM;,TBA,15,0,0,15,NA,0,NA,10,5,FALSE,PSYC213,Fall2018,Research Methods in Social Psychology,FALSE
+"Steele,Robert S.",.M..... 01:20PM-04:10PM;,TBA,32,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC261,Fall2018,Cultural Psychology,FALSE
+"Carney,Sarah Kristin",..T.R.. 08:50AM-10:10AM;,TBA,35,14,12,35,NA,0,0,9,0,FALSE,PSYC277,Fall2018,Psychology and the Law,FALSE
+"Tavernier,Royette",..T.R.. 01:20PM-02:40PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC343,Fall2018,Sleep and Psychosocial Functioning in Youth,FALSE
+"Rodriguez Mosquera,Patricia Maria",..T.R.. 02:50PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC365,Fall2018,Seminar on Emotion,FALSE
+"Versey,H. Shellae",....R.. 01:20PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC387,Fall2018,Advanced Research in Community Psychology,FALSE
+"Carney,Sarah Kristin",..T.R.. 08:50AM-10:10AM;,TBA,200,0,0,200,NA,22,22,53,103,FALSE,PSYC105,Spring2019,Foundations of Contemporary Psychology,FALSE
+"Dierker,Lisa C.",...W... 01:20PM-04:10PM; .....F. 01:20PM-02:50PM;,TBA,20,0,0,20,NA,0,0,3,17,FALSE,PSYC105,Spring2019,Foundations of Contemporary Psychology,FALSE
+"Steele,Robert S.",....R.. 07:10AM-10:00AM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC204,Spring2019,Methods of Interpretation,FALSE
+"Rodriguez Mosquera,Patricia Maria",..T.R.. 01:20PM-02:40PM;,TBA,15,0,0,15,NA,NA,NA,9,6,FALSE,PSYC208,Spring2019,Research Methods on Emotion,FALSE
+"Dierker,Lisa C.",...W... 07:10PM-10:00PM;,TBA,20,0,0,20,NA,0,0,15,5,FALSE,PSYC211,Spring2019,Research Methods in Clinical Psychology,FALSE
+"Tavernier,Royette",..T.R.. 02:50PM-04:10PM;,TBA,15,0,0,15,NA,0,0,9,6,FALSE,PSYC214,Spring2019,Research Methods in Sleep Research,FALSE
+"Carney,Sarah Kristin",.M.W... 08:20AM-09:40AM;,TBA,40,4,5,40,NA,4,4,17,6,FALSE,PSYC277,Spring2019,Psychology and the Law,FALSE
+"Steele,Robert S.",.M..... 07:10PM-10:00PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC324,Spring2019,Culture and Denial,FALSE
+"Stemler,Steven E.",..T.... 01:20PM-04:10PM;,TBA,15,4,5,15,0,2,2,2,0,FALSE,PSYC327,Spring2019,Psychology of Conflict Resolution,FALSE
+"Morawski,Jill G.",...W... 01:20PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHUM359,Spring2019,"Making the Psychological: Discovering, Manufacturing, and Circulating",TRUE
+"Plous,Scott L.",....R.. 01:20PM-04:10PM;,TBA,15,9,6,15,NA,0,0,0,NA,FALSE,PSYC361,Spring2019,The Psychology of Prejudice and Discrimination,TRUE
+"Rodriguez Mosquera,Patricia Maria",..T.R.. 02:50PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC365,Spring2019,Seminar on Emotion,FALSE
+"Tavernier,Royette",.M..... 01:20PM-04:10PM;,TBA,10,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,PSYC386,Spring2019,Advanced Research in Sleep,FALSE
+"Pitts-Taylor,Victoria",..T.R.. 01:20PM-02:40PM;,TBA,19,9,10,19,NA,0,0,0,NA,FALSE,FGSS321,Spring2019,"BioFeminisms: Science, Matter, and Agency",TRUE
+"Pitts-Taylor,Victoria",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,NA,NA,10,9,FALSE,FGSS200,Spring2019,Sex/Gender in Critical Perspective (FGSS Gateway),FALSE
+"Johnson,Khalil Anthony",..T.R.. 01:20PM-02:40PM;,TBA,17,3,14,17,NA,NA,NA,NA,NA,FALSE,AFAM301,Fall2018,Junior Colloquium: Defining African American Studies,FALSE
+"Brown,Lois",.M.W... 02:50PM-04:10PM;,TBA,15,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHUM353,Spring2019,Race and Spectacle in African American Literature and Film,TRUE
+"Neary,Louise C.",.M.W... 02:50PM-04:10PM;,TBA,25,0,0,25,NA,7,6,6,6,FALSE,CGST210,Spring2019,Language and Thought: Introduction to Linguistics,FALSE
+"Korda,Natasha",.M..... 06:10PM-07:40PM; ..T.... 10:20AM-12:50PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHUM381,Fall2018,Student Fellowship,FALSE
+"Grant,Roger Mathew",..T.... 01:20PM-04:10PM;,TBA,15,4,4,15,0,4,3,0,0,FALSE,CHUM351,Spring2019,Melodrama Since 1700,FALSE
+"Korda,Natasha",.M..... 06:10PM-07:10PM; ..T.... 10:20AM-12:50PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CHUM381,Spring2019,Student Fellowship,FALSE
+STAFF,...W... 10:50AM-12:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL280,Fall2018,Nonprofit Boards: Theory and Practice I,FALSE
+STAFF,...W... 10:50AM-12:10PM;,TBA,12,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,CSPL281,Spring2019,Nonprofit Boards: Theory and Practice II,FALSE
+"Chernoff,Barry",...W... 05:30PM-07:30PM;,TBA,25,25,0,25,NA,0,0,0,0,FALSE,ENVS391,Fall2018,Senior Colloquium: Environmental Studies,FALSE
+"Chernoff,Barry",TBA;,TBA,30,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,ENVS392,Spring2019,Senior Colloquium: Environmental Studies,FALSE
+"Tucker,Jennifer",.....F. 10:00AM-12:50PM;,TBA,19,19,NA,19,NA,NA,NA,NA,NA,FALSE,FGSS405,Fall2018,Senior Seminar,FALSE
+"Oleinikov,Pavel V",.M..... 07:10PM-10:00PM;,TBA,19,0,0,19,0,5,5,5,4,FALSE,QAC150,Fall2018,Working with SQL and Databases,FALSE
+"Oleinikov,Pavel V",.M..... 07:10PM-10:00PM;,TBA,19,0,0,19,0,4,5,5,5,FALSE,QAC151,Fall2018,Working with Excel and VBA,FALSE
+"Kaparakis,Emmanuel I.",..T.... 07:10PM-10:00PM;,TBA,19,0,0,19,0,5,5,5,4,FALSE,QAC156,Fall2018,Working with R,FALSE
+"Kaparakis,Emmanuel I.",..T.... 07:10PM-10:00PM;,TBA,19,0,0,19,0,5,5,5,4,FALSE,QAC158,Fall2018,Working with Stata,FALSE
+"Oleinikov,Pavel V",....R.. 07:10PM-10:00PM;,TBA,19,0,0,19,0,5,5,5,4,FALSE,QAC171,Fall2018,Business Modeling with Excel,FALSE
+"Nazzaro,Valerie L.",..T.R.. 01:20PM-02:40PM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Fall2018,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 01:20PM-02:40PM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Fall2018,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 10:20AM-11:40AM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Fall2018,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 10:20AM-11:40AM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Fall2018,Statistics Education Practicum,FALSE
+"Oleinikov,Pavel V",.M..... 07:10PM-10:00PM;,TBA,19,0,0,19,NA,4,5,5,5,FALSE,QAC151,Spring2019,Working with Excel and VBA,FALSE
+"Oleinikov,Pavel V",.M..... 07:10PM-10:00PM;,TBA,19,0,0,19,1,4,5,6,3,FALSE,QAC155,Spring2019,Working with Python,FALSE
+"Kaparakis,Emmanuel I.",..T.... 07:10PM-10:00PM;,TBA,19,0,0,19,0,4,5,5,5,FALSE,QAC156,Spring2019,Working with R,FALSE
+"Kaparakis,Emmanuel I.",..T.... 07:10PM-10:00PM;,TBA,19,0,0,19,0,5,5,5,4,FALSE,QAC157,Spring2019,Working with SAS,FALSE
+"Nazzaro,Valerie L.",..T.R.. 01:20PM-02:40PM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Spring2019,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 01:20PM-02:40PM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Spring2019,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 10:20AM-11:40AM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Spring2019,Statistics Education Practicum,FALSE
+"Nazzaro,Valerie L.",..T.R.. 10:20AM-11:40AM; .....F. 12:00PM-03:00PM;,TBA,4,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,QAC301,Spring2019,Statistics Education Practicum,FALSE
+"Kabacoff,Robert Ira",.M.W... 02:50PM-04:10PM;,TBA,19,0,0,19,1,7,7,4,0,FALSE,QAC305,Spring2019,Exploratory Data Analysis and Pattern Discovery,FALSE
+STAFF,..T.... 01:20PM-04:10PM;,TBA,15,NA,NA,15,NA,NA,NA,NA,15,FALSE,NANA,NANA,"Skin, Sex, State, Software: Surveillance & Society (FYS)",FALSE
+STAFF,..T.R.. 08:50AM-10:10AM;,TBA,20,5,10,20,NA,0,0,5,NA,FALSE,SISP265,Fall2018,Introduction to Science as Culture,FALSE
+"Fried,Michael A",.M.W.F. 09:50AM-10:40AM;,TBA,15,0,0,15,NA,4,4,4,3,FALSE,PHED101,Fall2018,"Tennis, Beginning",FALSE
+"Potter,Christopher J.",..T.R.. 10:20AM-11:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED104,Fall2018,Golf,FALSE
+"Reilly,Joseph P.",.M.W.F. 12:00PM-12:50PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED106,Fall2018,"Fitness, Beginning",FALSE
+"Curry,Walter Jr.",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED106,Fall2018,"Fitness, Beginning",FALSE
+"Woodworth,Mark A.",..T.R.. 01:20PM-02:40PM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED107,Fall2018,Inner Game of Golf,FALSE
+"Klecha-Porter,Patricia",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED116,Fall2018,Cardio Fitness on Step,FALSE
+"Reilly,Joseph P.",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Fall2018,"Strength Training, Introduction",FALSE
+"Raba,John G.",.M.W.F. 02:50PM-03:40PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Fall2018,"Strength Training, Introduction",FALSE
+"Curry,Walter Jr.",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Fall2018,"Strength Training, Introduction",FALSE
+"Raba,John G.",.M.W.F. 02:50PM-03:40PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Fall2018,"Strength Training, Introduction",FALSE
+"DiCenzo,Daniel A",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Fall2018,"Strength Training, Introduction",FALSE
+"Tynan,Patrick",.M.W.F. 10:50AM-11:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED120,Fall2018,"Swimming, Beginning",FALSE
+"Solomon,Peter Gordon",.M.W.F. 09:50AM-10:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED120,Fall2018,"Swimming, Beginning",FALSE
+"Lane,Jennifer Shea",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED122,Fall2018,Swimming for Fitness,FALSE
+"Lane,Jennifer Shea",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED122,Fall2018,Swimming for Fitness,FALSE
+"Tynan,Patrick",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED122,Fall2018,Swimming for Fitness,FALSE
+"Kerr,Shona",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED124,Fall2018,Squash,FALSE
+"Kerr,Shona",.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED124,Fall2018,Squash,FALSE
+"Klecha-Porter,Patricia",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED127,Fall2018,Tabata/Fitness Training,FALSE
+"McKenna,Jodi",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED130,Fall2018,"Skating, Beginning",FALSE
+"Williams,Kim",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED133,Fall2018,Interval Training,FALSE
+"Williams,Kim",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED133,Fall2018,Interval Training,FALSE
+"Carney,Philip D.",..T.R.. 10:20AM-11:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED137,Fall2018,Rowing for Fitness,FALSE
+"McKenna,Jodi",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED138,Fall2018,Indoor Cycling,FALSE
+"Wheeler,Geoffrey H.",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED138,Fall2018,Indoor Cycling,FALSE
+"Somera,Benjamin Lawrence",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED147,Fall2018,Hatha Yoga,FALSE
+"Somera,Benjamin Lawrence",..T.R.. 01:20PM-02:40PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED147,Fall2018,Hatha Yoga,FALSE
+"Crooke,John T.",..T.R.. 10:20AM-11:40AM;,TBA,10,0,0,10,NA,3,3,2,2,FALSE,PHED152,Fall2018,Outdoor Hiking,FALSE
+"Black,Drew",..T.R.. 01:20PM-02:40PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED159,Fall2018,Cross Training Fitness,FALSE
+"Carney,Philip D.",.M.W... 02:50PM-04:10PM;,TBA,6,0,0,6,NA,2,2,1,1,FALSE,PHED170,Fall2018,Sculling,FALSE
+"Fried,Michael A",.M.W.F. 10:50AM-11:40AM;,TBA,15,0,0,15,NA,4,4,4,3,FALSE,PHED102,Spring2019,"Tennis, Intermediate",FALSE
+"Potter,Christopher J.",..T.R.. 01:20PM-02:40PM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED104,Spring2019,Golf,FALSE
+"Whalen,Michael F.",.M.W.F. 12:00PM-12:50PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED106,Spring2019,"Fitness, Beginning",FALSE
+"Black,Drew",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED106,Spring2019,"Fitness, Beginning",FALSE
+"Woodworth,Mark A.",..T.R.. 10:20AM-11:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED107,Spring2019,Inner Game of Golf,FALSE
+"Klecha-Porter,Patricia",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED116,Spring2019,Cardio Fitness on Step,FALSE
+"Curry,Walter Jr.",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Spring2019,"Strength Training, Introduction",FALSE
+"Williams,Kim",.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Spring2019,"Strength Training, Introduction",FALSE
+"Mullen,Kate",.M.W.F. 09:50AM-10:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Spring2019,"Strength Training, Introduction",FALSE
+"Reilly,Joseph P.",.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED118,Spring2019,"Strength Training, Introduction",FALSE
+"DiCenzo,Daniel A",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED119,Spring2019,"Strength Training, Advanced",FALSE
+"Mullen,Kate",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED119,Spring2019,"Strength Training, Advanced",FALSE
+"Tynan,Patrick",.M.W.F. 10:50AM-11:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED120,Spring2019,"Swimming, Beginning",FALSE
+"Lane,Jennifer Shea",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED122,Spring2019,Swimming for Fitness,FALSE
+"Solomon,Peter Gordon",..T.R.. 10:20AM-11:40AM;,TBA,10,0,0,10,NA,3,3,2,2,FALSE,PHED123,Spring2019,Lifeguard Training,FALSE
+"Wheeler,Geoffrey H.",.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED124,Spring2019,Squash,FALSE
+"Wheeler,Geoffrey H.",.M.W.F. 01:20PM-02:10PM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED124,Spring2019,Squash,FALSE
+"Potter,Christopher J.",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,4,5,5,5,FALSE,PHED130,Spring2019,"Skating, Beginning",FALSE
+"Carney,Philip D.",.M.W... 10:50AM-12:10PM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED137,Spring2019,Rowing for Fitness,FALSE
+"Meredith,Eva Bergsten",.M.W.F. 10:50AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED138,Spring2019,Indoor Cycling,FALSE
+"McKenna,Jodi",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED138,Spring2019,Indoor Cycling,FALSE
+"Crooke,John T.",.M.W.F. 08:50AM-09:40AM;,TBA,12,0,0,12,NA,3,3,3,3,FALSE,PHED139,Spring2019,Running for Fitness,FALSE
+"Kerr,Shona",..T.R.. 10:20AM-11:40AM;,TBA,16,0,0,16,NA,4,4,4,4,FALSE,PHED140,Spring2019,Racketlon,FALSE
+"Somera,Benjamin Lawrence",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED147,Spring2019,Hatha Yoga,FALSE
+"DiCenzo,Daniel A",.M.W.F. 08:50AM-09:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED155,Spring2019,Speed Agility Plyometric Training,FALSE
+"Black,Drew",..T.R.. 10:20AM-11:40AM;,TBA,19,0,0,19,NA,5,5,5,4,FALSE,PHED159,Spring2019,Cross Training Fitness,FALSE
