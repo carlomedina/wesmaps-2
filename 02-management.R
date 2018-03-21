@@ -6,6 +6,7 @@ library(migest)
 library(network)
 library(ggraph)
 library(igraph)
+library(circlize)
 data <-  read_csv("./data/wesmaps_1169.csv")
 
 #### find a way to disentangle the time/location element
@@ -448,17 +449,18 @@ flowplots <- function(data) {
 }
 
 pdf("./output/checkflows.pdf")
-check_times <- c("10:15am", "2:45pm")
+check_times <- c("8:45am", "2:45pm")
 for (time in check_times) {
   # take some time window and see the number entry / exit data
   astime <- ymd_hm(paste(Sys.Date(), time))
   window <- 1200
+  asday <- "m"
   
   temp <- entry_exit_loc %>%
-    filter(time < (astime + window) & time > (astime - window)) %>%
+    filter(time < (astime + window) & time > (astime - window) & day == asday) %>%
     group_by(building) %>%
     summarise(entry = sum(entry),
-              exit = sum(exit)) %>%
+              exit = sum(exit)) %>% 
     arrange(entry)
   flowplots(temp)
 }
@@ -493,3 +495,20 @@ circos.trackPlotRegion(track.index=1,
                           cex = 0.5)
                       },
                       bg.border=NA)
+
+
+
+#### STUDENTS ON ACADEMIC BUILDINGS AT A GIVEN TIME ####
+students_in_acad <- standardized %>%
+  group_by(time, day) %>%
+  summarise(counts = sum(counts))
+  
+students_in_acad %>%  
+  ggplot() +
+  geom_line(aes(x = time, y = counts)) +
+  facet_wrap(~day, ncol = 5) + 
+  theme_classic()
+
+
+### can model the difference as coming from some "sink"
+
