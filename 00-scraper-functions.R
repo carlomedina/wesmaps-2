@@ -138,7 +138,7 @@ get_crse_page <- function(baseurl, crse_page) {
     html_children() %>%
     html_text() %>%
     str_replace_all("\n", " ") %>%
-    {subset(., grepl("Crosslisting|[A-Z]{3,4} [0-9]{3} (?:Fall|Spring) [0-9]{4}", .))}
+    {subset(., grepl("Crosslisting|[A-Z&]{3,4} [0-9]{3} (?:Fall|Spring) [0-9]{4}", .))}  # & needed for MB&B, NS&B
   
   is_cross <- ifelse(length(code_sem_cross) > 1, T, F)
   code_sem_clean <- parse_code_sem(code_sem_cross[1])
