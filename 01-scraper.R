@@ -1,7 +1,7 @@
 source("00-scraper-functions.R")
 
 #### MAIN ####
-term = 1169
+term = 1179
 list_subj_pages <- get_subj_pages(end_point, term)
 list_crse_pages <- lapply(list_subj_pages, FUN = function(subj_page) {
                               # skip student-forum
