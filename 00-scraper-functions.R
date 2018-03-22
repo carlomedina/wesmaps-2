@@ -131,6 +131,15 @@ get_crse_page <- function(baseurl, crse_page) {
     html_node("span.title") %>%
     html_text() -> course_title
   
+  # description has a colspan = 3, and it's the third one out of all td's with that value
+  description <- html %>%
+    html_nodes('[colspan="3"]') %>%
+    html_text() %>%
+    .[3] %>%
+    str_replace("\n", " ") %>%
+    str_trim()
+  
+  # TO DO: fixed the "NANA" and "Crosslisting:" instances
   code_sem_cross <- html %>%
     html_node("table") %>% 
     html_children() %>%
@@ -138,7 +147,7 @@ get_crse_page <- function(baseurl, crse_page) {
     html_children() %>%
     html_text() %>%
     str_replace_all("\n", " ") %>%
-    {subset(., grepl("Crosslisting|[A-Z&]{3,4} [0-9]{3} (?:Fall|Spring) [0-9]{4}", .))}  # & needed for MB&B, NS&B
+    {subset(., grepl("Crosslisting|[A-Z&]{3,4} [0-9]{3} (?:Fall|Spring) [0-9]{4}", .))}  # "&" is needed for MB&B, NS&B
   
   is_cross <- ifelse(length(code_sem_cross) > 1, T, F)
   code_sem_clean <- parse_code_sem(code_sem_cross[1])
@@ -157,6 +166,8 @@ get_crse_page <- function(baseurl, crse_page) {
     mutate(code = code_sem_clean[1],
            sem = code_sem_clean[2],
            title = course_title,
-           iscross = is_cross)
+           iscross = is_cross,
+           description = description)
   
+  return(course_data)
 }
