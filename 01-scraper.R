@@ -1,7 +1,8 @@
 source("00-scraper-functions.R")
 
 #### MAIN ####
-term = 1179
+end_point <- "https://iasext.wesleyan.edu/regprod/!wesmaps_page.html?"
+term <- 1159
 list_subj_pages <- get_subj_pages(end_point, term)
 list_crse_pages <- lapply(list_subj_pages, FUN = function(subj_page) {
                               # skip student-forum
