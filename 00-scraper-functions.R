@@ -140,6 +140,8 @@ get_crse_page <- function(baseurl, crse_page) {
     str_trim()
   
   # TO DO: fixed the "NANA" and "Crosslisting:" instances
+  # fixed as of May 22
+  # refactor the node selection
   code_sem_cross <- html %>%
     html_node("table") %>% 
     html_children() %>%
@@ -147,10 +149,19 @@ get_crse_page <- function(baseurl, crse_page) {
     html_children() %>%
     html_text() %>%
     str_replace_all("\n", " ") %>%
-    {subset(., grepl("Crosslisting|[A-Z&]{3,4} [0-9]{3} (?:Fall|Spring) [0-9]{4}", .))}  # "&" is needed for MB&B, NS&B
+    {subset(., grepl("Crosslisting|[A-Z&]{3,4} [0-9A-Z]{3,} (?:Fall|Spring|Summer) [0-9]{4}", .))}  # "&" is needed for MB&B, NS&B
   
   is_cross <- ifelse(length(code_sem_cross) > 1, T, F)
   code_sem_clean <- parse_code_sem(code_sem_cross[1])
+  
+  # TO DO: get Gen Ed Area Dept, Prereq, Graded, Fullfills major
+  crse_info <- html %>%
+    html_nodes('[colspan="3"], [width="33%"]') %>%
+    html_text() %>%
+    {subset(., grepl("Gen Ed Area Dept: |Grading Mode: |Prerequisites: |Fulfills a Major Requirement for: ", .))} %>%
+    str_replace(".*: ", "") %>%
+    str_replace("\n", " ") %>%
+    str_trim()
   
   # get section info
   sections <- html %>%
@@ -165,6 +176,10 @@ get_crse_page <- function(baseurl, crse_page) {
   course_data <- section_data %>%
     mutate(code = code_sem_clean[1],
            sem = code_sem_clean[2],
+           division = crse_info[1],
+           gradingmode = crse_info[2],
+           prereq = crse_info[3],
+           fulfills = crse_info[4],
            title = course_title,
            iscross = is_cross,
            description = description)

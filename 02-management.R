@@ -13,7 +13,6 @@ data <-  read_csv("./data/wesmaps_1169.csv")
 
 disentangle_time_loc <- function(data) {
   # get instructor, code, time, loc vars
-  
   loc_time <- data %>%
     distinct() %>%
     mutate(id = paste0(code, "-", section)) %>%
@@ -48,23 +47,21 @@ disentangle_time_loc <- function(data) {
     select(-var)
   
   # tie things together
-  # disentangle further by parsing the mtwrf times
   mutate(time_long, 
-         location = loc_long$location) %>%   # cbind is appropriate here
+         location = loc_long$location) %>%              # cbind is appropriate here (combine the "long" format of time and loc)
     arrange(instructor) %>%
     filter(sched != "") %>%
     mutate(time = str_extract(sched, "[0-9].*"),
            day = str_replace(sched, "[0-9].*", ""),
-           day = ifelse(day == "TBA", "na", day)) %>%   
+           day = ifelse(day == "TBA", "na", day)) %>%   # parse the sched var into time and day
     mutate(m = grepl("M", day),
            t = grepl("T", day),
            w = grepl("W", day),
            r = grepl("R", day),
-           f = grepl("F", day)
-    ) %>%
+           f = grepl("F", day)) %>%                     # determine if the class meets at the following day
     select(id, instructor, time, location, m, t, w, r, f)  %>%
-    gather(key = "day", value = "isTrue", -(c(id:location))) %>%
-    filter(isTrue) %>%
+    gather(key = "day", value = "isTrue", -(c(id:location))) %>%    # turn wide to long
+    filter(isTrue) %>%                                  # select only the valid observations
     select(-isTrue) %>%
     arrange(instructor, id) %>%
     mutate(start = str_extract(time, ".*?(?=-)"),
@@ -73,8 +70,74 @@ disentangle_time_loc <- function(data) {
   
   return(loc_time_clean)
 }
+# clean_data_semester
+# input: raw table data
+# return: data with time and loc variables cleaned, for a given semester, calculated enrolled numbers
+#         cleans location for PHED and FILM classes
+clean_data_semester <- function(data, semester) {
+  merge(disentangle_time_loc(data),
+        data %>% 
+          mutate(id = paste0(code, "-", section)) %>%
+          select(id, ispoin, maxcap, available, sem),
+        by = "id") %>%
+  filter(grepl(semester, sem)) %>%
+  mutate(enrolled = maxcap - available, 
+         location = ifelse(grepl("PHED", id), "FREEM", location),
+         location = ifelse(grepl("FILM", id), "CFS", location)# for PE classes, change location to Freeman
+  ) %>%    
+  select(-c(maxcap, available, sem)) %>%
+  mutate(location = ifelse(location == "", last(location), location)) %>%
+  filter(!is.na(start) & !ispoi) # remove pois and those with no start time
+  
+}
 
-  aaaa <- disentangle_time_loc(data)
+# input: data - the one that is outputed by clean_data_semester
+# return: data frame of counts by day and time, either by location or major 
+#         (showing the top_n of location of major
+count_volume_by_day_time <- function(data, by = "location", top_n = 10) {
+  
+  if (by == "location") {
+    mutate(data, 
+           building = str_replace(location, "[0-9]+$", "") %>% str_trim(),
+           day = factor(day, 
+                        c("m", "t", "w", "r", "f"),
+                        c("m", "t", "w", "r", "f"),
+                        ordered = T)) %>%
+      group_by(day, start, end, building) -> intermediate
+  } else if (by == "major") {
+    mutate(data, 
+           major = str_replace(id, "[0-9-]+$", "") %>% str_trim(),
+           day = factor(day, 
+                        c("m", "t", "w", "r", "f"),
+                        c("m", "t", "w", "r", "f"),
+                        ordered = T)) %>%
+      group_by(day, start, end, major) -> intermediate
+  }
+  
+  intermediate %>%
+    summarise(count = sum(enrolled)) %>%
+    arrange(day, start, building) %>%
+    ungroup() %>%
+    mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
+           end = paste(Sys.Date(), end) %>% ymd_hm()) 
+  ### TO DO: selecting variables using string
+  ### top_n location/major
+  top_list <- intermediate %>%
+    group_by(building) %>%
+    summarise(count = sum(count)) %>%
+    arrange(desc(count)) %$%
+    head(building, 10)
+  
+  counts_day_time_loc %>%
+    filter(building %in% top_building_list) %>%
+    mutate(building = factor(building, rev(top_building_list), rev(top_building_list), ordered = T),
+           day = factor(day, c("m", "t", "w", "r", "f"), c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), ordered = T))
+}
+
+
+
+
+
 data_clean <- merge(disentangle_time_loc(data),
                         data %>%
                           mutate(id = paste0(code, "-", section)) %>%
@@ -312,6 +375,9 @@ temp <- entry_exit_loc %>%
 ## HELPER FUNCTIONS ##
 # adapted from my mrt-eda exploration
 
+
+#TO DO: add a "source_sink" location as a source or sink of students depending
+# on net diff entry and exit rates
 equalize_sum <- function(vector1, vector2) {
   is_vector1_greater <- sum(vector1) >= sum(vector2) 
   diff <- ifelse(
