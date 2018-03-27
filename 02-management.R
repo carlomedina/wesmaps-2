@@ -75,10 +75,13 @@ disentangle_time_loc <- function(data) {
 # return: data with time and loc variables cleaned, for a given semester, calculated enrolled numbers
 #         cleans location for PHED and FILM classes
 clean_data_semester <- function(data, semester) {
+  # add id
+  data_with_id <- data %>%
+    mutate(id = paste0(code, "-", section))
+  
   merge(disentangle_time_loc(data),
-        data %>% 
-          mutate(id = paste0(code, "-", section)) %>%
-          select(id, ispoin, maxcap, available, sem),
+        data_with_id %>% 
+          select(id, ispoi, maxcap, available, sem),
         by = "id") %>%
   filter(grepl(semester, sem)) %>%
   mutate(enrolled = maxcap - available, 
@@ -92,18 +95,35 @@ clean_data_semester <- function(data, semester) {
 }
 
 # input: data - the one that is outputed by clean_data_semester
-# return: data frame of counts by day and time, either by location or major 
-#         (showing the top_n of location of major
-count_volume_by_day_time <- function(data, by = "location", top_n = 10) {
-  
-  if (by == "location") {
+# return: data frame of counts by day and time, either by building or major 
+#         (showing the top_n of building or major)
+count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
+  # TODO: refactor by finding a way to call in the by 
+  # variable in the group_by & arrange  statement
+  if (by == "building") {
     mutate(data, 
            building = str_replace(location, "[0-9]+$", "") %>% str_trim(),
            day = factor(day, 
                         c("m", "t", "w", "r", "f"),
                         c("m", "t", "w", "r", "f"),
                         ordered = T)) %>%
-      group_by(day, start, end, building) -> intermediate
+      group_by(day, start, end, building) %>%
+      summarise(count = sum(enrolled)) %>%
+      arrange(day, start, building) %>%
+      ungroup() %>%
+      mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
+             end = paste(Sys.Date(), end) %>% ymd_hm()) -> intermediate
+    
+    top_list <- intermediate %>%
+      group_by(building) %>%
+      summarise(count = sum(count)) %>%
+      arrange(desc(count)) %$%
+      head(building, top_n)
+    
+    intermediate %>%
+      filter(building %in% top_list) %>%
+      return()
+    
   } else if (by == "major") {
     mutate(data, 
            major = str_replace(id, "[0-9-]+$", "") %>% str_trim(),
@@ -111,58 +131,80 @@ count_volume_by_day_time <- function(data, by = "location", top_n = 10) {
                         c("m", "t", "w", "r", "f"),
                         c("m", "t", "w", "r", "f"),
                         ordered = T)) %>%
-      group_by(day, start, end, major) -> intermediate
+      group_by(day, start, end, major) %>%
+      summarise(count = sum(enrolled)) %>%
+      arrange(day, start, major) %>%
+      ungroup() %>%
+      mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
+             end = paste(Sys.Date(), end) %>% ymd_hm()) -> intermediate
+    
+    top_list <- intermediate %>%
+      group_by(major) %>%
+      summarise(count = sum(count)) %>%
+      arrange(desc(count)) %$%
+      head(major, top_n)
+    
+    intermediate %>%
+      filter(major %in% top_list) %>%
+      return()
   }
-  
-  intermediate %>%
-    summarise(count = sum(enrolled)) %>%
-    arrange(day, start, building) %>%
-    ungroup() %>%
-    mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
-           end = paste(Sys.Date(), end) %>% ymd_hm()) 
-  ### TO DO: selecting variables using string
-  ### top_n location/major
-  top_list <- intermediate %>%
-    group_by(building) %>%
-    summarise(count = sum(count)) %>%
-    arrange(desc(count)) %$%
-    head(building, 10)
-  
-  counts_day_time_loc %>%
-    filter(building %in% top_building_list) %>%
-    mutate(building = factor(building, rev(top_building_list), rev(top_building_list), ordered = T),
-           day = factor(day, c("m", "t", "w", "r", "f"), c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), ordered = T))
 }
 
+# Disaggregate data by finding number of students in each building at a regular interval
+window_disaggregator <- function(data, start_time = "8:00am", end_time = "10:00pm", window_size = "5 min") {
+  standard_time <- seq(ymd_hm(paste(Sys.Date(), start_time)),
+                       ymd_hm(paste(Sys.Date(), end_time)), by = window_size)
+  # find the number of students at a given time point
+  counts <- lapply(1:length(standard_time), function (index) {
+    
+    # get standardized time point
+    point <- standard_time[index]
+    
+    # select observations where the standardized timepoint is between the start and 
+    # end time of the class period
+    window <- data %>%
+      dplyr::filter(start <= point & end > point)
+    
+    # return the sum of all counts in the given period
+    if (nrow(window) > 0) {
+      return(sum(window$count))
+    } else {
+      return(0)
+    }
+  }) %>%
+    unlist()
+  
+  # return a tibble of the standardized time and the corresponding counts
+  return(tibble(time = standard_time, counts = counts))
+}
+
+standardize_counts <- function(data_counts_day_time_loc, by = "building") {
+  if (by == "building") {
+    data_counts_day_time_loc %>%
+      group_by(building, day) %>%
+      nest() %>%
+      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      unnest(standardized_counts, .drop = T) %>%
+      return()
+  }
+  else if (by == "major") {
+    data_counts_day_time_loc %>%
+      group_by(major, day) %>%
+      nest() %>%
+      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      unnest(standardized_counts, .drop = T) %>%
+      return()
+  }
+}
+standardized <- counts_day_time_loc %>%
+  group_by(building, day) %>%
+  nest() %>%
+  mutate(standardized_time = map(data, window_aggregator)) %>%
+  unnest(standardized_time, .drop = T)
 
 
 
 
-data_clean <- merge(disentangle_time_loc(data),
-                        data %>%
-                          mutate(id = paste0(code, "-", section)) %>%
-                          select(id, ispoi, maxcap, available, sem),
-                    by = "id"
-              )
-
-data_fall <- data_clean %>%
-  filter(grepl("Fall", sem)) %>%
-  mutate(enrolled = maxcap - available, 
-         location = ifelse(grepl("PHED", id), "FREEM", location),
-         location = ifelse(grepl("FILM", id), "CFS", location)# for PE classes, change location to Freeman
-         ) %>%    
-  select(-c(maxcap, available, sem)) %>%
-  mutate(location = ifelse(location == "", last(location), location)) %>%
-  filter(!is.na(start) & !ispoi) # remove pois and those with no start time
-
-
-################################################################
-#
-#
-#       EVERYTHING BELOW NEEDS REFACTORING!!!!!!
-#
-#
-################################################################
 
 
 
