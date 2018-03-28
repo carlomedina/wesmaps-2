@@ -82,8 +82,9 @@ clean_data_semester <- function(data, semester) {
         by = "id") %>%
     filter(grepl(semester, sem)) %>%
     mutate(enrolled = maxcap - available, 
-           location = ifelse(grepl("PHED", id), "FREEM", location),
-           location = ifelse(grepl("FILM", id), "CFS", location)# for PE classes, change location to Freeman
+           location = gsub(" .*", "", location), # remove room names after spaces
+           location = ifelse(grepl("PHED", id), "FAC", location), # for PE classes, change location to Freeman
+           location = ifelse(grepl("FILM", id), "CFS", location)  # for FILM classes, change location to CFS
     ) %>%    
     select(-c(maxcap, available, sem)) %>%
     mutate(location = ifelse(location == "", last(location), location)) %>%
@@ -101,7 +102,7 @@ count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
   # variable in the group_by & arrange  statement
   if (by == "building") {
     mutate(data, 
-           building = str_replace(location, "[0-9]+$", "") %>% str_trim(),
+           building = str_replace(location, "[0-9]+.*$", "") %>% str_trim(),
            day = factor(day, 
                         c("m", "t", "w", "r", "f"),
                         c("m", "t", "w", "r", "f"),
@@ -112,6 +113,7 @@ count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
       ungroup() %>%
       mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
              end = paste(Sys.Date(), end) %>% ymd_hm()) -> intermediate
+
     if (!is.null(top_n)) {
       top_list <- intermediate %>%
         group_by(building) %>%
@@ -122,6 +124,8 @@ count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
       intermediate %>%
         filter(building %in% top_list) %>%
         return()
+    } else {
+      return(intermediate)
     }
     
     
@@ -148,10 +152,11 @@ count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
       intermediate %>%
         filter(major %in% top_list) %>%
         return()
+    } else {
+      return(intermediate)
     }
     
   }
- return(intermediate)
   
 }
 
@@ -240,12 +245,12 @@ get_entry_exit_counts <- function(data_standardized_counts, by = "building") {
 
 # get the entry exit counts at a particular time window
 # input: data - vector of 
-get_entry_exit_counts_window <- function(data_entry_exit, time, window = 1200) {
+get_entry_exit_counts_window <- function(data_entry_exit, time, day, window = 1200) {
   astime <- ymd_hm(paste(Sys.Date(), time))
   window <- 1200
   
   temp <- data_entry_exit %>%
-    filter(time < (astime + window) & time > (astime - window)) %>%
+    filter(time < (astime + window) & time > (astime - window) & day == day) %>%
     group_by(building) %>%
     summarise(entry = sum(entry),
               exit = sum(exit))
