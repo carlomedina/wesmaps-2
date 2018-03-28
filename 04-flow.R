@@ -34,15 +34,18 @@ flowplot <- function(mat, node_data = NULL) {
   }
 
   # flow plot
-  p1 <- ggraph(g, layout = 'manual', node.positions = data.frame(x = V(g)$lon, y = V(g)$lat)) +
-    geom_edge_arc(aes(color = ..index.., width = weight), 
-                  curvature = 1,
-                  alpha = 0.2) +
+  # , node.positions = data.frame(x = V(g)$lon, y = V(g)$lat)
+  p1 <- ggraph(g, layout = 'linear', circular = TRUE) +
+    geom_edge_arc(aes(color = ..index.., width = weight, alpha = weight), 
+                  curvature = 1) +
     scale_edge_width(range = c(0.5, 5)) +
     geom_node_text(aes(label = name)) +
     theme_graph() +
     theme(legend.position = "none") +
     labs(edge_width = "Volume") 
+  # +
+  #   scale_x_continuous(limits = c(-72.66220, -72.65420)) +
+  #   scale_y_continuous(limits = c(41.55050, 41.56100))
  
   mat %>%
     melt() %>%
@@ -66,7 +69,7 @@ flowplot <- function(mat, node_data = NULL) {
          y = "Origin")
   title <- cowplot::ggdraw() +
     cowplot::draw_label(sprintf("Student movement between %s and %s", NULL, NULL), fontface='bold', hjust = 1, size = 16)
-  cowplot::plot_grid(p1, p2, ncol = 2, rel_widths = c(0.6, 0.8), scale = c(1,1)) %>%
+  cowplot::plot_grid(p1, p2, ncol = 2, rel_widths = c(0.6, 0.4), scale = c(1,1)) %>%
   {cowplot::plot_grid(title, ., ncol = 1, rel_heights = c(0.1, 1), rel_widths = c(1, 1))}
 }
 
@@ -82,7 +85,7 @@ m <- data %>%
   get_entry_exit_counts() %>%
   get_entry_exit_counts_window("10:15am", "m") %>%
   estimate_flow() 
-}
+
 
 m %>%
   flowplot()
@@ -101,18 +104,21 @@ buildings %>%
 
 m %>%
   flowplot(node_data)
-
+}
 
 
 # temporary temporal viz
-pdf("./temp/monday_flow.pdf")
+ct <- data %>%
+  clean_data_semester("Fall") %>%
+  count_volume_by_day_time(top_n = NULL) %>%
+  standardize_counts() %>% 
+  get_entry_exit_counts() 
+pdf("./temp/monday_flow.pdf", width = 10)
 for (time in c("8:30am", "9:50am", "10:50am", "11:40am", "12:10pm", "1:20pm", "2:40pm", "4:00pm")) {
-  data %>%
-    clean_data_semester("Fall") %>%
-    count_volume_by_day_time(top_n = NULL) %>%
-    standardize_counts() %>% 
-    get_entry_exit_counts() %>%
-    get_entry_exit_counts_window(time, "m") %>%
+  ct %>%
+    get_entry_exit_counts_window(time, "m") -> x
+
+  x %>%
     estimate_flow() %>%
     flowplot(node_data) -> plot
   print(plot)
