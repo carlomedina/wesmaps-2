@@ -188,12 +188,12 @@ window_disaggregator <- function(data, start_time = "8:00am", end_time = "10:00p
   return(tibble(time = standard_time, counts = counts))
 }
 
-standardize_counts <- function(data_counts_day_time_loc, by = "building") {
+standardize_counts <- function(data_counts_day_time_loc, by = "building", ...) {
   if (by == "building") {
     data_counts_day_time_loc %>%
       group_by(building, day) %>%
       nest() %>%
-      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      mutate(standardized_counts = map(data, window_disaggregator, ...)) %>%
       unnest(standardized_counts, .drop = T) %>%
       return()
   }
@@ -201,7 +201,7 @@ standardize_counts <- function(data_counts_day_time_loc, by = "building") {
     data_counts_day_time_loc %>%
       group_by(major, day) %>%
       nest() %>%
-      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      mutate(standardized_counts = map(data, window_disaggregator, ...)) %>%
       unnest(standardized_counts, .drop = T) %>%
       return()
   }
@@ -277,7 +277,7 @@ add_sink_source <- function(vector1, vector2) {
     vector1 <- c(vector1, diff)
     vector2 <- c(vector2, 0)
   }
-  return(list(vector1, vector2))
+  return(list(entering = vector1, exiting = vector2))
 }
 
 
@@ -286,7 +286,7 @@ estimate_flow <- function(data) {
     add_sink_source(entry, exit) -> net_counts
   
   mat <- net_counts %>%
-  {cm2(.[[1]], .[[2]])}
+  {cm2(.[["exiting"]], .[["entering"]])}
   
   mat <- mat[[1]] 
   rownames(mat) <- c(data$building, "sink_source")
