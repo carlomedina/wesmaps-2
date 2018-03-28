@@ -2,18 +2,14 @@ library(tidyverse)
 library(magrittr)
 library(lubridate)
 library(ggridges)
-library(migest)
-library(network)
-library(ggraph)
-library(igraph)
-library(circlize)
-data <-  read_csv("./data/wesmaps_1169.csv")
+
+# # test data
+# data <-  read_csv("./data/wesmaps_1169.csv")
 
 #### find a way to disentangle the time/location element
 
 disentangle_time_loc <- function(data) {
   # get instructor, code, time, loc vars
-  
   loc_time <- data %>%
     distinct() %>%
     mutate(id = paste0(code, "-", section)) %>%
@@ -48,23 +44,21 @@ disentangle_time_loc <- function(data) {
     select(-var)
   
   # tie things together
-  # disentangle further by parsing the mtwrf times
   mutate(time_long, 
-         location = loc_long$location) %>%   # cbind is appropriate here
+         location = loc_long$location) %>%              # cbind is appropriate here (combine the "long" format of time and loc)
     arrange(instructor) %>%
     filter(sched != "") %>%
     mutate(time = str_extract(sched, "[0-9].*"),
            day = str_replace(sched, "[0-9].*", ""),
-           day = ifelse(day == "TBA", "na", day)) %>%   
+           day = ifelse(day == "TBA", "na", day)) %>%   # parse the sched var into time and day
     mutate(m = grepl("M", day),
            t = grepl("T", day),
            w = grepl("W", day),
            r = grepl("R", day),
-           f = grepl("F", day)
-    ) %>%
+           f = grepl("F", day)) %>%                     # determine if the class meets at the following day
     select(id, instructor, time, location, m, t, w, r, f)  %>%
-    gather(key = "day", value = "isTrue", -(c(id:location))) %>%
-    filter(isTrue) %>%
+    gather(key = "day", value = "isTrue", -(c(id:location))) %>%    # turn wide to long
+    filter(isTrue) %>%                                  # select only the valid observations
     select(-isTrue) %>%
     arrange(instructor, id) %>%
     mutate(start = str_extract(time, ".*?(?=-)"),
@@ -73,92 +67,110 @@ disentangle_time_loc <- function(data) {
   
   return(loc_time_clean)
 }
+# clean_data_semester
+# input: raw table data
+# return: data with time and loc variables cleaned, for a given semester, calculated enrolled numbers
+#         cleans location for PHED and FILM classes
+clean_data_semester <- function(data, semester) {
+  # add id
+  data_with_id <- data %>%
+    mutate(id = paste0(code, "-", section))
+  
+  merge(disentangle_time_loc(data),
+        data_with_id %>% 
+          select(id, ispoi, maxcap, available, sem),
+        by = "id") %>%
+    filter(grepl(semester, sem)) %>%
+    mutate(enrolled = maxcap - available, 
+           location = ifelse(grepl("PHED", id), "FREEM", location),
+           location = ifelse(grepl("FILM", id), "CFS", location)# for PE classes, change location to Freeman
+    ) %>%    
+    select(-c(maxcap, available, sem)) %>%
+    mutate(location = ifelse(location == "", last(location), location)) %>%
+    filter(!is.na(start) & !ispoi) # remove pois and those with no start time
+  
+}
 
-  aaaa <- disentangle_time_loc(data)
-data_clean <- merge(disentangle_time_loc(data),
-                        data %>%
-                          mutate(id = paste0(code, "-", section)) %>%
-                          select(id, ispoi, maxcap, available, sem),
-                    by = "id"
-              )
+# input: data - the one that is outputed by clean_data_semester
+#         by - either major or building
+#         top_n - top n major or building based on total counts. if NULL return all
+# return: data frame of counts by day and time, either by building or major 
+#         (showing the top_n of building or major)
+count_volume_by_day_time <- function(data, by = "building", top_n = 10) {
+  # TODO: refactor by finding a way to call in the by 
+  # variable in the group_by & arrange  statement
+  if (by == "building") {
+    mutate(data, 
+           building = str_replace(location, "[0-9]+$", "") %>% str_trim(),
+           day = factor(day, 
+                        c("m", "t", "w", "r", "f"),
+                        c("m", "t", "w", "r", "f"),
+                        ordered = T)) %>%
+      group_by(day, start, end, building) %>%
+      summarise(count = sum(enrolled)) %>%
+      arrange(day, start, building) %>%
+      ungroup() %>%
+      mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
+             end = paste(Sys.Date(), end) %>% ymd_hm()) -> intermediate
+    if (!is.null(top_n)) {
+      top_list <- intermediate %>%
+        group_by(building) %>%
+        summarise(count = sum(count)) %>%
+        arrange(desc(count)) %$%
+        head(building, top_n)
+      
+      intermediate %>%
+        filter(building %in% top_list) %>%
+        return()
+    }
+    
+    
+  } else if (by == "major") {
+    mutate(data, 
+           major = str_replace(id, "[0-9-]+$", "") %>% str_trim(),
+           day = factor(day, 
+                        c("m", "t", "w", "r", "f"),
+                        c("m", "t", "w", "r", "f"),
+                        ordered = T)) %>%
+      group_by(day, start, end, major) %>%
+      summarise(count = sum(enrolled)) %>%
+      arrange(day, start, major) %>%
+      ungroup() %>%
+      mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
+             end = paste(Sys.Date(), end) %>% ymd_hm()) -> intermediate
+    if (!is.null(top_n)) {
+      top_list <- intermediate %>%
+        group_by(major) %>%
+        summarise(count = sum(count)) %>%
+        arrange(desc(count)) %$%
+        head(major, top_n)
+      
+      intermediate %>%
+        filter(major %in% top_list) %>%
+        return()
+    }
+    
+  }
+ return(intermediate)
+  
+}
 
-data_fall <- data_clean %>%
-  filter(grepl("Fall", sem)) %>%
-  mutate(enrolled = maxcap - available, 
-         location = ifelse(grepl("PHED", id), "FREEM", location),
-         location = ifelse(grepl("FILM", id), "CFS", location)# for PE classes, change location to Freeman
-         ) %>%    
-  select(-c(maxcap, available, sem)) %>%
-  mutate(location = ifelse(location == "", last(location), location)) %>%
-  filter(!is.na(start) & !ispoi) # remove pois and those with no start time
-
-
-################################################################
-#
-#
-#       EVERYTHING BELOW NEEDS REFACTORING!!!!!!
-#
-#
-################################################################
-
-
-
-
-
-#### COUNTING ####
-
-# by building
-counts_day_time_loc <- data_fall %>%
-  mutate(building = str_replace(location, "[0-9]+$", "") %>% str_trim(),
-         day = factor(day, 
-                      c("m", "t", "w", "r", "f"),
-                      c("m", "t", "w", "r", "f"),
-                      ordered = T)) %>%
-  group_by(day, start, end, building) %>%
-  summarise(count = sum(enrolled)) %>%
-  arrange(day, start, building) %>%
-  ungroup() %>%
-  mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
-         end = paste(Sys.Date(), end) %>% ymd_hm()) 
-
-### total_counts 
-top_building_list <- counts_day_time_loc %>%
-  group_by(building) %>%
-  summarise(count = sum(count)) %>%
-  arrange(desc(count)) %$%
-  head(building, 10)
-
-counts_day_time_loc %>%
-  filter(building %in% top_building_list) %>%
-  mutate(building = factor(building, rev(top_building_list), rev(top_building_list), ordered = T),
-         day = factor(day, c("m", "t", "w", "r", "f"), c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), ordered = T)) %>%
-
-  ggplot() + 
-    geom_segment(aes(x = start, xend = end, y = building, yend = building, size = count), color = "#ba0c2f", alpha = 0.3) + 
-    scale_size_continuous(range = c(1, 15) ) +
-    scale_x_datetime() +
-    facet_wrap(~day, ncol = 5) +
-    theme_classic() +
-    labs(title = "Top 10 buildings with the greatest traffic",
-         subtitle = "Source: WesMaps",
-         y = "Building",
-         x = "Time",
-         size = "Volume") +
-  theme(plot.title = element_text(size = 20, face = "bold", family = "Source Sans Pro"),
-        axis.title = element_text(size = 14, face = "bold", family = "Source Sans Pro"),
-        axis.title.x = element_text(margin = margin(t = 20, l = 20)),
-        legend.title = element_text(size = 14, face = "bold", hjust = 1, family = "Source Sans Pro"),
-        legend.position = "bottom")
-
-# CREATE A WINDOW FUNCTION #
-window_aggregator <- function(data, start_time = "8:00am", end_time = "10:00pm", window_size = "5 min") {
-  init <- 0
+# Disaggregate data by finding number of students in each building at a regular interval
+window_disaggregator <- function(data, start_time = "8:00am", end_time = "10:00pm", window_size = "5 min") {
   standard_time <- seq(ymd_hm(paste(Sys.Date(), start_time)),
-                ymd_hm(paste(Sys.Date(), end_time)), by = window_size)
+                       ymd_hm(paste(Sys.Date(), end_time)), by = window_size)
+  # find the number of students at a given time point
   counts <- lapply(1:length(standard_time), function (index) {
+    
+    # get standardized time point
     point <- standard_time[index]
+    
+    # select observations where the standardized timepoint is between the start and 
+    # end time of the class period
     window <- data %>%
       dplyr::filter(start <= point & end > point)
+    
+    # return the sum of all counts in the given period
     if (nrow(window) > 0) {
       return(sum(window$count))
     } else {
@@ -166,349 +178,115 @@ window_aggregator <- function(data, start_time = "8:00am", end_time = "10:00pm",
     }
   }) %>%
     unlist()
+  
+  # return a tibble of the standardized time and the corresponding counts
   return(tibble(time = standard_time, counts = counts))
 }
 
-standardized <- counts_day_time_loc %>%
-  group_by(building, day) %>%
-  nest() %>%
-  mutate(standardized_time = map(data, window_aggregator)) %>%
-  unnest(standardized_time, .drop = T)
+standardize_counts <- function(data_counts_day_time_loc, by = "building") {
+  if (by == "building") {
+    data_counts_day_time_loc %>%
+      group_by(building, day) %>%
+      nest() %>%
+      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      unnest(standardized_counts, .drop = T) %>%
+      return()
+  }
+  else if (by == "major") {
+    data_counts_day_time_loc %>%
+      group_by(major, day) %>%
+      nest() %>%
+      mutate(standardized_counts = map(data, window_disaggregator)) %>%
+      unnest(standardized_counts, .drop = T) %>%
+      return()
+  }
+}
 
-standardized %>%
-  filter(building %in% top_building_list) %>%
-  mutate(building = factor(building, (top_building_list), (top_building_list), ordered = T),
-         day = factor(day, 
-                      rev(c("m", "t", "w", "r", "f")), 
-                      rev(c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")), 
-                      ordered = T)) %>%
-
-  ggplot() +
-  geom_ridgeline(aes(x = time, height = counts, y = day, fill = day, color = building), size = 0.01, scale = 0.001, stat = "identity", alpha = 0.3) +
-  # geom_line(aes(x = time, y = counts, color = building)) +
-  scale_fill_cyclical(values = c("#ba0c2f", "black")) +
-  scale_color_cyclical(values = c("blue", "green")) +
-  facet_wrap(~building, ncol = 10) + 
-  theme_classic() + 
-  theme(plot.title = element_text(size = 20, face = "bold", family = "Source Sans Pro"),
-        axis.title = element_text(size = 14, face = "bold", family = "Source Sans Pro"),
-        axis.title.x = element_text(margin = margin(t = 20, l = 20)),
-        legend.title = element_text(size = 14, face = "bold", hjust = 1, family = "Source Sans Pro"),
-        legend.position = "bottom")
-
-#### by major classes ####
-counts_day_time_major <- data_fall %>%
-  mutate(major = str_replace(id, "[0-9-]+$", "") %>% str_trim(),
-         day = factor(day, 
-                      c("m", "t", "w", "r", "f"),
-                      c("m", "t", "w", "r", "f"),
-                      ordered = T)) %>%
-  group_by(day, start, end, major) %>%
-  summarise(count = sum(enrolled)) %>%
-  arrange(day, start, major) %>%
-  ungroup() %>%
-  mutate(start = paste(Sys.Date(), start) %>% ymd_hm(),
-         end = paste(Sys.Date(), end) %>% ymd_hm()) 
-
-### total_counts 
-top_major_list <- counts_day_time_major %>%
-  group_by(major) %>%
-  summarise(count = sum(count)) %>%
-  arrange(desc(count)) %$%
-  head(major, 10)
-
-counts_day_time_major %>%
-  filter(major %in% top_major_list) %>%
-  mutate(major = factor(major, rev(top_major_list), rev(top_major_list), ordered = T),
-         day = factor(day, c("m", "t", "w", "r", "f"), c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), ordered = T)) %>%
-  
-  ggplot() + 
-  geom_segment(aes(x = start, xend = end, y = major, yend = major, size = count), color = "#ba0c2f", alpha = 0.3) + 
-  scale_size_continuous(range = c(1, 15) ) +
-  scale_x_datetime() +
-  facet_wrap(~day, ncol = 5) +
-  theme_classic() +
-  labs(title = "Top 10 major classes with the greatest traffic",
-       subtitle = "Source: WesMaps",
-       y = "Major",
-       x = "Time",
-       size = "Volume") +
-  theme(plot.title = element_text(size = 20, face = "bold", family = "Source Sans Pro"),
-        axis.title = element_text(size = 14, face = "bold", family = "Source Sans Pro"),
-        axis.title.x = element_text(margin = margin(t = 20, l = 20)),
-        legend.title = element_text(size = 14, face = "bold", hjust = 1, family = "Source Sans Pro"),
-        legend.position = "bottom")
-
-
-
-standardized_major <- counts_day_time_major %>%
-  group_by(major, day) %>%
-  nest() %>%
-  mutate(standardized_time = map(data, window_aggregator)) %>%
-  unnest(standardized_time, .drop = T)
-
-standardized_major %>%
-  filter(major %in% top_major_list) %>%
-  mutate(major = factor(major, (top_major_list), (top_major_list), ordered = T),
-         day = factor(day, 
-                      rev(c("m", "t", "w", "r", "f")), 
-                      rev(c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday")), 
-                      ordered = T)) %>%
-  
-  ggplot() +
-  geom_ridgeline(aes(x = time, height = counts, y = day, fill = day, color = major), size = 0.01, scale = 0.001, stat = "identity", alpha = 0.3) +
-  # geom_line(aes(x = time, y = counts, color = building)) +
-  scale_fill_cyclical(values = c("#ba0c2f", "black")) +
-  scale_color_cyclical(values = c("blue", "green")) +
-  facet_wrap(~major, ncol = 10) + 
-  theme_classic() + 
-  theme(plot.title = element_text(size = 20, face = "bold", family = "Source Sans Pro"),
-        axis.title = element_text(size = 14, face = "bold", family = "Source Sans Pro"),
-        axis.title.x = element_text(margin = margin(t = 20, l = 20)),
-        legend.title = element_text(size = 14, face = "bold", hjust = 1, family = "Source Sans Pro"),
-        legend.position = "bottom")
-
-
-## create function to get entry and exit counts
 entry_exit_counts <- function(data) {
   time <- data$time
   counts <- data$counts
   entry_exit <- lapply(2:(length(time)-1), function (index) {
     # just entered and about to leave
-    # if just entered and about to leave is negative, maket them zero
+    # if just entered and about to leave is negative, make them zero
     # the movement has been taken into account in time index-1
     exit <- (counts[index+1] - counts[index]) %>% 
-      {ifelse(. > 0, 0, abs(.))}
+    {ifelse(. > 0, 0, abs(.))}
     entry <- (counts[index] - counts[index-1]) %>% 
-      {ifelse(. < 0, 0, .)}
+    {ifelse(. < 0, 0, .)}
     return(list(entry = entry, exit = exit))
   }) %>%
     do.call('rbind.data.frame', .)
   return(cbind.data.frame(time = time[2:(length(time)-1)], entry_exit))
 }
 
-entry_exit_loc <- standardized %>%
-  group_by(building, day) %>%
-  nest() %>%
-  mutate(entry_exit = map(data, entry_exit_counts)) %>%
-  unnest(entry_exit, .drop = T)
+get_entry_exit_counts <- function(data_standardized_counts, by = "building") {
+  if (by == "building") {
+    data_standardized_counts %>%
+      group_by(building, day) %>%
+      nest() %>%
+      mutate(entry_exit = map(data, entry_exit_counts)) %>%
+      unnest(entry_exit, .drop = T) %>%
+      return()
+  }
+  else if (by == "major") {
+    data_standardized_counts %>%
+      group_by(major, day) %>%
+      nest() %>%
+      mutate(entry_exit = map(data, entry_exit_counts)) %>%
+      unnest(entry_exit, .drop = T) %>%
+      return()
+  }
+}
+
+# get the entry exit counts at a particular time window
+# input: data - vector of 
+get_entry_exit_counts_window <- function(data_entry_exit, time, window = 1200) {
+  astime <- ymd_hm(paste(Sys.Date(), time))
+  window <- 1200
+  
+  temp <- data_entry_exit %>%
+    filter(time < (astime + window) & time > (astime - window)) %>%
+    group_by(building) %>%
+    summarise(entry = sum(entry),
+              exit = sum(exit))
+  
+  # to do: add "major" as a by variable
+  return(temp)
+}
 
 
-# take some time window and see the number entry / exit data
-time <- "10:15am"
-astime <- ymd_hm(paste(Sys.Date(), time))
-window <- 1200
-
-temp <- entry_exit_loc %>%
-  filter(time < (astime + window) & time > (astime - window)) %>%
-  group_by(building) %>%
-  summarise(entry = sum(entry),
-            exit = sum(exit))
-
-
-
-#### OD MATRIX ANALYSIS ####
-
-## HELPER FUNCTIONS ##
-# adapted from my mrt-eda exploration
-
-equalize_sum <- function(vector1, vector2) {
+add_sink_source <- function(vector1, vector2) {
   is_vector1_greater <- sum(vector1) >= sum(vector2) 
+  
   diff <- ifelse(
     is_vector1_greater, 
     sum(vector1) - sum(vector2),
     sum(vector2) - sum(vector1)
   )
-  print(sprintf("THE GAP BETWEEN ENTRANCE AND EXIT VOLUME IS: %s", diff))
-  print(sprintf("ERROR RATE: %s", ifelse(is_vector1_greater, diff/sum(vector2), diff/sum(vector1))))
-  prop <- ifelse(
-    rep(is_vector1_greater, length(vector1)), 
-    vector1 / sum(vector1),
-    vector2 / sum(vector2)
-  )
   
+  # and the sink/source counts
   if (is_vector1_greater) {
-    # increase counts of 2
-    df <- tibble(vector = vector2, prop = prop*diff) %>%
-      mutate(int = floor(prop), 
-             resid = prop - int,
-             index = 1:n())
+    vector1 <- c(vector1, 0)
+    vector2 <- c(vector2, diff)
   } else {
-    # increase counts of 1
-    df <- tibble(vector = vector1, prop = prop*diff) %>%
-      mutate(int = floor(prop),
-             resid = prop - int,
-             index = 1:n())
+    vector1 <- c(vector1, diff)
+    vector2 <- c(vector2, 0)
   }
-  # counts to allocate
-  allocate <- diff - sum(df$int)
-  df %>%
-    arrange(desc(prop)) %>%
-    mutate(newvector = vector + int + c(rep(1, allocate), rep(0, n()-allocate))) %>%
-    arrange(index) %$%
-    newvector -> newvector
-  
-  if (is_vector1_greater) {
-    return(list(vector1, newvector))
-  } else {
-    return(list(newvector, vector2))
-  }
+  return(list(vector1, vector2))
 }
 
 
-flowplots <- function(data) {
+estimate_flow <- function(data) {
   data %$%
-    equalize_sum(entry, exit) -> net_counts
+    add_sink_source(entry, exit) -> net_counts
   
   mat <- net_counts %>%
   {cm2(.[[1]], .[[2]])}
   
   mat <- mat[[1]] 
-  rownames(mat) <- data$building
-  colnames(mat) <- data$building
-  # # # mat <- scale(mat, center = F)
-  g <- graph_from_adjacency_matrix(mat, mode = "directed", weighted = T)
-  
-  edgelist <- get.edgelist(g) %>%
-    as.tibble() %>%
-    rename(from = V1, to = V2) %>%
-    mutate(from = factor(from),
-           to = factor(to),
-           fromindex = as.numeric(from),
-           toindex = as.numeric(to)) %>%
-    mutate(weight = E(g)$weight) %>%
-    arrange(from, to) %>%
-    group_by(from) %>%
-    mutate(curvature = seq(from = 0.5, by = 0.2, length.out = n()))
-  
-  g <- graph_from_data_frame(edgelist)
-  E(g)$curvature = edgelist$curvature
-  E(g)$weight = edgelist$weight
-  # plot(g,
-  #      vertex.size = 0.1,
-  #      vertex.label = NA,
-  #      edge.width = E(g)$weight*2,
-  #      edge.arrow.size = 0.01,
-  #      edge.color = E(g)$color,
-  #      layout = matrix(c(rep(0, 13), (1:13)*10), byrow = F, ncol = 2),
-  #      edge.curved=E(g)$curvature)
-  
-  # flow plot
-  p1 <- ggraph(g, layout = 'nicely') +
-    geom_edge_arc(aes(alpha = weight), 
-                  curvature = 1, 
-                  arrow = arrow(length = unit(2, 'mm'), 
-                                type = "closed")) +
-    scale_edge_width(range = c(0.5, 5)) +
-    scale_edge_alpha(guide = F) +
-    geom_node_text(aes(label = name)) +
-    scale_edge_color_discrete(guide = F) + 
-    # geom_node_text(aes(label = name)) +
-    theme_graph() +
-    scale_x_reverse() +
-    coord_flip() +
-    theme(legend.position = "none") +
-    labs(edge_width = "Volume")
-  print(p1)
-  # # heatmap
-  # rownames(mat) <- station_labels
-  # colnames(mat) <- station_labels
-  # heatmap_dat <- mat %>%
-  #   apply(1, function(x) {x/sum(x)}) %>%
-  #   t() %>%
-  #   melt() %>%
-  #   rename(from = Var1, to = Var2) %>%
-  #   mutate(indexto = rep(1:13, each = 13),
-  #          indexfrom = rep(1:13, 13),
-  #          from = factor(from, levels = rev(station_labels), ordered = T)) %>%
-  #   mutate(isSB = ifelse(indexfrom == indexto, NA, indexfrom < indexto),
-  #          value = ifelse(value == 0, NA, value))
-  # 
-  # p2 <- ggplot(heatmap_dat) +
-  #   geom_tile(aes(to, from, fill = value), alpha = 0.8, color = "white", size = 2) +
-  #   theme_classic() +
-  #   theme(legend.position = "right",
-  #         axis.text.x = element_text(angle = 45, hjust = 0, colour = "grey50"),
-  #         axis.title.x = element_text(hjust = 1, margin = margin(t = -15, unit = "pt"), size = 12),
-  #         axis.title.y = element_text(hjust = 1, margin = margin(b = 50, unit = "pt"), size = 12)) +
-  #   scale_x_discrete(position = "top") +
-  #   scale_fill_continuous(low = "grey90", high = "steelblue", na.value = "black", breaks = 0.05*0:5, labels = percent, limits = c(0, 0.25)) +
-  #   scale_color_discrete(na.value = "white") +
-  #   guides(alpha = FALSE) +
-  #   coord_fixed() +
-  #   labs(fill = "Percent traffic \nfrom origin \nto destination",
-  #        x = "Destination",
-  #        y = "Origin")
-  # 
-  # mintime_label <- paste0(str_pad(mintime, width = 2, side = "left", pad = "0"), "00")
-  # maxtime_label <- paste0(str_pad(maxtime, width = 2, side = "left", pad = "0"), "00")
-  # title <- cowplot::ggdraw() + 
-  #   cowplot::draw_label(sprintf("Passenger flow between %s and %s", mintime_label, maxtime_label), fontface='bold', hjust = 1, size = 16)
-  # cowplot::plot_grid(p1, p2, ncol = 2, rel_widths = c(0.3, 0.8), scale = c(1,1)) %>%
-  # {cowplot::plot_grid(title, ., ncol = 1, rel_heights = c(0.1, 1), rel_widths = c(1, 1))}
+  rownames(mat) <- c(data$building, "sink_source")
+  colnames(mat) <- c(data$building, "sink_source")
+  return(mat)
 }
 
-pdf("./output/checkflows.pdf")
-check_times <- c("8:45am", "2:45pm")
-for (time in check_times) {
-  # take some time window and see the number entry / exit data
-  astime <- ymd_hm(paste(Sys.Date(), time))
-  window <- 1200
-  asday <- "m"
-  
-  temp <- entry_exit_loc %>%
-    filter(time < (astime + window) & time > (astime - window) & day == asday) %>%
-    group_by(building) %>%
-    summarise(entry = sum(entry),
-              exit = sum(exit)) %>% 
-    arrange(entry)
-  flowplots(temp)
-}
-dev.off()
-
-
-temp %$%
-  equalize_sum(entry, exit) -> net_counts
-
-mat <- net_counts %>%
-{cm2(.[[1]], .[[2]])}
-
-mat <- mat[[1]] 
-rownames(mat) <- temp$building
-colnames(mat) <- temp$building
-chordDiagram(mat, 
-             transparency = 0.4, 
-             annotationTrack = c("grid"),
-             preAllocateTracks=list(track.height = 0.1))
-circos.trackPlotRegion(track.index=1, 
-                       panel.fun=function(x,y) {
-                        xlim = get.cell.meta.data("xlim") 
-                        ylim = get.cell.meta.data("ylim")
-                        sector.name=get.cell.meta.data("sector.index")
-                        
-                        circos.text(mean(xlim), 
-                          ylim[1], 
-                          sector.name,
-                          facing="clockwise",
-                          niceFacing=TRUE,
-                          adj=c(0,0.5),
-                          cex = 0.5)
-                      },
-                      bg.border=NA)
-
-
-
-#### STUDENTS ON ACADEMIC BUILDINGS AT A GIVEN TIME ####
-students_in_acad <- standardized %>%
-  group_by(time, day) %>%
-  summarise(counts = sum(counts))
-  
-students_in_acad %>%  
-  ggplot() +
-  geom_line(aes(x = time, y = counts)) +
-  facet_wrap(~day, ncol = 5) + 
-  theme_classic()
-
-
-### can model the difference as coming from some "sink"
 

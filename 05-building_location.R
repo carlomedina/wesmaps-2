@@ -1,0 +1,22 @@
+library(rvest)
+library(ggmap)
+
+building_url <- "http://www.wesleyan.edu/registrar/general_information/building_codes.html"
+
+read_html(building_url) %>%
+  html_table() %>%
+  .[[1]] %>% 
+  as.matrix() %>%
+  {rbind(.[,1:2], .[,3:4])} %>%
+  as.data.frame() %>%
+  {tibble(code = .$X1[.$X1 != ""],
+         name = .$X2[seq(1, nrow(.), 2)],
+         address = .$X2[seq(2, nrow(.), 2)])} -> buildings
+
+buildings_geocoded <- buildings %>%
+  mutate(location = sprintf("%s, Middletown, CT", address)) %>%
+  mutate_geocode(location = location, source = "dsk")
+  
+write_csv(buildings_geocoded, "./data/building_location.csv")
+
+
