@@ -2,6 +2,7 @@ library(tidyverse)
 library(magrittr)
 library(lubridate)
 library(ggridges)
+library(gganimate)
 
 
 #############
@@ -17,20 +18,35 @@ library(ggridges)
 source("02-management.R")
 
 data <-  read_csv("./data/wesmaps_1169.csv")
+buildings <- read_csv("./data/building_location.csv")
 
+buildings %>%
+  mutate(code = ifelse(grepl("RSC", code), "RSCSEM", code),
+         code = ifelse(grepl("RLAN", code), "RLANB", code),
+         
+         code = ifelse(grepl("CFA HALL", code), "CFAHALL", code),
+         code = ifelse(grepl("USDAN", code), "sink_source", code), # make usdan the source_sink
+         code = ifelse(grepl("CHPL", code), "TBA", code)  # make usdan the source_sink
+  ) %>%
+  rename(fullname = name, name = code) -> node_data
+
+
+### create animation 
 data %>%
-  clean_data_semester("Fall")
+  clean_data_semester("Fall") %>%
+  count_volume_by_day_time(top_n = NULL) %>%
+  standardize_counts(by = "building", start_time = "8:00am", end_time = "6:00pm", window_size = "20 min") %>%
+  merge(node_data, by.x = "building", by.y = "name") %>%
+  mutate(counts = ifelse(counts == 0, NA, counts)) -> cts
   
-  standardized <- counts_day_time_loc %>%
-  group_by(building, day) %>%
-  nest() %>%
-  mutate(standardized_time = map(data, window_aggregator)) %>%
-  unnest(standardized_time, .drop = T)
-
-
-
-
-
+  ggplot(cts) +
+    geom_point(aes(lon, lat, size = counts, frame = time)) +
+    facet_wrap(~day, ncol = 5) +
+    theme_classic() +
+    coord_map() -> p1
+  
+  gganimate(p1, "output.html")
+ 
 
 
 
