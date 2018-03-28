@@ -32,7 +32,7 @@ flowplot <- function(mat, node_data = NULL) {
   E(g)$curvature = edgelist$curvature
   E(g)$weight = edgelist$weight
   }
-  layout <- node_data
+
   # flow plot
   p1 <- ggraph(g, layout = 'manual', node.positions = data.frame(x = V(g)$lon, y = V(g)$lat)) +
     geom_edge_arc(aes(color = ..index.., width = weight), 
@@ -109,7 +109,7 @@ pdf("./temp/monday_flow.pdf")
 for (time in c("8:30am", "9:50am", "10:50am", "11:40am", "12:10pm", "1:20pm", "2:40pm", "4:00pm")) {
   data %>%
     clean_data_semester("Fall") %>%
-    count_volume_by_day_time(top_n = 10) %>%
+    count_volume_by_day_time(top_n = NULL) %>%
     standardize_counts() %>% 
     get_entry_exit_counts() %>%
     get_entry_exit_counts_window(time, "m") %>%
